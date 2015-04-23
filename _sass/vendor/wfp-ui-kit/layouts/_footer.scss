@@ -1,0 +1,115 @@
+// Layouts: Footer
+// Project: WFPUI
+// Author: Matthew Morek (me@matthewmorek.com)
+// URL: http://matthewmorek.com
+
+.footer {
+  border-top: 4px solid $grey-contrast;
+  font-size: 0.875em;
+  text-align: center;
+  margin-top: 2em;
+
+  .panel {
+    &-left,
+    &-right {
+      h4, ul {
+        margin: 0;
+      }
+    }
+    &-left {
+      text-align: center;
+      @include media-query($md-screen){
+        text-align: left;
+      }
+    }
+    &-right {
+      text-align: center;
+      @include media-query($md-screen){
+        text-align: right;
+      }
+    }
+  }
+
+  @include media-query($md-screen) {
+    text-align: inherit;
+  }
+}
+
+.footer-top {
+  padding: 0.25em 0;
+  .social-media {
+    margin: 0.75em 0;
+    text-align: center;
+    overflow: hidden;
+
+    .title {
+      margin: 0.5em 0;
+    }
+
+    .social-block {
+      display: inline-block;
+      vertical-align: baseline;
+      &.twitter {
+        max-width: 108px;
+      }
+      &.facebook {
+        max-width: 64px;
+      }
+      &.google-plus {
+        max-width: 85px;
+      }
+    }
+
+    @include media-query($md-screen) {
+      text-align: inherit;
+    }
+  }
+
+  .logo {
+    text-align: center;
+
+    img {
+      max-width: 208px;
+    }
+
+    @include media-query($md-screen) {
+      text-align: right;
+    }
+  }
+}
+
+.footer-minimal {
+  h4, p {
+    margin: 0.5em 0;
+  }
+  h4 {
+    margin-bottom: 1em;
+  }
+}
+
+.footer-bottom {
+  border-top: 1px solid $grey-light;
+  padding: 0;
+
+  .copyrights {
+    @include media-query($md-screen) {
+      text-align: inherit;
+    }
+  }
+
+  .site-links {
+    text-align: center;
+
+    .inline-list {
+      @extend %no-list;
+      li {
+        display: inline;
+        margin: 0;
+        margin-left: 1em;
+      }
+    }
+    @include media-query($md-screen) {
+      text-align: right;
+    }
+  }
+}
