@@ -1,0 +1,26 @@
+# Site settings
+title: "WFP Editorial Guide"
+email: "me@matthewmorek.com"
+description: ""
+baseurl: "/brand/editorial" # WFP CDN
+url: "https://cdn.wfp.org/" # WFP CDN
+
+exclude: ["*.sublime-*", "*.sh", "*.yml", "*.DS_*"]
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  input: GFM
+
+category-list: [Writing Foo The Web]
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
