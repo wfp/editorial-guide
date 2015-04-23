@@ -14,7 +14,7 @@ highlighter: pygments
 kramdown:
   input: GFM
 
-category-list: [Writing For The Web]
+category-list: [Writing For The Web, Publishing On The Web, Content Formatting]
 
 # Defaults
 defaults:
