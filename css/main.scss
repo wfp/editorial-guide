@@ -3,9 +3,13 @@
 ---
 @charset "utf-8";
 
-@import "vendor/wfp-ui-kit/wfpui";
-@import "vars";
-@import "mixins";
-@import "layout";
-@import "chrome";
-@import "print";
+// Import external libs
+@import "../components/wfp-ui-kit/wfpui";
+// Import baseline init vars
+@import "init";
+// Import partials
+@import "partials/mixins";
+@import "partials/general";
+@import "partials/chrome";
+// Import components
+@import "components/print";
