@@ -1,5 +1,5 @@
 # Site settings
-title: WFP Editorial Guide
+title: WFP Editorial 
 email: ""
 description: ""
 baseurl: "." # the subpath of your site, e.g. /blog
@@ -14,7 +14,7 @@ highlighter: pygments
 kramdown:
   input: GFM
 
-category-list: [Writing For The Web, Publishing On The Web, Content Formatting]
+category-list: [Style Guidelines, Reference]
 
 # Defaults
 defaults:
