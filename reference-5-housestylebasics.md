@@ -1,7 +1,7 @@
 ---
 title: WFP House Style Basics
-permalink: /styleguidelines/eng-house-style-basics/
-categories: Style Guidelines
+permalink: /reference/housestylebasics/
+categories: Reference
 layout: page
 resource: true
 ---

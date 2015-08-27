@@ -1,6 +1,6 @@
 ---
-title: Words Index
-permalink: /reference/words/
+title: Word Index
+permalink: /reference/wordindex/
 categories: Reference
 layout: page
 resource: true

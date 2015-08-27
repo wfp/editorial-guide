@@ -1,6 +1,6 @@
 ---
 title: English Acronyms
-permalink: /reference/eng-acronyms/
+permalink: /reference/englishacronyms/
 categories: Reference
 layout: page
 resource: true
