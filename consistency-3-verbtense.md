@@ -1,7 +1,7 @@
 ---
 title: Verb Tense
-permalink: /verb-tense/verb-tense/
-categories: Verb Tense
+permalink: /consistency/verb-tense/
+categories: Consistency
 layout: page
 resource: true
 ---
