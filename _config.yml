@@ -14,7 +14,7 @@ highlighter: pygments
 kramdown:
   input: GFM
 
-category-list: [Audience, Basics, Sentence Structure, Consistency, Verb Tense, Usage, Vocabulary, Abbreviations and Acronyms, Spelling and Terminology, Word Treatment; Ellipsis, Detail, Numbers and Units, Place Names, Reference, Bibliographies, Tables, Things to Avoid, Formats, Your Document after Editing]
+category-list: [Audience, Basics, Sentence Structure, Consistency, Usage, Vocabulary, Abbreviations and Acronyms, Spelling and Terminology, Word Treatment; Ellipsis, Detail, Numbers and Units, Place Names, Reference, Bibliographies, Tables]
 
 # Defaults
 defaults:
