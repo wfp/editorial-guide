@@ -5,6 +5,19 @@ categories: Basics
 layout: page
 resource: true
 ---
+<div class="content-nav">
+	<h4>Contents</h4>
+	<ol>
+		<li><a href="#prepositions">Prepositions</a></li>
+		<li><a href="#its-and-its">Its and it's</a></li>
+		<li><a href="#like-or-as">Like or As</a></li>
+		<li><a href="#single-and-plural">Single and Plural</a></li>
+		<li><a href="#that-or-which">That or Which?</a></li>
+		<li><a href="#possessives">Possessives</a></li>
+		<li><a href="#split-infinitives">Split Infinitives</a></li>
+	</ol>
+</div>
+
 ### Prepositions
 
 In formal writing prepositions should not be placed at the end of a clause or sentence, but there are many circumstances in which a preposition may or even must be so placed, especially to avoid what Sir Winston Churchill called "the kind of English up with which I will not put".

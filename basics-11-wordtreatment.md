@@ -6,6 +6,32 @@ layout: page
 resource: true
 ---
 
+<div class="content-nav">
+	<h4>Contents</h4>
+	<ol>
+		<li><a href="#capitalization">Capitalization</a></li>
+		<li><a href="#job-titles">Job Titles</a></li>
+		<li><a href="#programmes-conferences-seminars-workshops">Programmes, conferences, seminars, workshops</a></li>
+		<li><a href="#bodies-proposed-but-not-yet-established">Bodies proposed but not yet established</a></li>
+		<li><a href="#hyphenated-phrases">Hyphenated phrases</a></li>
+		<li><a href="#references-to-parts-of-documents">References to parts of documents</a></li>
+		<li><a href="#titles-of-documents-and-publications">Titles of documents and publications
+</a></li>
+		<li><a href="#government-names">Government names</a></li>
+		<li><a href="#italics">Italics</a></li>
+		<li><a href="#ellipsisdots">Ellipsis/dots</a></li>
+		<li><a href="#spacing">Spacing</a></li>
+		<li><a href="#full-stops">Full stops</a></li>
+		<li><a href="#commas">Commas</a></li>
+		<li><a href="#colons">Colons</a></li>
+		<li><a href="#semicolons">Semicolons</a></li>
+		<li><a href="#hyphens">Hyphens</a></li>
+		<li><a href="#en-dashes">En-dashes</a></li>
+		<li><a href="#parentheses-or-brackets">Parentheses, or brackets</a></li>
+		<li><a href="#quotation-marks">Quotation marks</a></li>
+	</ol>
+</div>
+
 ### Capitalization
 
 

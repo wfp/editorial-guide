@@ -7,7 +7,7 @@ resource: true
 ---
 
 | Full | Acronym |
-|:-----------|-------------|
+|:-----------|:-------------|
 | Advisory Committee on Administrative and Budgetary Questions | ACABQ |
 | Administrative Committee on Coordination | ACC |
 | _Action contre la Faim_ (Action Against Hunger) | ACF |
