@@ -1,5 +1,5 @@
 ---
-title: Detail Introduction
+title: Introduction
 permalink: /detail/introduction/
 categories: Detail
 layout: page
