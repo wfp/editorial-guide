@@ -1,6 +1,6 @@
 ---
-title: Detail
-permalink: /detail/detail/
+title: Detail Introduction
+permalink: /detail/introduction/
 categories: Detail
 layout: page
 resource: true

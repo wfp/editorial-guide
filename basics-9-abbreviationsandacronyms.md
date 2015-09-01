@@ -1,10 +1,12 @@
 ---
 title: Abbreviations and Acronyms
-permalink: /usage/abbreviations-and-acronyms/
-categories: Abbreviations and Acronyms
+permalink: /basics/abbreviations-and-acronyms/
+categories: Basics
 layout: page
 resource: true
 ---
+
+### Abbreviations and Acronyms
 
 
 Keep the use of abbreviations and acronyms to a minimum.

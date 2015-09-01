@@ -1,5 +1,5 @@
 ---
-title: WFP House Style Basics
+title: House Style Basics
 permalink: /reference/housestylebasics/
 categories: Reference
 layout: page

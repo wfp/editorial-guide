@@ -1,7 +1,7 @@
 ---
-title: Audience Introduction
-permalink: /audience/introduction/
-categories: Audience
+title: Introduction
+permalink: /basics/introduction/
+categories: Basics
 layout: page
 resource: true
 ---

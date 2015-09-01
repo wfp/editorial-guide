@@ -1,7 +1,7 @@
 ---
 title: Tables
-permalink: /tables/tables/
-categories: Tables
+permalink: /detail/tables/
+categories: Detail
 layout: page
 resource: true
 ---

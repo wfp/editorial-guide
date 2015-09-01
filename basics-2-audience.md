@@ -1,7 +1,7 @@
 ---
-title: Multi Channel Communication
-permalink: /audience/multichannelcommunication/
-categories: Audience
+title: Audience
+permalink: /basics/audience/
+categories: Basics
 layout: page
 resource: true
 ---

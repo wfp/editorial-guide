@@ -1,7 +1,7 @@
 ---
 title: Numbers and Units
-permalink: /numbers-and-units/numbers-and-units/
-categories: Numbers and Units
+permalink: /detail/numbers-and-units/
+categories: Detail
 layout: page
 resource: true
 ---

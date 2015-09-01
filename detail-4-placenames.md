@@ -1,10 +1,12 @@
 ---
-title: Geographical Terms
-permalink: /place-names/geographical-terms/
-categories: Place Names
+title: Place Names
+permalink: /detail/place-names/
+categories: Detail
 layout: page
 resource: true
 ---
+
+### Geographical Terms
 
 Check the names of countries, towns etc. in an atlas, on WFPgo, the internet or in this guide.
 

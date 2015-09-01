@@ -1,11 +1,11 @@
 ---
-title: WFP Documents
-permalink: /reference/wfpdocuments/
-categories: Reference
+title: Documents
+permalink: /detail/documents/
+categories: Detail
 layout: page
 resource: true
 ---
-### WFP documents
+
 
 WFP documents should be referred to by the full title in roman font inside quotation marks, followed by the reference number in brackets. For example:
 
