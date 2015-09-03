@@ -3,6 +3,6 @@ layout: page
 title: WFP Editorial Guide
 ---
 
-Bacon ipsum dolor amet shoulder beef ribs corned beef, andouille turkey porchetta fatback capicola spare ribs ham. Pork loin cupim shankle beef ribs, chuck shoulder brisket meatloaf beef boudin ham. Salami spare ribs flank fatback, shoulder turkey prosciutto tenderloin filet mignon tri-tip hamburger. Sausage boudin turkey meatloaf picanha ball tip fatback salami prosciutto brisket ground round flank tenderloin.
+This WFP Style Guide is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP style.
 
-Pig biltong kevin chuck swine corned beef picanha porchetta alcatra boudin t-bone tongue pork loin. Tri-tip t-bone rump cow biltong venison frankfurter doner andouille pig capicola brisket tongue pancetta ball tip. Beef ribs short ribs ground round t-bone turducken brisket tongue shankle rump bresaola pig cow.
+The aim is to help authors to produce clear, consistent, readable texts that are accessible to an audience that varies enormously in terms of language and culture. The guide sets out the style conventions used in WFP and advises on usage. Preferred word forms and spellings, acronyms and country names may be found INSERT LINKS.
