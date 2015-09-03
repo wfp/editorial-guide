@@ -1,0 +1,12 @@
+// Layouts: Masthead
+// Project: WFPUI
+// Author: James Home james@matthewmorek.com / james@jameshome.co
+// URL: 
+// Description: Enable scrolling on menu
+
+.main-nav.opened {
+	overflow-y: auto;
+	direction: rtl;
+	height: 100%;
+}
+
