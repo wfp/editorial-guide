@@ -3,14 +3,31 @@
 // Author: Matthew Morek (me@matthewmorek.com), James Home (james@jameshome.co)
 // URL: http://matthewmorek.com
 
-/* closed is display block, should be none */
+/* "right: 0" and "display: none" was previously hiding the toggle nav's transition and transform  */
 .masthead-narrow .navigation .main-nav.closed {
-	display: none;
+	display: block;
+	right: 0;
 }
 
+/* to override the default transparent colour, to remove padding at the top of the toggle nav */
 .masthead-narrow .navigation .main-nav.opened {
 	background-color: $grey;
 	padding: 0;
+}
+
+// *! the following properties in .main-nav within "wfp/ui" need to be deleted
+.main-nav {
+	max-width: 320px !important;
+	// transform: none; 
+}
+
+// so that transform value within .main-nav does not prevent the transform from activating
+.main-nav.closed {
+    transform: translate3d(320px, 0, 0) !important;
+}
+
+.main-nav.opened {
+    transform: translate3d(0, 0, 0) !important;
 }
 
 
@@ -300,7 +317,7 @@
     transition: transform 0.25s cubic-bezier(0.4, 0, 1, 1);
   }
   &.opened {
-    transform: translate3d(0,0,0);
+    transform: translate3d(0px, 0px, 0px);
     transition: transform 0.4s cubic-bezier(0.15, 1.23, 0.84, 1.04);
   }
 }
@@ -323,3 +340,4 @@
     }
   }
 }
+
