@@ -3,3 +3,4 @@ _site
 .DS_Store
 components
 _components
+_config_dev.yml
