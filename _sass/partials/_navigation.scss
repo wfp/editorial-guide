@@ -17,17 +17,17 @@
 
 // *! the following properties in .main-nav within "wfp/ui" need to be deleted
 .main-nav {
-	max-width: 320px !important;
-	// transform: none; 
+  max-width: 320px !important;
+  // transform: none;
 }
 
 // so that transform value within .main-nav does not prevent the transform from activating
 .main-nav.closed {
-    transform: translate3d(320px, 0, 0) !important;
+  transform: translate3d(320px, 0, 0) !important;
 }
 
 .main-nav.opened {
-    transform: translate3d(0, 0, 0) !important;
+  transform: translate3d(0, 0, 0) !important;
 }
 
 
@@ -183,10 +183,6 @@
 .nav-trigger {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
   user-select: none;
   @include media-query($md-screen) {
     display: none;
@@ -205,6 +201,8 @@
   padding-top: 1em;
   z-index: 100;
   background-color: $grey;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 
   @include media-query($md-screen) {
     position: static;
@@ -340,4 +338,3 @@
     }
   }
 }
-
