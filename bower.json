@@ -19,6 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "wfp-ui-kit": "wfp/ui#develop"
+    "wfp-ui-kit": "wfp/ui#0.2.0"
   }
 }

@@ -5,12 +5,14 @@
 
 // Import external libs
 @import "../_components/wfp-ui-kit/wfpui";
+
 // Import baseline init vars
 @import "init";
 // Import partials
 @import "partials/mixins";
 @import "partials/general";
 @import "partials/chrome";
+@import "partials/navigation";
 @import "partials/nav-scroll";
 // Import components
 @import "components/print";
