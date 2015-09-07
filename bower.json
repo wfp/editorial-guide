@@ -1,0 +1,24 @@
+{
+  "name": "editorial-guide",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wfp/editorial-guide",
+  "authors": [
+    "WFP"
+  ],
+  "description": "WFP Editorial Guide",
+  "keywords": [
+    "editorial",
+    "guide"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wfp-ui-kit": "wfp/ui#0.2.0"
+  }
+}

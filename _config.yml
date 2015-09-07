@@ -1,5 +1,5 @@
 # Site settings
-title: "WFP Editorial Guide"
+title: "WFP Editorial "
 email: "me@matthewmorek.com"
 description: ""
 baseurl: "/brand/editorial" # WFP CDN
@@ -14,7 +14,7 @@ highlighter: pygments
 kramdown:
   input: GFM
 
-category-list: [Writing For The Web, Publishing On The Web, Content Formatting]
+category-list: [Basics, Detail, Reference]
 
 # Defaults
 defaults:
