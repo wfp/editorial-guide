@@ -1,8 +1,8 @@
 # Site settings
-title: "WFP Editorial "
+title: "WFP Editorial Guide"
 email: "me@matthewmorek.com"
 description: ""
-baseurl: "/brand/editorial" # WFP CDN
+baseurl: "/guides/editorial" # WFP CDN
 url: "https://cdn.wfp.org/" # WFP CDN
 
 exclude: ["*.sublime-*", "*.sh", "*.yml", "*.DS_*"]
