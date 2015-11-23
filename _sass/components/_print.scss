@@ -68,4 +68,17 @@
   h3 {
     page-break-after: avoid;
   }
+  .navigation,
+  .footer,
+  .content-nav,
+  .masthead-narrow {
+    display: none !important;
+  }
+
+  .wrapper {
+    margin: 0;
+  }
+  .space-around-narrow {
+    padding: 0;
+  }
 }
