@@ -75,8 +75,10 @@
     display: none !important;
   }
 
-  .wrapper {
-    margin: 0;
+  .wrapper,
+  .page-header,
+  .page-title {
+    margin: 0 !important;
   }
   .space-around-narrow {
     padding: 0;
