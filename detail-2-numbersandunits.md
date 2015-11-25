@@ -54,16 +54,19 @@ Use __percent__ (not per cent or %) in text. The use of % is acceptable only in 
 Use the abbreviations __USD__ for United States dollars and __EUR__ for Euros. In text, one decimal place is preferred for all amounts in millions:
 
 > __Food-for-work activities totalled USD 23.2 million.__
+{: .notice }
 
 Two decimal places are preferred for all amounts in billions:
 
 > __The programme of work is expected to total 4.21 billion.__
+{: .notice }
 
 There will be exceptions to this in financial documents, in which amounts are given in full: e.g. USD 23,231,059.
 
 In text, amounts under 1 million are written in hundreds of thousands (without decimal places) rather than using the million unit measure:
 
 > __USD873,300 will finance technical assistance and special studies.__ (not USD 0.873 million.)
+{: .notice }
 
 ### Dates
 
