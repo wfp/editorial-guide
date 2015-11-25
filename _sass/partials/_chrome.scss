@@ -406,17 +406,17 @@
   }
 }
 
+
+
 .notice {
-  background-color: #fafafa;
-  padding: 0.5em 1em;
-  border-left: 6px solid #FFBA3A;
-  border-radius: 2px;
-  font-size: 0.875em;
-  line-height: 1.4;
-  margin: 1em 0;
-  > * {
-    margin: 0.25em 0;
-  }
+  @include highlight(#FFBA3A);
+}
+.positive {
+  @include highlight($green);
+}
+
+.negative {
+  @include highlight($red);
 }
 
 // .masthead-narrow {

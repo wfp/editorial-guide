@@ -58,12 +58,15 @@ If a list consists of __names of countries__, make sure they are in __alphabetic
 Be consistent in the use of tense. When you begin in the past, stay in the past:
 
 > The evaluation mission __noted__ that the beneficiary schools __had__ few teaching materials.
+{: .notice }
 
 A common error is the use of the present perfect to describe an event that has already ended. The correct verb tense for this case is past *simple*:
 
 > Between 2003 and 2005, the enrolment rate __fell__ from 54 percent to 43 percent.
+{: .positive }
 
 > not: Between 2003 and 2005, the enrolment rate has fallen from 54 percent to 43 percent.
+{: .negative }
 
 #### The subjunctive
 The subjunctive mood expresses a wished-for, hypothetical or contingent relationship between subject and predicate, as for example in "... if I *were* you ..." or "... be *that* as it may ...". It is used after verbs such as "recommend" and "suggest":

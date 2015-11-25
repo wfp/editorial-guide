@@ -35,31 +35,40 @@ The word __it's__ is a contraction of __it is__. The apostrophe does not indicat
 The word its is a __possessive adjective__; it does not contain an apostrophe.
 
 > Oh, __it's__ [= it is] just the dog wagging __its__ [possessive] tail.
+{: .notice }
 
 > Why is today a holiday? __It's__ for the country to celebrate __its__ independence.
+{: .notice }
 
 > The country office gives __its__ staff extra security training; __it's__ one of the reasons why people are happy to work here.
+{: .notice }
 
 ### Like or As
 
 The word introduced by *like* must be a noun or pronoun; it must not be governed by a preposition, but by the subject or object of the main verb.
 
 > __The commodities will be used as a stopgap.__ (The commodities *are* the stopgap.) not: "The commodities will be used like a stopgap."
+{: .notice }
 
 > __The document looks like an agenda.__ not: "The document looks like it is an agenda." (The document is not an agenda.)
+{: .notice }
 
 Be careful with constructions where like or as could be used:
 
 > __He talks like an expert.__ (He sounds like an expert but may not
 be one.)
+{: .notice }
 
 > __He is speaking as an expert.__ (He is an expert and is speaking in that capacity.)
+{: .notice }
 
 Use such as to give examples.
 
 > __In mountainous countries such as Peru or Nepal ...__
+{: .notice }
 
 > Do NOT write "... countries *like* Peru or Nepal...".
+{: .notice }
 
 ### Single and Plural
 
@@ -131,10 +140,12 @@ Contrary to common belief, there is a difference between that and which. Using o
 __*That*__ (restrictive) is defining:
 
 > __The northern regions that are prone to drought are the ones WFP will target.__ (There might be other northern regions, but it is only those that are susceptible to drought that are being targeted for aid.)
+{: .notice }
 
 __*Which*__ (non-restrictive) is not defining; it gives additional information that could be omitted and not affect the intended message of the sentence.
 
 > __The northern regions, which are prone to drought, will each receive 450 mt of food.__(Being drought-prone is a characteristic of the northern regions.)
+{: .notice }
 
 __*That*__ , as a relative pronoun, is not preceded by a comma; __*which*__ , as a relative pronoun, normally is.
 
@@ -150,6 +161,7 @@ There are three main forms of possessive:
 The sense of the possessive can also be conveyed by using an adjective/noun construction: e.g. "office equipment", "project objectives"; the adjective is singular .
 
 > Do not use the's form of possessive with inanimate things: use __"the capacity of the trucks"__, not "the trucks' capacity".
+{: .negative }
 
 
 ### Split Infinitives
@@ -157,13 +169,17 @@ The sense of the possessive can also be conveyed by using an adjective/noun cons
 A split infinitive is the separation of the verbal part of an infinitive (e.g. "to understand") from its particle "to". Do not split infinitives: place the adverb before or after the infinitive it modifies or use a structure that avoids a split infinitive. For example:
 
 > &#10004; __WFP intends to develop the project further in the next six months.__
+{: .positive }
 
 > &#10008; (not: WFP intends to further develop ...)
+{: .negative }
 
 
 > &#10004; __The document will help the Board to enhance its understanding of the matter..__
+{: .positive }
 
 > &#10008; (not: The document will help the Board to better understand)
+{: .negative }
 
 
 ### Officialise
@@ -257,7 +273,7 @@ __dashboard__. In corporatespeak it means "a set of" or perhaps "a system of".
 
 __framework__. Use "office", "structure", "organization", "system", "process", "plan", "table", "project", as appropriate. Exception: United Nations Development Assistance Framework (UNDAF).
 
-__methodology__. Prefer "methods". 
+__methodology__. Prefer "methods".
 
 __prior__ to. Use "before".
 

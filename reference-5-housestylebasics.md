@@ -9,16 +9,16 @@ resource: true
 _Please note that a full-length version of these guidelines is available._
 
 ## Audience, Structure and Style
-Remember that many of those who read documents in English are not mother-tongue users of English and that nearly all documents have to be translated into other languages. Use direct language, avoiding technical language and slang, be brief and avoid repetition. Aim for clarity, accuracy, continuity and consistency. 
+Remember that many of those who read documents in English are not mother-tongue users of English and that nearly all documents have to be translated into other languages. Use direct language, avoiding technical language and slang, be brief and avoid repetition. Aim for clarity, accuracy, continuity and consistency.
 
 ## Spelling and Punctuation
 English (UK) is the standard spelling, with some exceptions. The most notable exception is ‘z’ rather than ‘s’, as in organization, mobilize, synthesize, realization, etc. However, analyse is spelled with an ‘s’, as are exercise, advertise, merchandise, catalyse, paralyse. Respect the name of organizations, as in Organisation for Economic Co-operation and Development, the titles of books or articles and the national spellings of organizations or programmes. (See the full-length WFP Guide, especially “Spelling and Terminology” and “List of Words Frequently Used in WFP Documents”; check the Shorter Oxford English Dictionary or their on-line “ask oxford”.)
 In lists, omit the comma before the and (or the or) preceding the last item (e.g. cereals, pulses and oil) unless it is necessary to avoid ambiguity (e.g. design, monitoring and evaluation, and feedback).
 
 ## Abbreviations and Acronyms
-Acronyms should be spelt out in full at their first occurrence in text. 
+Acronyms should be spelt out in full at their first occurrence in text.
 Non-English acronyms should be spelled out in italic, followed in brackets by the English equivalent.
-The only countries referred to by an acronym are the Democratic People’s Republic of Korea (DPRK) and the Democratic Republic of the Congo (DRC). For names of countries, adjectives of nationality and denominations of currency, consult the FAOTERM Names of Countries. 
+The only countries referred to by an acronym are the Democratic People’s Republic of Korea (DPRK) and the Democratic Republic of the Congo (DRC). For names of countries, adjectives of nationality and denominations of currency, consult the FAOTERM Names of Countries.
 Never use acronyms for governments (e.g. the Government of Kenya, not GoK) or for names of countries (e.g. the United Kingdom, not the UK). World Bank is never abbreviated.
 For dollars use USD, with a hard space before the numerals and between the numeral and million (e.g. USD 246.1 million). For the euro use EUR (e.g. EUR 356,128).
 When used with a numeral, units of measurement are not written out (e.g. 2 kg, 1,200 kcal, 46 km3, 504 mt, 4 ha), except for litre.
@@ -109,8 +109,10 @@ References __*in footnotes*__ should include the author/source, title and public
 References to books __*in a References section*__ should include *author (surname, first initial)*, year of publication, __title__, city of publication and publisher. References for articles include author, article title, __journal title__, volume(issue number): page numbers. For more than one author, use & between names. See examples below for punctuation.
 
 > McCullough, E., Pingali, P. & Stamoulis, K., eds. 2008. The Transformation of Agri-Food Systems: Globalization, Supply Chains and Smallholder Farmers. London, Earthscan.
+{: .notice }
 
 > Smith, J. 1999. Feeding Children. Journal of Nutrition, 8(6): 22–23.
+{: .notice }
 
 ## Fonts
 
