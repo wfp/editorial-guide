@@ -14,7 +14,7 @@ highlighter: pygments
 kramdown:
   input: GFM
 
-category-list: [Basics, Detail, Reference]
+category-list: [Contents, Reference]
 
 # Defaults
 defaults:
