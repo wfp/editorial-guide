@@ -1,7 +1,7 @@
 ---
-title: Sentence Structure
-permalink: /basics/sentence-structure/
-categories: Basics
+title: Sentences
+permalink: /content/sentences/
+categories: Content
 layout: page
 resource: true
 ---

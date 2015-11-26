@@ -1,13 +1,13 @@
 ---
-title: Things to Avoid
-permalink: /things-to-avoid/things-to-avoid/
-categories: Things to Avoid
+title: More information on things to avoid
+permalink: /content/more-information-on-things-to-avoid/
+categories: Content
 layout: page
 resource: true
 ---
 
 ### Officialese
-Avoid jargon, buzzwords and buzz phrases. They obscure meaning and make documents more difficult to understand and to translate.
+void jargon, buzzwords and buzz phrases. They obscure meaning and make documents more difficult to understand and to translate.
 
 __Redundant words and words to avoid__
 
@@ -96,7 +96,7 @@ __dashboard__. In corporatespeak it means "a set of" or perhaps "a system of".
 
 __framework__. Use "office", "structure", "organization", "system", "process", "plan", "table", "project", as appropriate. Exception: United Nations Development Assistance Framework (UNDAF).
 
-__methodology__. Prefer "methods". 
+__methodology__. Prefer "methods".
 
 __prior__ to. Use "before".
 

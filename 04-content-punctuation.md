@@ -1,7 +1,7 @@
 ---
 title: Punctuation
-permalink: /word-treatment-ellipsis/punctuation/
-categories: Word Treatment; Ellipsis
+permalink: /content/punctuation/
+categories: Content
 layout: page
 resource: true
 ---
@@ -28,32 +28,40 @@ __When to use a comma__
 
 __To separate clauses__ in a compound sentence, especially when the subject changes in mid-sentence.
 
+
 > __The Chairman__ [subject 1] __selected the representative of the Netherlands to lead the subcommittee, and the committee__ [subject 2] __agreed.__
+{: .notice }
 
 When subordinate phrases or clauses are used that are separated by commas from the main part of the sentence, it should always be possible to lift the clauses or phrases out, leaving the rest of the sentence complete.
 
 > __At the start of the year, the crop looked promising.__
+{: .notice }
 
 > __We feel, whatever others may think, that the project is a good one.__
+{: .notice }
 
 __Between adjectives.__ Use a comma between adjectives that give similar kinds
 of information.
 
 > __It was a well-planned, effective project.__
+{: .notice }
 
 __When not to Use a Comma__
 
 In lists, omit the comma before the *and* (or before the (*or*) preceding the last item.
 
 > __The rations included corn-soya blend (CSB), rice, oil and salt.__
+{: .notice }
 
 > __Food-for-work activities take place on Mondays, Wednesdays or Fridays.__
+{: .notice }
 
 Exception:
 
 Use a comma if the penultimate item also contains an "and" or is necessary to avoid ambiguity.
 
 > __The workshop covered orientation, monitoring and evaluation, and feedback.__
+{: .notice }
 
 ### Colons
 A colon is generally followed by a lowercase letter and is usually used to introduce a list or a definition.

@@ -1,7 +1,7 @@
 ---
 title: Tables
-permalink: /detail/tables/
-categories: Detail
+permalink: /content/tables/
+categories: Content
 layout: page
 resource: true
 ---
@@ -10,7 +10,7 @@ Number tables in sequence. Each table should have a title that describes it accu
 
 Material that would be better off in two separate tables such as data that, although related, are organized differently and have different column headings should not be put in a single table to save space.
 
-Data adequately treated in the text or in a figure should not be repeated in tabular form. 
+Data adequately treated in the text or in a figure should not be repeated in tabular form.
 
 Similarly, there is no need to create a table if it would consist of only one column or row of data; such data should be described in the text, as in the following example:
 

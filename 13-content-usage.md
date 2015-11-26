@@ -1,7 +1,7 @@
 ---
 title: Usage
-permalink: /basics/usage/
-categories: Basics
+permalink: /content/usage/
+categories: Content
 layout: page
 resource: true
 ---

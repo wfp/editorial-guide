@@ -1,7 +1,7 @@
 ---
 title: Bibliographies
-permalink: /detail/bibliographies/
-categories: Detail
+permalink: /content/bibliographies/
+categories: Content
 layout: page
 resource: true
 ---
