@@ -1,11 +1,11 @@
 ---
-title: Footnotes
-permalink: /detail/footnotes/
-categories: Detail
+title: References
+permalink: /content/references/
+categories: Content
 layout: page
 resource: true
 ---
-
+### Footnotes
 Footnotes should be brief, limited to providing references or extra information that would be out of context in the body of the text.
 
 The accepted footnote style for published references is:

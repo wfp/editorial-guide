@@ -1,7 +1,7 @@
 ---
-title: Sentence Structure
-permalink: /basics/sentence-structure/
-categories: Basics
+title: Sentences
+permalink: /content/sentences/
+categories: Content
 layout: page
 resource: true
 ---
@@ -12,14 +12,18 @@ resource: true
 In English, the usual sentence structure is subject, followed by verb, followed by object or complement. Keep the verb and object close to the subject. For example:
 
 > &#10004; __If current trends continue, by the turn of the century tourism__ [subject] __will displace__ [verb] __agriculture__ [object] __as the island's main industry.__
+{: .positive }
 
 > &#10008; not: Tourism, if current trends continue, by the turn of the century will displace agriculture as the island's main industry.
+{: .negative }
 
 Don't appear to change subject in mid-sentence; for example, prepositional phrases should be adjacent to the noun they refer to:
 
 > &#10004; With its numerous beaches, the island offers good prospects for tourism.
+{: .positive }
 
 > &#10008; not: With its with numerous beaches, tourism has good prospects in the island.
+{: .negative }
 
 ### Long Sentences
 
@@ -32,8 +36,10 @@ Avoid long complicated sentences. Short, clear sentences convey meaning more eff
 Choose the active voice over the passive if you can.
 
 > &#10004; WFP responded quickly to decentralization.
+{: .positive }
 
 > &#10008; not "Decentralization was responded to quickly by WFP."
+{: .negative }
 
 However, if the writer wishes to be impersonal, perhaps to avoid implications of blame, the passive voice is the better choice.
 
@@ -42,6 +48,7 @@ Take care with word order and subject pronouns. Words placed in the wrong order 
 Consider the meaning of this:
 
 > "The woman who shot herself in the foot accidentally recovered".
+{: .notice }
 
 The line should have read: __The woman who accidentally shot herself in the foot recovered__.
 

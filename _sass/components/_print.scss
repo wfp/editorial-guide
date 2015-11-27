@@ -14,6 +14,7 @@
   a,
   a:visited {
     text-decoration: underline;
+    border-bottom: 0;
   }
 
   a[href]:after {
@@ -67,5 +68,39 @@
   h2,
   h3 {
     page-break-after: avoid;
+  }
+  .navigation,
+  .footer,
+  .content-nav,
+  .masthead-narrow {
+    display: none !important;
+  }
+
+  .wrapper,
+  .page-header,
+  .page-title {
+    margin: 0 !important;
+  }
+  .space-around-narrow {
+    padding: 0;
+  }
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 15px !important;
+  }
+  body {
+    font-size: 0.7em !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    font-family: Verdana !important;
   }
 }

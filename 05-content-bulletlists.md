@@ -1,38 +1,10 @@
 ---
-title: Consistency
-permalink: /basics/consistency/
-categories: Basics
+title: Bullet/List
+permalink: /content/bullet-lists/
+categories: Content
 layout: page
 resource: true
 ---
-
-### Complete Sentences
-
-Be consistent. When you use a bulleted or numbered list, make sure the items all follow the same structure - complete sentences or verb phrases or noun phrases. For example:
-
-The project is characterized by the following features:
-
-* It will provide a system of management and monitoring that will ensure sustainable use of the region's natural resources.
-* It is expected to be self-financing through user fees.
-* All stakeholders will participate in all aspects of system management.
-
-OR __verb phrases__ (each bullet point begins with a verb):
-
-The project is characterized by features that will:
-
-* provide a system of management and monitoring that will ensure sustainable use of the region's natural resources;
-* self-finance the system through user fees; and
-* allow all stakeholders to participate in all aspects of system management.
-
-Do not create lists that use all three features, as in:
-
-The project is characterized by the following features:
-
-* provision [noun] of a system of management and monitoring that will ensure sustainable use of the region's natural resources;
-* the system is expected to be self-financing [complete sentence] through user fees; and
-* allows [verb] all stakeholders to participate in all aspects of system management.
-
-### Lists/Bullets
 
 A bullet list should:
 
@@ -58,12 +30,15 @@ If a list consists of __names of countries__, make sure they are in __alphabetic
 Be consistent in the use of tense. When you begin in the past, stay in the past:
 
 > The evaluation mission __noted__ that the beneficiary schools __had__ few teaching materials.
+{: .notice }
 
 A common error is the use of the present perfect to describe an event that has already ended. The correct verb tense for this case is past *simple*:
 
 > Between 2003 and 2005, the enrolment rate __fell__ from 54 percent to 43 percent.
+{: .positive }
 
 > not: Between 2003 and 2005, the enrolment rate has fallen from 54 percent to 43 percent.
+{: .negative }
 
 #### The subjunctive
 The subjunctive mood expresses a wished-for, hypothetical or contingent relationship between subject and predicate, as for example in "... if I *were* you ..." or "... be *that* as it may ...". It is used after verbs such as "recommend" and "suggest":

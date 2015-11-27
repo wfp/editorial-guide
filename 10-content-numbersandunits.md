@@ -1,10 +1,12 @@
 ---
-title: Numbers and Units
-permalink: /detail/numbers-and-units/
-categories: Detail
+title: Numbers and units
+permalink: /content/numbers-and-units/
+categories: Content
 layout: page
 resource: true
 ---
+
+### General
 
 Numbers from one to ten are written in text as words. The numbers 11 upwards are written as numerals. Exceptions to this are:
 
