@@ -1,126 +1,14 @@
 // ==========================================================================
-// WFP Editorial Guide Styles
+// WFP UI Docs Styles
 // ==========================================================================
-
-.masthead-narrow {
-  .wrapper {
-    position: relative;
-  }
-
-  .nav-trigger {
-    @include media-query($md-screen) {
-      display: inline-block;
-    }
-  }
-
-  .main-nav {
-    &.flyout {
-      width: 100%;
-      z-index: 10;
-      text-align: left;
-      padding: 0;
-      @include box-shadow(rgba(0,0,0,0.3) 0 1px 16px);
-
-      @include media-query($md-screen) {
-        clip: auto;
-        top: 0;
-        right: 0;
-        position: fixed;
-        background-color: $grey;
-        min-height: 100vh;
-        max-height: 100%;
-        max-width: 320px;
-      }
-
-      .nav-close {
-        @include media-query($md-screen) {
-          display: block;
-        }
-      }
-
-      .pure-menu {
-        margin-bottom: 0.5em;
-        &-heading {
-          color: $grey-2;
-          border-bottom-color: $grey-3;
-          padding: 0.5em 1.5em;
-          margin-bottom: 0.5em;
-        }
-        .pure-menu-heading {
-          text-align: left;
-        }
-        ul {
-
-          @include media-query($md-screen) {
-            text-align: left;
-          }
-          li {
-            @include media-query($md-screen) {
-              display: block;
-              width: 100%;
-            }
-            a {
-              display: block;
-              font-size: 1em;
-              padding: 0.5em 1.5em;
-              &.current {
-                background-color: $grey-contrast;
-                color: $text-color;
-              }
-              &:hover {
-                @include box-shadow(none);
-              }
-            }
-          }
-        }
-      }
-    }
-  }
+code {
+  color: $grey-3;
+  background-color: lighten($yellow, 10%);
+  padding: 0.125rem 0.25rem;
 }
 
-.js {
-  .main-nav {
-    &.closed {
-      @include media-query($md-screen) {
-        transform: translate3d(320px,0,0);
-        transition: transform 0.25s cubic-bezier(0.4, 0, 1, 1);
-      }
-    }
-    &.opened {
-      @include media-query($md-screen) {
-        transform: translate3d(0,0,0);
-        transition: transform 0.4s cubic-bezier(0.15, 1.23, 0.84, 1.04);
-        position: fixed;
-        width: 100%;
-        min-height: 100vh;
-        max-height: 100%;
-        max-width: 320px;
-        right: 0;
-        line-height: initial;
-      }
-    }
-  }
-}
-
-.sub-nav {
-  display: none;
-  position: absolute;
-  top: 64px;
-  left: 0;
-  @include box-shadow(rgba(0,0,0,0.3) 0 1px 6px);
-  @include media-query($md-screen) {
-    position: static;
-    display: block;
-    @include box-shadow(none);
-  }
-  .pure-menu {
-    width: initial;
-    ul {
-      li {
-        margin: 0;
-      }
-    }
-  }
+pre > code {
+  background-color: initial;
 }
 
 
@@ -134,8 +22,8 @@
 
   h4 {
     margin: 0;
-    margin-bottom: 0.5em;
-    padding-bottom: 0.5em;
+    margin-bottom: 0.25em;
+    padding-bottom: 0.25em;
     border-bottom: 1px solid #eaeaea;
   }
 
@@ -144,11 +32,8 @@
     padding: 0 0 0 1.25em;
   }
 
-  @include media-query($md-screen) {
-    max-width: 192px;
-    float: right;
+  li {
     margin: 0;
-    margin-left: 1em;
   }
 }
 
@@ -337,11 +222,11 @@
   .tabs {
     border-radius: 2px;
     background-color: $grey-light;
-    @include box-shadow(inset rgba(0,0,0,0.1) 0 1px 4px);
+    box-shadow: inset rgba(0,0,0,0.1) 0 1px 4px;
 
     .active {
       background-color: $white;
-      @include box-shadow(rgba(0,0,0,0.1) 0 1px 3px);
+      box-shadow: rgba(0,0,0,0.1) 0 1px 3px;
       outline: none;
     }
   }
@@ -380,14 +265,14 @@
 
 .preview {
   background-color: $grey-lighter;
-  padding: ($spacing-unit * 1.5) $spacing-unit;
+  padding: 2rem 1rem;
   text-align: center;
   border-top: 2px solid $grey-light;
   border-bottom: 2px solid $grey-light;
-  margin: ($spacing-unit / 2) 0;
+  margin: 0.5rem 0;
   max-width: 100%;
   &.paragraph {
-    padding: ($spacing-unit / 2) $spacing-unit;
+    padding: 0.5rem 1rem;
     text-align: left;
   }
   &.plain {
@@ -406,21 +291,15 @@
   }
 }
 
-
-
 .notice {
-  @include highlight(#FFBA3A);
+  background-color: #fafafa;
+  padding: 0.5em 1em;
+  border-left: 6px solid #FFBA3A;
+  border-radius: 2px;
+  font-size: 0.875em;
+  line-height: 1.4;
+  margin: 1em 0;
+  > * {
+    margin: 0.25em 0;
+  }
 }
-.positive {
-  @include highlight($green);
-}
-
-.negative {
-  @include highlight($red);
-}
-
-// .masthead-narrow {
-//   .logo-container {
-//     padding: 0;
-//   }
-// }

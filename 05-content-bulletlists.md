@@ -1,3 +1,11 @@
+---
+title: Bullet/List
+permalink: /content/bullet-lists/
+categories: Content
+layout: page
+resource: true
+---
+
 A bullet list should:
 
 * introduce the list with a colon;
