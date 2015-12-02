@@ -72,7 +72,10 @@
   .navigation,
   .footer,
   .content-nav,
-  .masthead-narrow {
+  .masthead-narrow,
+  .masthead-internal .masthead--toggle,
+  .masthead-internal .masthead--btn,
+  .main-nav {
     display: none !important;
   }
 
