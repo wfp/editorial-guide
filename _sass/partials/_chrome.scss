@@ -11,27 +11,6 @@ pre > code {
   background-color: initial;
 }
 
-.sub-nav {
-  display: none;
-  position: absolute;
-  top: 64px;
-  left: 0;
-  box-shadow: rgba(0,0,0,0.3) 0 1px 6px;
-  @include media-query($md-screen) {
-    position: static;
-    display: block;
-    box-shadow: none;
-  }
-  .pure-menu {
-    width: initial;
-    ul {
-      li {
-        margin: 0;
-      }
-    }
-  }
-}
-
 
 .content-nav {
   width: 100%;
