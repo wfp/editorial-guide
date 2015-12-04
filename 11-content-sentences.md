@@ -6,7 +6,6 @@ layout: page
 resource: true
 ---
 
-
 ### Subject/Verb/Object
 
 In English, the usual sentence structure is subject, followed by verb, followed by object or complement. Keep the verb and object close to the subject. For example:
@@ -17,7 +16,7 @@ In English, the usual sentence structure is subject, followed by verb, followed 
 > &#10008; not: Tourism, if current trends continue, by the turn of the century will displace agriculture as the island's main industry.
 {: .negative }
 
-Don't appear to change subject in mid-sentence; for example, prepositional phrases should be adjacent to the noun they refer to:
+Do not appear to change subject in mid-sentence; for example, prepositional phrases should be adjacent to the noun they refer to:
 
 > &#10004; With its numerous beaches, the island offers good prospects for tourism.
 {: .positive }
@@ -29,9 +28,7 @@ Don't appear to change subject in mid-sentence; for example, prepositional phras
 
 Avoid long complicated sentences. Short, clear sentences convey meaning more effectively than a single complex structure.
 
-
 ### Active Over Passive Voice
-
 
 Choose the active voice over the passive if you can.
 
@@ -53,7 +50,6 @@ Consider the meaning of this:
 The line should have read: __The woman who accidentally shot herself in the foot recovered__.
 
 Do not pair two words where one will suffice. It is not necessary to write: "... their *relevance* and *significance* to planning and implementation ..."; the paired terms have the same meaning, so one or the other will suffice.
-
 
 The meaning is clearer in __"... their relevance to planning and implementation ...".__
 

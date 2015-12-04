@@ -8,44 +8,45 @@ resource: true
 
 Use capitals sparingly. Write Member State(s) of WFP, but member state(s)/country(ies) if it's another institution or undefined.
 
-### Job titles
+**_Job titles_**
 
 References in text to WFP job titles such as budget officer, project director and accountant are not given as acronyms or capitalized. The following titles are capitalized: Secretary-General, Executive Director, Assistant Executive Director, Regional Director, Country Director, President, Vice-President, Treasurer, Chief, External Auditor, Chief Financial Officer.
 
-### Programmes, conferences, seminars, workshops
+**_Programmes, conferences, seminars, workshops_**
 
 Once the full title is given, references to the programme, the conference, etc. are not capitalized.
 
-### Bodies proposed but not yet established
+**_Bodies proposed but not yet established_**
 
 These are not capitalized. The same holds true for references to draft conventions and treaties that do not yet exist.
 
+**_References to parts of documents_**
 
-### Hyphenated phrases
-The second word in a hyphenated phrase (and third if there is one) is also capitalized: e.g. Inter-Agency Standing Committee, After-Action Review.
+Do not capitalize *paragraph*, e.g. "In paragraph 12, reference is made to ...". However, *Annex* is capitalized, e.g. "See Annex IV". Annexes should be numbered in roman capital numerals I, II, III, etc.
 
-### References to parts of documents
-Do not capitalize paragraph, e.g. "In paragraph 12, reference is made to ...". However, Annex is capitalized, e.g. "See Annex IV". Annexes should be numbered in roman capital numerals I, II, III, etc.
+**_Titles of documents and publications_**
 
-### Titles of documents and publications
-The titles of __documents__ are set in roman in quotation marks, with capital initial
-letters except for articles and prepositions:
+The titles of **documents** are set in roman in quotation marks, with capital initial letters except for articles and prepositions.
 
-__Committee members will need a copy of "Joint Evaluation Report on the Business Process Review" for reference.__
+> **Committee members will need a copy of "Joint Evaluation Report on the Business Process Review" for reference.**
+{: .notice }
 
-For publications, use capitals for the initial letters except for articles and prepositions, and set the title in *italics*:
+For **publications**, use capitals for the initial letters except for articles and prepositions, and set the title in *italics*.
 
-__Committee members will need copies of *Eradicating Swine Fever: a Field Manual for Practitioners at the meeting.*__
+> **_Committee members will need copies of Eradicating Swine Fever: a Field Manual for Practitioners at the meeting._**
+{: .notice }
 
-### Government names
+**_Government names_**
 
-When referring to a government, use a capital letter:
+When referring to a government, use a capital letter.
 
-__The French Government ruled that ....__
+> **The French Government ruled that ....**
+{: .notice }
 
-When referring to more than one government, use a lowercase letter:
+When referring to more than one government, use a lowercase letter.
 
-__The governments of France and Morocco were asked to comment on the ruling.__
+> **The governments of France and Morocco were asked to comment on the ruling.**
+{: .notice }
 
 Words such as *committee* and *commission* take a capital letter only when used as part of a proper name. The word *Secretariat* takes a capital letter when referring to WFP.
 

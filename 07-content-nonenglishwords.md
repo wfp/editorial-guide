@@ -12,6 +12,7 @@ Some __Greek and Latin__ words have passed into common usage in English – but 
 
 * phenomenon/phenomena;
 * criterion/criteria;
-* 􏰃genus/genera;
-* 􏰃datum (rare in the singular)/data; 􏰃 forum/fora;
-* 􏰃medium/media.
+* genus/genera;
+* datum (rare in the singular)/data;
+* forum/fora;
+* medium/media.
