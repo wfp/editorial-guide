@@ -70,7 +70,6 @@
     page-break-after: avoid;
   }
   .navigation,
-  .footer,
   .content-nav,
   .masthead-narrow,
   .masthead-internal .masthead--toggle,
@@ -106,10 +105,11 @@
   p {
     font-family: Verdana !important;
   }
-  .fixed {
-    position: relative !important;
+  .masthead-internal {
+    display: none;
   }
   .space-around-narrow {
     padding: 0 !important;
   }
 }
+
