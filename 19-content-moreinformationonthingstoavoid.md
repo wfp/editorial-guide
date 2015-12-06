@@ -7,18 +7,35 @@ resource: true
 ---
 
 ### Officialese
-void jargon, buzzwords and buzz phrases. They obscure meaning and make documents more difficult to understand and to translate.
 
-__Redundant words and words to avoid__
+Avoid jargon, buzzwords and buzz phrases. They obscure meaning and make documents more difficult to understand and to translate.
+
+
+### Excessive detail
+
+Include only relevant detail needed to make your point. Too much information will weaken or obscure your argument.
+
+Consider these two sentences, which say the same thing:
+
+(i) "Food rations, including the planned quantities of fortified food commodities such as corn-soya blend (CSB) and high-energy biscuits (HEB), grain-based food items such as wheat flour, barley and rice, pulses such as beans and lentils, sugar, locally baked bread products including loaves, rolls, small pastries and traditional cakes, vegetable oil such as regionally procured olive oil and locally-produced oil pressed from sunflower seeds, and iodized and non-iodized salt were distributed fully, equitably and in a timely manner by WFP field and country office staff assisted by locally employed workers, both women and men, staff of partner and non-partner non-governmental organizations (NGOs), government counterpart staff and personnel representing selected implementing partners (IPs), to the full caseload of all refugees, internally displaced persons (IDPs) and other specific beneficiary groups, with due attention to specially targeted vulnerable groups such as pregnant and lactating women, children under 5, disabled people, women heads of households, chronically sick or elderly people and people suffering from or affected by HIV/AIDS, and in line with the objectives of the protracted relief and recovery operation (PRRO) as agreed with government representatives from ministries such as the Ministry of Health and Social Welfare, the Ministry of Food Supply and the Ministry for the Coordination of Health, Social Welfare and Food Supply." (204 words)
+(ii) "Rations were distributed." (3 words)
+
+Sentence (i) contains all possible detail, so anything of significance is obscured in the mass of information;
+
+Sentence (ii) contains no detail at all, so nothing of significance is conveyed to the reader.
+
+Neither sentence makes a clear point.
+
+
+### Redundant words and words to avoid
 
 Avoid unnecessary adjectives and adverbs: they add to the length of a document and usually impede communication.
 
 Some examples of words and expressions to avoid:
 
-
 __key.__ A *key* decision is an important or significant decision; *key* personnel are essential staff. In most cases there is no need to use a qualifier at all.
 
-_strategic.__ "Strategic" can be used to mean "affecting WFP as a whole", but do not write expressions such as "...a *strategic* policy decision...", because a decision on policy is by its nature strategic.
+__strategic.__ "Strategic" can be used to mean "affecting WFP as a whole", but do not write expressions such as "...a *strategic* policy decision...", because a decision on policy is by its nature strategic.
 
 __due to, owing to.__ Use "because of", "caused by" or "resulting from
 
@@ -66,23 +83,23 @@ __respective(ly)__, as in "... will report to their *respective* departments ...
 
 __some, approximately, more than, over__, as in "... targeting approximately 600,000 beneficiaries ...". Unnecessary.
 
-
 __specific,__ as in "... must give *specific* reasons ..." or "... in the *specific* event of an emergency ...". Unnecessary.
 
 __to the extent possible__, as in "... WFP will support the project to the *extent possible* ...". If you have to qualify, be precise, as in "as long as resources are available ..." or "provided access is granted ...".
 
-__Generic + specific__
+
+### Generic + specific
 
 Do not use a generic term followed by examples, or an example followed by a generic term, as in "... natural disasters (flood, drought, earthquake etc.) ..." or "... in a fire or other emergency ...".
 
 Some examples of words to avoid:
 
-
 __including,__ as in "... vulnerable refugees, *including* women and children ...".
 
 __namely__, as in "... the project will require a *number of inputs, namely* additional project staff, more training activities for partner staff and increased space in the existing offices ...".
 
-__Metaphors__
+
+### Metaphors
 
 Metaphors are unlikely to convey meaning to non-native speakers of English and are not readily translatable.
 
@@ -110,7 +127,9 @@ __traffic lights__. The term means "a system to identify different states or sit
 
 __window__, as in "window of opportunity". Commonly misused.
 
-__*Expressions in Latin and other languages*__
+### Latin and Greek expressions – use the English equivalents
+
+If you are determined to use a Latin or Greek expression, check the *[Shorter Oxford English Dictionary](https://en.wikipedia.org/wiki/Shorter_Oxford_English_Dictionary)*: some have passed into common usage and are set in roman (ad hoc), while others are italicized and may be transliterated (*inter alia*).
 
 | AVOID | USE |
 |:-----------|-------------|
@@ -120,9 +139,10 @@ __*Expressions in Latin and other languages*__
 | __inter alia__       |        among other things (it's almost always redundant) |
 | __modus operandi__       |        way of working; method of implementation |
 | __post-__       |        after; subsequent |
-| __vis- &agrave;-vi s       |        with regard to; regarding |
+| __vis-&agrave;-vis   |        with regard to; regarding |
 
-__Miscellaneous__
+
+### Miscellaneous
 
 __As, since, because__ and __for__. *As* and *since* are used when the reason is already well known or is less important than the rest of the sentence; they often begin the sentence. Use *because* to avoid possible confusion with the notion of time. *Because* is generally used when the reason is the most important part of the sentence. Use it rather than as or since. *For* suggests that the reason is given as an afterthought, and its clause never comes at the beginning of the sentence. Avoid it.
 
@@ -144,7 +164,6 @@ __False intensifiers__. Do not use *very, particularly, extremely*, etc. with wo
 
 __Fewer__ or __less__. Use *fewer* only when referring to items that are *countable*: "There are fewer people here today than there were yesterday." *Less* is used for *uncountable* quantities: "He has put less effort into this job."
 
-
 __Level__. Use *the* before an adjective qualifying *level*, as in "At *the* national level", not "at national level".
 
 __Male/Female.__ Use *men* and *women* as adjectives when referring to people, not male and female (exception: male or female members of a family or household): “household headed by women” (not “female-headed household”).
@@ -153,7 +172,6 @@ __Mobilize__. Does not mean *animate, encourage or stimulate*. It means "organiz
 
 __Nouns in apposition.__ The treatment depends on whether the item cited is the only one of its kind: "My sister, Barbara, has arrived" (commas before and after the noun in apposition; implies you only have one sister) or "My sister Barbara has arrived" (no commas; implies you have several sisters and the one called Barbara has arrived).
 
-- - -
 __Prepositions__. Avoid common mistakes in the use of prepositions by following these general rules:
 
 * __assist in + gerund__ (e.g. “assist in planning”; not “assist to plan”)
@@ -166,4 +184,3 @@ __Such as, including.__ *Such as* or *including* implies that you’re listing o
 
 __Synergy.__ *Synergy* means: “i) the interaction or cooperation of two or more drugs, agents, organizations, etc.,*to produce a new or enhanced effect compared with their separate effects;* ii) an instance of this”. Don’t use *synergistic* as a synonym for "cooperative", "interconnected" or "interrelated".
 
-- - -
