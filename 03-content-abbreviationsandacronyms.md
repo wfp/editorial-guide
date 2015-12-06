@@ -12,7 +12,7 @@ Acronyms should be spelt out in full at their first occurrence in text. A list o
 
 If a name appears in the text only once, write it in full.
 
-No acronyms should be used in the executive summaries of Board documents, except for WFP and HIV/AIDS.
+No acronyms should be used in the executive summaries of Executive Board documents, except for WFP and HIV/AIDS.
 
 Use the form **e-mail(s)**, lowercase (unless the term is the first word in a sentence) with hyphen.
 

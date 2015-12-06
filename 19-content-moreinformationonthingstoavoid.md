@@ -139,7 +139,7 @@ If you are determined to use a Latin or Greek expression, check the *[Shorter Ox
 | __inter alia__       |        among other things (it's almost always redundant) |
 | __modus operandi__       |        way of working; method of implementation |
 | __post-__       |        after; subsequent |
-| __vis-&agrave;-vis   |        with regard to; regarding |
+| __vis-&agrave;-vis__   |        with regard to; regarding |
 
 
 ### Miscellaneous

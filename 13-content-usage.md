@@ -63,11 +63,9 @@ Be careful with constructions where *like* or *as* could be used:
 
 Use **_such_** as to give examples.
 
-> __In mountainous countries such as Peru or Nepal ...__
+> __In mountainous countries such as Peru or Nepal ...__ Do NOT write "... countries *like* Peru or Nepal...".
 {: .notice }
 
-> Do NOT write "... countries *like* Peru or Nepal...".
-{: .notice }
 
 ### Single and plural
 

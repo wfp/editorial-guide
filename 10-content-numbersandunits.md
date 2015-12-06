@@ -81,15 +81,15 @@ Write a period covering a number of days as follows:
 
 Do not mix them.
 
-**Crop, fiscal or school years**
+**_Crop, fiscal or school years_**
 
 Use a slash (/) between years to indicate a period beginning in one calendar year and ending in another – e.g. "...the 2003/04 school year..." Calendar years. Use an en-dash (--) between years to indicate calendar years. Thus 1995–1999 would cover the five-year period including both 1995 and 1999.
 
-**Centuries**
+**_Centuries_**
 
 Write out centuries in full (e.g. “twentieth century).
 
-**Decades**
+**_Decades_**
 
 Decades should be written using numerals. For example, "In the 1990s ...". Do not use an apostrophe (not "the 1990's").
 

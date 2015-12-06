@@ -15,6 +15,7 @@ Leave only **one** letter space after a full stop at the end of a sentence. This
 Use full stops in contractions such as **e.g.** and **i.e.** and in abbreviations such as **M.Sc.** and **Ph.D.**
 
 Do not use full stops:
+
 * after people's titles, e.g. Mr, Mrs, Ms, Dr; spell out Professor;
 * in acronyms, e.g. WFP, DPRK, ODOC;
 * when the last letter of an abbreviated word is the same as that of the original word, e.g. Ltd (limited), St (Saint).
@@ -96,6 +97,7 @@ Semicolons may be used to separate items in a list that are sentences or clauses
 {: .notice }
 
 Semicolons separate the entries of a numbered or bulleted list:
+
 * assess needs;
 * train workers; and
 * monitor progress.
@@ -130,7 +132,7 @@ The second word in a hyphenated phrase (and third if there is one) is also capit
 
 An en-dash is used to connect spans of numbers or dates (e.g. 2005--2006) and where the second word in a group does not modify the first one, as in "a WFP--FAO project". It is also used to separate an interjected phrase from the main sentence, in which case it is used with a space before and after it. As with commas, it should be possible to lift out the part of the sentence within dashes, leaving the rest of the sentence complete.
 
-> **This donation –- the largest received so far -– will enable WFP to buy extra food.**
+> **This donation -- the largest received so far -- will enable WFP to buy extra food.**
 {: .notice }
 
 ### Parentheses, or brackets
