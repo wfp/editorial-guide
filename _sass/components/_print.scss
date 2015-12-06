@@ -3,6 +3,12 @@
    Inlined to avoid required HTTP connection: h5bp.com/r
    ========================================================================== */
 
+@media all {
+  .page-break {
+    display: none;
+  }
+}
+
 @media print {
   * {
     background: transparent !important;
@@ -110,6 +116,10 @@
   }
   .space-around-narrow {
     padding: 0 !important;
+  }
+  .page-break {
+    display: block;
+    page-break-after: always;
   }
 }
 
