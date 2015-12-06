@@ -8,13 +8,13 @@ resource: true
 
 ### Published sources
 
-All references must include: i) books – name of author(s) in bold, year of publication, title, place of publication and publisher; if the place of publication is a national capital, there is no need to include the name of the country; ii) articles – author, article title (in normal roman font), journal title (italic), volume (issue no. in brackets) and pages.
+All references must include: i) books – name of author(s) in bold, year of publication, title, place of publication and publisher; if the place of publication is a national capital, there is no need to include the name of the country; ii) articles – author, article title (in normal font), journal title (*italic*), volume (issue no. in brackets) and pages.
 
 Give the names of all the authors of a work. When an author has written more than one work in the same year, use a, b, etc. to differentiate, e.g. 1996a, 1996b.
 
 Use the ampersand (&) between the names of the last two authors in the bibliography but use and in the text.
 
-Titles of books and journals are italicized. Titles of articles and chapters are set in roman. The principal words are capitalized.
+Titles of books and journals are *italicized*. Titles of articles and chapters are set in a regular font (i.e. not bold or italic). The principal words are capitalized.
 
 Some examples of bibliography entries:
 

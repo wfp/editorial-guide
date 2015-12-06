@@ -7,7 +7,7 @@ This WFP Style Guide sets out the style conventions used in WFP and advises on u
 
 The aim is to help authors to produce clear, consistent, readable texts that are accessible to an audience that varies enormously in terms of language and culture.
 
-Writers should bear in mind that many of those who read documents in English are not mother-tongue users of English. Many documents have to be translated into the other official languages – Arabic, French and Spanish – and often into Russian, Chinese and Portuguese.
+Writers should bear in mind that many of those who read WFP documents in English are not mother-tongue users of English. Many documents have to be translated into the other official languages – Arabic, French and Spanish – and often into Russian, Chinese and Portuguese.
 
 Adjust the discourse to intended readers. Do not assume they have technical knowledge. Avoid jargon (see "things to avoid"). Be clear and concise. Present ideas in a logical sequence.
 

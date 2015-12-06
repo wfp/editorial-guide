@@ -20,11 +20,11 @@ For published references:
 
 Note that articles are set in normal roman font. The titles of books and book-length documents such as manuals and handbooks are *italicized*.
 
-For Board documents:
+For Executive Board documents:
 
 > "Food Aid for All" (WFP/EB.1/2007/5-A).
 
-For non-Board documents:
+For non-Executive Board documents:
 
 > **WFP.** 2007. *Fundraising: Challenges and Opportunities.* Internal report, unpublished.
 
@@ -34,7 +34,7 @@ Other documents:
 
 > **Compton, D.C.S.** 2007. *Hybrid Crops for Food Production.* London, forthcoming.
 
-**_Footnote numbering_**
+### Footnote numbering
 
 Footnote numbers should be in superscript and attached to the word(s) or phrase to which they refer, for example:
 
