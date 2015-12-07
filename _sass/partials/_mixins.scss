@@ -3,18 +3,6 @@
 // Author: Matthew Morek (me@matthewmorek.com) / James Home (james@jameshome.co)
 // URL: http://matthewmorek.com
 
-@mixin highlight($border-color) {
-  background-color: #fafafa;
-  padding: 0.5em 1em;
-  border-left: 6px solid $border-color;
-  border-radius: 2px;
-  font-size: 0.875em;
-  line-height: 1.4;
-  margin: 1em 0;
-  > * {
-    margin: 0.25em 0;
-  }
-}
 
 // Transition Mixins
 @mixin transition-property($property...) {
@@ -67,6 +55,7 @@
   font-size: 0.875em;
   line-height: 1.4;
   margin: 1em 0;
+  font-style: normal;
   > * {
     margin: 0.25em 0;
   }
