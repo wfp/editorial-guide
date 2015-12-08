@@ -80,8 +80,10 @@
   .masthead-narrow,
   .masthead-internal .masthead--toggle,
   .masthead-internal .masthead--btn,
+  .footer,
   .main-nav {
     display: none !important;
+    visibility: hidden;
   }
 
   .wrapper,
@@ -120,6 +122,9 @@
   .page-break {
     display: block;
     page-break-after: always;
+  }
+  section {
+    overflow-y: scroll !important;
   }
 }
 
