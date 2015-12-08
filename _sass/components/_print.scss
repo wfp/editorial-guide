@@ -3,6 +3,12 @@
    Inlined to avoid required HTTP connection: h5bp.com/r
    ========================================================================== */
 
+@media all {
+  .page-break {
+    display: none;
+  }
+}
+
 @media print {
   * {
     background: transparent !important;
@@ -55,7 +61,7 @@
   }
 
   @page {
-    margin: 0.5cm;
+    margin: 1cm;
   }
 
   p,
@@ -70,13 +76,14 @@
     page-break-after: avoid;
   }
   .navigation,
-  .footer,
   .content-nav,
   .masthead-narrow,
   .masthead-internal .masthead--toggle,
   .masthead-internal .masthead--btn,
+  .footer,
   .main-nav {
     display: none !important;
+    visibility: hidden;
   }
 
   .wrapper,
@@ -106,4 +113,18 @@
   p {
     font-family: Verdana !important;
   }
+  .masthead-internal {
+    display: none;
+  }
+  .space-around-narrow {
+    padding: 0 !important;
+  }
+  .page-break {
+    display: block;
+    page-break-after: always;
+  }
+  section {
+    overflow-y: scroll !important;
+  }
 }
+
