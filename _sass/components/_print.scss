@@ -126,13 +126,5 @@
   section {
     overflow-y: scroll !important;
   }
-  section:after {
-    counter-increment: page;
-    content:"Page " counter(page);
-    left: 0; 
-    top: 100%;
-    white-space: nowrap; 
-    letter-spacing: 1px;
-  }
 }
 
