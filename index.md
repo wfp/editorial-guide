@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: WFP Editorial Guide
 ---
