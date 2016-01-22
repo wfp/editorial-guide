@@ -1,20 +1,22 @@
----
-title: Technical issues for documents
+﻿---
+title: Technical guidance for documents
 permalink: /content/technical-issues-for-documents/
 categories: Content
 layout: page
 resource: true
 ---
 
-### WFP templates
+### WFP publication materials
 
-Where available, use WFP templates and formats such as those found in the Programme Guidance Manual (PGM) or at [http://go.wfp.org/web/communications/templates](http://go.wfp.org/web/communications/templates).
+For regular WFP fact sheets, brochures and publications follow the branding guidance available at http://go.wfp.org/web/wfpgo/publishingtools and use templates available here: http://go.wfp.org/web/communications/templates
 
-For WFP publications follow the branding guidance available at [http://go.wfp.org/web/wfpgo/publishingtools](http://go.wfp.org/web/wfpgo/publishingtools).
+### WFP house fonts
 
-### Formatting documents for the Executive Board
+WFP house fonts for offline publications are Verdana and Georgia
 
-The formatting of original documents should be as simple as possible: documents for the Board, the Bureau and consultations are formatted in the Document Processing Unit (DPU), where special templates are used. If graphics are to be included, the original electronic files should accompany any document that is to be formatted so that they can be inserted.
+### Executive Board documents
+
+The formatting of original documents should be as simple as possible: documents for the Board, the Bureau and consultations are formatted in the Document Processing Unit (DPU), where specific templates are used. If graphics are to be included, the original electronic files should accompany any document that is to be formatted so that they can be inserted.
 
 ### Text that cannot be changed
 
@@ -22,9 +24,8 @@ If a document going to editing contains text that cannot be changed, for example
 
 ### Font use for Executive Board Documents
 
-Use Times New Roman 12 point for Board documents.
+Use Times New Roman 11 point for Board documents.
 
-For outreach documents in particular see WFP branding guidance: [http://go.wfp.org/web/wfpgo/publishingtools](http://go.wfp.org/web/wfpgo/publishingtools).
 
 Use **_italic_** exclusively for book titles and for words and expressions in languages other than English (which must be explained in brackets).
 
