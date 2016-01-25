@@ -1,4 +1,4 @@
-﻿---
+---
 title: Technical guidance for documents
 permalink: /content/technical-issues-for-documents/
 categories: Content
