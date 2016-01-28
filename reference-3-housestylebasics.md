@@ -6,7 +6,7 @@ layout: page
 resource: true
 ---
 
-_Please note that a full-length version of these guidelines is available._
+
 
 ## Audience, Structure and Style
 Remember that many of those who read documents in English are not mother-tongue users of English and that nearly all documents have to be translated into other languages. Use direct language, avoiding technical language and slang, be brief and avoid repetition. Aim for clarity, accuracy, continuity and consistency.
