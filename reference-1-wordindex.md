@@ -5,6 +5,34 @@ categories: Reference
 layout: page
 resource: true
 ---
+<nav class="sub-nav">
+  <div class="pure-menu pure-menu-open">
+    <h6 class="pure-menu-heading">Word Index</h6>
+    <ul>
+      <li><a href="#a">A</a></li>
+      <li><a href="#b">B</a></li>
+      <li><a href="#c">C</a></li>
+      <li><a href="#d">D</a></li>
+      <li><a href="#f">F</a></li>
+      <li><a href="#g">G</a></li>
+      <li><a href="#i">I</a></li>
+      <li><a href="#j">J</a></li>
+      <li><a href="#k">K</a></li>
+      <li><a href="#l">L</a></li>
+      <li><a href="#m">M</a></li>
+      <li><a href="#n">N</a></li>
+      <li><a href="#o">O</a></li>
+      <li><a href="#p">P</a></li>
+      <li><a href="#s">S</a></li>
+      <li><a href="#t">T</a></li>
+      <li><a href="#u">U</a></li>
+      <li><a href="#v">V</a></li>
+      <li><a href="#w">W</a></li>
+      <li><a href="#y">Y</a></li>
+      <li><a href="#z">Z</a></li>
+    </ul>
+  </div>
+</nav>
 
 ### A
 
@@ -219,12 +247,25 @@ resource: true
 * General Regulation II.2(a)
 * General Rule VII.2
 * general service (GS) posts
-* the Government of ... 
+* the Government of ...
 * government (adj.)
 * grain-fed
 * gram(s) (not gramme(s); g after a numeral)
 * grass roots (n.), grass-roots (adj.)
 * grey (not "gray")
+=======
+gauge
+General Assembly resolution
+General Regulation II.2(a)
+General Rule VII.2
+general service (GS) posts
+the Government of ...
+government (adj.)
+grain-fed
+gram(s) (not gramme(s); g after a numeral)
+grass roots (n.), grass-roots (adj.)
+grey (not "gray")
+>>>>>>> Add internal navigation
 
 ### H
 
@@ -260,7 +301,7 @@ resource: true
 * in-service
 * insofar as
 * install, instalment
-* inter alia; avoid use “among other things” but usually redundant 
+* inter alia; avoid use “among other things” but usually redundant
 * inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
 * internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
 * inter-sectoral
@@ -269,6 +310,32 @@ resource: true
 * inter-village
 * intra-regional
 * iodine deficiency
+=======
+inasmuch as
+inbred
+inbuilt; built-in
+income-generation; income-generating
+in-depth
+index, indexes (literary)/indices (numbers)
+information note (if it is a specific document: Information Note)
+infra-red
+infrastructure
+in-house
+in kind (adv.: contributions in kind; adj.: in-kind contributions)
+in-patient
+in-service
+insofar as
+install, instalment
+inter alia; avoid use “among other things” but usually redundant
+inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
+internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
+inter-sectoral
+inter-regional
+interrelated
+inter-village
+intra-regional
+iodine deficiency
+>>>>>>> Add internal navigation
 
 ### J
 
@@ -456,7 +523,7 @@ resource: true
 * school-leaver; school-leaving
 * schoolteacher
 * school feeding programme
-* second-hand 
+* second-hand
 * Second Regular
 * Session of the Board
 * Secretary-General
@@ -509,6 +576,72 @@ resource: true
 * SuperCereal Plus
 * supplementary budget
 * system-wide
+=======
+safety net (safety-net when used as adj.)
+the Sahel
+Sahelian zone
+savannah
+school-age children
+schoolbook
+schoolchildren; schoolgirl, schoolboy
+school day, school year
+school-leaver; school-leaving
+schoolteacher
+school feeding programme
+second-hand
+Second Regular
+Session of the Board
+Secretary-General
+sectoral (not "sectorial")
+seed bank
+seed-cake
+seed-protection ration
+self-: compounds hyphenated
+semi-: compounds hyphenated
+session, but the Annual Session, Third Regular Session, etc.
+setback; to set back
+sharecropper; sharecropping
+shelf life
+shortfall
+short term (n.); short-term (adj.)
+side effect
+silage; ensilage
+silviculture; silvicultural (avoid; use e.g. "forestry", "tree cultivation")
+sirocco
+sizeable; medium-sized
+slaughterhouse (alternative: abattoir)
+smallholder; smallholding
+small-scale (adj.)
+socio-: compounds hyphenated (e.g. socio-economic)
+southern Africa (not South Africa, the country)
+soybean
+special operation (SO)
+spill-over (adj.)
+standby
+States Members (of WFP; but Member States is preferred)
+state-wide
+stockbreeder
+stockpiling
+stopgap
+storeroom
+Strategic Objective(s): spell out to avoid confusion with "special operation (SO)"
+Strategic Plan
+subcomponent
+sub-district
+sub-office
+sub-region
+sub-Saharan Africa
+subsector
+subset
+substandard
+subtotal
+sugarcane
+sun-dried
+SuperCereal
+SuperCereal Plus
+supplementary budget
+system-wide
+>>>>>>> Add internal navigation
 
 ### T
 
