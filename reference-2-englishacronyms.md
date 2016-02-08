@@ -6,7 +6,37 @@ layout: page
 resource: true
 ---
 
-<table>
+<nav class="sub-nav">
+  <div class="pure-menu pure-menu-open">
+    <h6 class="pure-menu-heading">English Acronyms</h6>
+    <ul>
+      <li><a href="#a">A</a></li>
+      <li><a href="#b">B</a></li>
+      <li><a href="#c">C</a></li>
+      <li><a href="#d">D</a></li>
+      <li><a href="#f">F</a></li>
+      <li><a href="#g">G</a></li>
+      <li><a href="#u">U</a></li>
+      <li><a href="#i">I</a></li>
+      <li><a href="#j">J</a></li>
+      <li><a href="#k">K</a></li>
+      <li><a href="#l">L</a></li>
+      <li><a href="#m">M</a></li>
+      <li><a href="#n">N</a></li>
+      <li><a href="#o">O</a></li>
+      <li><a href="#p">P</a></li>
+      <li><a href="#q">Q</a></li>
+      <li><a href="#r">R</a></li>
+      <li><a href="#s">S</a></li>
+      <li><a href="#t">T</a></li>
+      <li><a href="#u">U</a></li>
+      <li><a href="#v">V</a></li>
+      <li><a href="#w">W</a></li>
+    </ul>
+  </div>
+</nav>
+
+<table class="pure-table">
   <thead>
     <tr>
       <th style="text-align: left">Full</th>
@@ -14,6 +44,12 @@ resource: true
     </tr>
   </thead>
   <tbody>
+    <tr>
+        <td>
+            <h3 id="a">A</h3>
+        </td>
+        <td></td>
+    </tr>
     <tr>
       <td style="text-align: left">Advisory Committee on Administrative and Budgetary Questions</td>
       <td style="text-align: left">ACABQ</td>
@@ -135,6 +171,12 @@ resource: true
       <td style="text-align: left">AWID</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="b">B</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">The Boston Consulting Group</td>
       <td style="text-align: left">BCG</td>
     </tr>
@@ -161,6 +203,12 @@ resource: true
     <tr>
       <td style="text-align: left">Bretton Woods institutions</td>
       <td style="text-align: left">BWI</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="c">C</h3>
+        </td>
+        <td></td>
     </tr>
     <tr>
       <td style="text-align: left">Comprehensive Africa Agriculture Development Programme</td>
@@ -379,6 +427,12 @@ resource: true
       <td style="text-align: left">CTC</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="d">D</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Development Assistance Committee</td>
       <td style="text-align: left">DAC</td>
     </tr>
@@ -485,6 +539,12 @@ resource: true
     <tr>
       <td style="text-align: left">dried whole milk</td>
       <td style="text-align: left">DWM</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="e">E</h3>
+        </td>
+        <td></td>
     </tr>
     <tr>
       <td style="text-align: left">European Commission</td>
@@ -603,6 +663,12 @@ resource: true
       <td style="text-align: left">EVI</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="f">F</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Food Aid Convention</td>
       <td style="text-align: left">FAC</td>
     </tr>
@@ -719,6 +785,12 @@ resource: true
       <td style="text-align: left">FT</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="g">G</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Global Alliance for Improved Nutrition</td>
       <td style="text-align: left">GAIN</td>
     </tr>
@@ -811,10 +883,22 @@ resource: true
       <td style="text-align: left">GVLP</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="u">U</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">United Nations Centre for Human Settlements</td>
       <td style="text-align: left">Habitat</td>
     </tr>
     <tr>
+    <tr>
+        <td>
+            <h3 id="h">H</h3>
+        </td>
+        <td></td>
+    </tr>
       <td style="text-align: left">Hazard Analysis Critical Control Point</td>
       <td style="text-align: left">HACCP</td>
     </tr>
@@ -865,6 +949,12 @@ resource: true
     <tr>
       <td style="text-align: left">human resources</td>
       <td style="text-align: left">HR</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="i">I</h3>
+        </td>
+        <td></td>
     </tr>
     <tr>
       <td style="text-align: left">International Alliance Against Hunger</td>
@@ -1119,6 +1209,12 @@ resource: true
       <td style="text-align: left">IWP</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="j">J</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">joint assessment mission</td>
       <td style="text-align: left">JAM</td>
     </tr>
@@ -1143,6 +1239,12 @@ resource: true
       <td style="text-align: left">JPO</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="K">K</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">knowledge, attitude and practice</td>
       <td style="text-align: left">KAP</td>
     </tr>
@@ -1155,12 +1257,20 @@ resource: true
       <td style="text-align: left">KPI</td>
     </tr>
     <tr>
+        <td>
+            <h3 id="l">L</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Latin America and Caribbean Emergency Response Network</td>
       <td style="text-align: left">LACERN</td>
     </tr>
     <tr>
       <td style="text-align: left">local area network</td>
       <td style="text-align: left">LAN</td>
+    </tr>
+    <tr>
     </tr>
     <tr>
       <td style="text-align: left"><em>Red de Alimentación Escolar para América Latina</em>(Latin American School Feeding Network)</td>
@@ -1205,6 +1315,12 @@ resource: true
     <tr>
       <td style="text-align: left">Lutheran World Federation</td>
       <td style="text-align: left">LWF</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="M">M</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">monitoring and evaluation</td>
@@ -1303,6 +1419,12 @@ resource: true
       <td style="text-align: left">MUAC</td>
     </tr>
     <tr>
+      <td>
+          <h3 id="n">N</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">National Audit Office (United Kingdom)</td>
       <td style="text-align: left">NAO</td>
     </tr>
@@ -1361,6 +1483,12 @@ resource: true
     <tr>
       <td style="text-align: left">North-West Frontier Province</td>
       <td style="text-align: left">NWFP</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="o">O</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">Organization of American States</td>
@@ -1433,6 +1561,12 @@ resource: true
     <tr>
       <td style="text-align: left">[Never spell out]</td>
       <td style="text-align: left">Oxfam</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="p">P</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">Pan American Health Organization</td>
@@ -1551,12 +1685,24 @@ resource: true
       <td style="text-align: left">PTA</td>
     </tr>
     <tr>
+      <td>
+          <h3 id="q">Q</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Quality Assurance Group</td>
       <td style="text-align: left">QAG</td>
     </tr>
     <tr>
       <td style="text-align: left">Quadrennial Comprehensive Policy Review</td>
       <td style="text-align: left">QCPR</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="r">R</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">rapid assessment, analysis and action planning for orphans and other vulnerable children</td>
@@ -1613,6 +1759,12 @@ resource: true
     <tr>
       <td style="text-align: left">ready-to-use therapeutic food</td>
       <td style="text-align: left">RUTF</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="s">S</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">South Asian Association for Regional Cooperation</td>
@@ -1755,6 +1907,12 @@ resource: true
       <td style="text-align: left">SWOT</td>
     </tr>
     <tr>
+      <td>
+          <h3 id="t">T</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">tuberculosis</td>
       <td style="text-align: left">TB</td>
     </tr>
@@ -1785,6 +1943,12 @@ resource: true
     <tr>
       <td style="text-align: left">terms of reference</td>
       <td style="text-align: left">TORs</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="u">U</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">upper-middle income country</td>
@@ -1971,6 +2135,12 @@ resource: true
       <td style="text-align: left">USGS</td>
     </tr>
     <tr>
+      <td>
+          <h3 id="v">V</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
       <td style="text-align: left">Vulnerability Assessment Committee</td>
       <td style="text-align: left">VAC</td>
     </tr>
@@ -2013,6 +2183,12 @@ resource: true
     <tr>
       <td style="text-align: left">very small aperture terminal</td>
       <td style="text-align: left">VSAT</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="w">W</h3>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td style="text-align: left">West African Economic and Monetary Union</td>
