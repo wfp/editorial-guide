@@ -15,10 +15,10 @@ Be consistent in the use of tense. When you begin in the past, stay in the past.
 
 A common error is the use of the present perfect to describe an event that has already ended. The correct verb tense for this case is past simple:
 
-> &#10004; **Between 2003 and 2005, the enrolment rate *fell* from 54 percent to 43 percent.**
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/done.svg" alt="tick"> **Between 2003 and 2005, the enrolment rate *fell* from 54 percent to 43 percent.**
 {: .positive }
 
-> &#10008; not: Between 2003 and 2005, the enrolment rate *has fallen* from 54 percent to 43 percent.
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/clear.svg" alt="cross"> not: Between 2003 and 2005, the enrolment rate *has fallen* from 54 percent to 43 percent.
 {: .negative }
 
 ### The subjunctive
@@ -46,7 +46,7 @@ When using the conditional would, be sure to use the subjunctive as well.
 
 ### Reported speech
 
-Indirect speech conveys a report of something that was said or written rather than the exact words that were spoken or written. It is used in certain official documents, including summary records. 
+Indirect speech conveys a report of something that was said or written rather than the exact words that were spoken or written. It is used in certain official documents, including summary records.
 
 **Direct:** The election is being held today.
 
@@ -56,7 +56,7 @@ Indirect speech conveys a report of something that was said or written rather th
 
 **Indirect:** The Secretary of the Council reported that 15 States were members of the working group.
 
-Even though the original statement may still be valid at the time of reporting, the verb is changed from the present to the past tense since it must agree with the verb in the main clause, which is in the past tense. 
+Even though the original statement may still be valid at the time of reporting, the verb is changed from the present to the past tense since it must agree with the verb in the main clause, which is in the past tense.
 
 *Note:* This rule is not necessarily applied to statements that are universally true:
 

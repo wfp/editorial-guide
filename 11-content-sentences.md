@@ -10,18 +10,18 @@ resource: true
 
 In English, the usual sentence structure is subject, followed by verb, followed by object or complement. Keep the verb and object close to the subject. For example:
 
-> &#10004; __If current trends continue, by the turn of the century tourism__ [subject] __will displace__ [verb] __agriculture__ [object] __as the island's main industry.__
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/done.svg" alt="tick"> __If current trends continue, by the turn of the century tourism__ [subject] __will displace__ [verb] __agriculture__ [object] __as the island's main industry.__
 {: .positive }
 
-> &#10008; not: Tourism, if current trends continue, by the turn of the century will displace agriculture as the island's main industry.
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/clear.svg" alt="cross"> not: Tourism, if current trends continue, by the turn of the century will displace agriculture as the island's main industry.
 {: .negative }
 
 Do not appear to change subject in mid-sentence; for example, prepositional phrases should be adjacent to the noun they refer to:
 
-> &#10004; With its numerous beaches, the island offers good prospects for tourism.
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/done.svg" alt="tick">  With its numerous beaches, the island offers good prospects for tourism.
 {: .positive }
 
-> &#10008; not: With its with numerous beaches, tourism has good prospects in the island.
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/clear.svg" alt="cross"> not: With its with numerous beaches, tourism has good prospects in the island.
 {: .negative }
 
 ### Long Sentences
@@ -32,10 +32,10 @@ Avoid long complicated sentences. Short, clear sentences convey meaning more eff
 
 Choose the active voice over the passive if you can.
 
-> &#10004; WFP responded quickly to decentralization.
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/done.svg" alt="tick"> WFP responded quickly to decentralization.
 {: .positive }
 
-> &#10008; not "Decentralization was responded to quickly by WFP."
+> <img src="http://cdn.wfp.org/brand/ui/img/ui/svg/clear.svg" alt="cross"> not "Decentralization was responded to quickly by WFP."
 {: .negative }
 
 However, if the writer wishes to be impersonal, perhaps to avoid implications of blame, the passive voice is the better choice.
