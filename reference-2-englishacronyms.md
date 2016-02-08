@@ -6,517 +6,2237 @@ layout: page
 resource: true
 ---
 
-| Full | Acronym |
-|:-----------|:-------------|
-| Advisory Committee on Administrative and Budgetary Questions | ACABQ |
-| Administrative Committee on Coordination | ACC |
-| _Action contre la Faim_ (Action Against Hunger) | ACF |
-| Agency for Cooperation and Research in Development | ACORD |
-| Asian Development Bank | ADB |
-| Accelerated Development and Poverty Reduction Strategy | ADPRS |
-| Adventist Development and Relief Agency | ADRA |
-| African Development Bank | AfDB |
-| Arab Fund for Economic and Social Development | AFESD |
-| Regional Training Centre for Agrometeorology and Operational Hydrology and their Applications | AGRHYMET |
-| avian and human influenza | AHI |
-| Latin American Integration Association | ALADI |
-| appointment of limited duration | ALD |
-| Augmented Logistics Intervention Team for Emergencies | ALITE |
-| Active Learning Network for Accountability and Performance in Humanitarian Action | ALNAP |
-| Association of Medical Doctors of Asia | AMDA |
-| Academic Model for Providing Access to Healthcare | AMPATH |
-| AIDS, Population and Health Integrated Assistance | APHIA |
-| Annual Performance Report | APR |
-| Advanced Research and Global Observation Satellite | ARGOS |
-| African Union Commission | AUC |
-| anti-retroviral treatment; anti-retroviral therapy | ART |
-| anti-retroviral | ARV |
-| Association of Southeast Asian Nations | ASEAN |
-| Assistant Secretary-General | ASG |
-| After-Service Medical Coverage Plan | ASMCP |
-| African Union | AU |
-| After-Service Health Insurance | ASHI |
-| Australian Agency for International Development | AusAID |
-| Association for Women's Rights in Development | AWID |
-| The Boston Consulting Group | BCG |
-| beneficiary contact monitoring | BCM |
-| body mass index | BMI |
-| Basic Medical Insurance Plan | BMIP |
-| Business Process Review | BPR |
-| British Refugee Council | BRC |
-| Bretton Woods institutions | BWI |
-| Comprehensive Africa Agriculture Development Programme | CAADP |
-| Andean Community | CAN |
-| Consolidated Appeal Process | CAP |
-| Cooperative for Assistance and Relief Everywhere | CARE |
-| Caribbean Community | CARICOM |
-| community-based organization | CBO |
-| community-based targeting | CBT |
-| community-based targeting and distribution | CBTD |
-| Common Country Assessment | CCA |
-| Consultative Committee on Programmes and Operational Questions | CCPOQ |
-| Committee on Commodities, Transport and Insurance | CCTI |
-| Centers for Disease Control and Prevention | CDC |
-| Comprehensive Development Framework | CDF |
-| United Nations System Chief Executives Board for Coordination | CEB |
-| Committee on the Elimination of Discrimination Against Women | CEDAW |
-| Central Emergency Response Fund | CERF |
-| Centre for Applied Research on Population and Development | CERPOD |
-| cash for assets | CFA |
-| Committee on Food Aid Policies and Programmes | CFA |
-| Caribbean Food and Nutrition Institute | CFNI |
-| Chief Financial Officer | CFO |
-| crop and food security assessment | CFSA |
-| comprehensive food security and nutrition survey | CFSNS |
-| comprehensive food security and vulnerability analysis | CFSVA |
-| cash for work | CFW |
-| Consultative Group on International Agricultural Research | CGIAR |
-| Common Humanitarian Action Plan | CHAP |
-| common humanitarian fund  | CHF |
-| community and household surveillance | CHS |
-| Canadian International Development Agency | CIDA |
-| cost, insurance and freight | c.i.f. |
-| _Comité permanent inter-États de lutte contre la sécheresse dans le Sahel_(Permanent Inter-State Committee on Drought Control in the Sahel) | CILSS |
-| International Maize and Wheat Improvement Center | CIMMYT |
-| cereal-milk blend | CMB |
-| common monitoring and evaluation approach | CMEA |
-| crude mortality rate | CMR |
-| Commodity Movement Processing and Analysis System | COMPAS |
-| Committee of Sponsoring Organizations of the Treadway Commission | COSO |
-| country programme | CP |
-| Comprehensive Peace Agreement | CPA |
-| Compensation Plan Reserve Fund | CPRF |
-| Centre for Research on Epidemiology of Disasters | CRED |
-| Country Response Information System | CRIS |
-| Commodity Risk Management Group [World Bank] | CRMG |
-| Catholic Relief Services | CRS |
-| Consortium for Southern Africa Food Security Emergency | C-SAFE |
-| corn-soya blend | CSB |
-| fortified/enriched corn-soya blend | CSB+ |
-| fortified/enriched and enhanced corn-soya blend | CSB++ |
-| coping strategy index | CSI |
-| corn-soya-milk | CSM |
-| Commission on Science and Technology for Development | CSTD |
-| Consultative Sub-Committee on Surplus Disposal | CSD |
-| community-based therapeutic care | CTC |
-| Development Assistance Committee | DAC |
-| Data Collection Telecoms Application | DACOTA |
-| disability-adjusted life year | DALY |
-| disarmament, demobilization and reintegration | DDR |
-| delivered duty unpaid | DDU |
-| development project | DEV |
-| Department for International Development (United Kingdom) | DFID |
-| Directorate General for Humanitarian Aid and Civil Protection | DG  ECHO |
-| Demographic and Health Survey | DHS |
-| United Nations Disaster Management Team | DMT |
-| Disaster Management Training Programme | DMTP |
-| direct operational costs | DOC |
-| Division of Labour | DOL |
-| directly observed treatment | DOT |
-| directly observed treatment shortcourse | DOTS |
-| Department of Political Affairs | DPA |
-| Department of Peacekeeping Operations | DPKO |
-| Disaster Prevention and Preparedness Agency | DPPA |
-| Democratic People's Republic of Korea | DPRK |
-| Democratic Republic of the Congo | DRC |
-| Development Research Network | DRN |
-| disaster risk reduction | DRR |
-| direct support costs | DSC |
-| Direct Support Cost Advance Facility | DSCAF |
-| dried skim enriched milk | DSEM |
-| dried skim milk | DSM |
-| dried whole milk | DWM |
-| European Commission | EC |
-| Economic Commission for Africa | ECA |
-| Economic Community of Central African States | ECCAS |
-| Executive Committee on Humanitarian Affairs | ECHA |
-| Humanitarian Aid and Civil Protection | ECHO |
-| Economic Commission for Latin America and the Caribbean | ECLAC |
-| Economic and Social Council of the United Nations | ECOSOC |
-| Economic Community of West African States | ECOWAS |
-| European Development Fund | EDF |
-| Emerging Donor Matching Fund | EDMF |
-| extended delivery point | EDP |
-| Education for All Fast Track Initiative | EFA-FTI |
-| emergency food needs assessment | EFNA |
-| emergency food security assessment | EFSA |
-| emergency food security and nutrition assessment | EFSNA |
-| Emergency Food Security Reserve | EFSR |
-| emergency market mitigation account | EMMA |
-| emergency operation |  EMOP |
-| evaluation memory system | EMSYST |
-| emergency needs assessment | ENA |
-| Enhanced Outreach Strategy | EOS |
-| Evaluation Quality Assurance System | EQAS |
-| emergency preparedness and response | EPR |
-| Emergency Relief Coordinator | ERC |
-| enterprise risk management | ERM |
-| enterprise resource planning | ERP |
-| economic shock and hunger index | ESHI |
-| European Union | EU |
-| economic vulnerability index | EVI |
-| Food Aid Convention | FAC |
-| Food Aid Monitoring and Information Network | FAMINET |
-| Food and Nutrition Technical Assistance | FANTA |
-| Food and Agriculture Organization of the United Nations | FAO |
-| Fast Administrative Support Team | FAST |
-| fortified blended food | FBF |
-| Family and Child Health and Nutrition Support | FCHNS |
-| full cost recovery | FCR |
-| final delivery point | FDP |
-| famine early warning system | FEWS |
-| Famine Early Warning Systems Network | FEWS NET |
-| food assistance for assets (as of 2015, FFA covers FFCD, FFE, FFH, FFHD, FFS, FFT and FFW) | FFA |
-| food for community development | FFCD |
-| food for education | FFE |
-| food for training  (as of 2015 FFA covers FFT, FFW, FFE, FFH) | FFT |
-| food for work | FFW |
-| Fast Information Technology and Telecommunications Emergency Support Team | FITTEST |
-| Food Insecurity and Vulnerability Information and Mapping Systems | FIVIMS |
-| Security Information Management and Security Analysis System | SIMSAS |
-| field-level agreement | FLA |
-| Food Management Improvement Programme | FMIP |
-| fortified maize meal | FMM |
-| free on board | FOB |
-| Forward Purchase Facility | FPF |
-| Focusing Resources on Effective School Health | FRESH |
-| Food Security and Nutrition Analysis Unit | FSNAU |
-| food security monitoring system | FSMS |
-| field security officer | FSO |
-| fixed-term | FT |
-| Global Alliance for Improved Nutrition | GAIN |
-| global acute malnutrition | GAM |
-| good agricultural practice | GAP |
-| Global Alliance for Vaccine and Immunization | GAVI |
-| gender-related development index | GDI |
-| gross domestic product | GDP |
-| gross enrolment rate | GER |
-| Global Fund to Fight AIDS, TB and Malaria [prefer "the Global Fund"] | GFATM |
-| general food distribution | GFD |
-| Global Humanitarian Platform | GHP |
-| Global Information and Early Warning System on Food and Agriculture | GIEWS |
-| geographic information system | GIS |
-| generic job profile | GJP |
-| genetically modified organism | GMO |
-| good manufacturing practice | GMP |
-| gross national income | GNI |
-| gross national product | GNP |
-| gender parity index | GPI |
-| global positioning system | GPS |
-| Global Staff Survey | GSS |
-| Global Task Team | GTT |
-| _Gesellschaft für Technische Zusammenarbeit_(German Agency for International Cooperation) | GIZ |
-| Global Vehicle Leasing Programme | GVLP |
-| United Nations Centre for Human Settlements | Habitat |
-| Hazard Analysis Critical Control Point | HACCP |
-| human assets index | HAI |
-| home-based care | HBC |
-| Humanitarian Coordinator | HC |
-| human development index | HDI |
-| high-energy biscuit | HEB |
-| Humanitarian Early Warning System | HEWS |
-| Home Grown School Feeding Programme | HGSFP |
-| heavily indebted poor country | HIPC |
-| Helen Keller International | HKI |
-| High-Level Committee on Management | HLCM |
-| High-Level Committee on Programmes | HLCP |
-| human resources | HR |
-| International Alliance Against Hunger | IAAH |
-| International Atomic Energy Agency | IAEA |
-| Inter-Agency Procurement Services Office | IAPSO |
-| Inter-Agency Procurement Working Group | IAPWG |
-| International Accounting Standards | IAS |
-| International Accounting Standards Board | IASB |
-| Inter-Agency Standing Committee [long version: Inter-Agency Standing Committee on Post-War and Disaster Reconstruction and Rehabilitation] | IASC |
-| Inter-Agency Standing Committee Working Group | IASC-WG |
-| Inter-Agency Security Management Network | IASMN |
-| International Air Transport Association | IATA |
-| International Bank for Reconstruction and Development | IBRD |
-| International Civil Aviation Organization | ICAO |
-| International Conference on AIDS and STIs in Africa | ICASA |
-| International Computing Centre | ICC |
-| International Council for Control of Iodine Deficiency Disorders | ICCIDD |
-| Integrated Child Development Services  | ICDS |
-| International Conference on Population and Development | ICPD |
-| International Committee of the Red Cross | ICRC |
-| International Civil Service Commission | ICSC |
-| information and communications technology | ICT |
-| International Council of Voluntary Agencies | ICVA |
-| International Development Association | IDA |
-| Inter-American Development Bank | IDB |
-| iodine deficiency disorder | IDD |
-| internally displaced person | IDP |
-| International Development Research Centre | IDRC |
-| Institute of Development Studies | IDS |
-| International Emergency Food Reserve | IEFR |
-| International Fund for Agricultural Development | IFAD |
-| international financial institution | IFI |
-| International Food Policy Research Institute | IFPRI |
-| International Federation of Red Cross and Red Crescent Societies | IFRC |
-| International Financial Reporting Standards | IFRS |
-| Inter-Governmental Working Group | IGWG |
-| Institute of Internal Auditors | IIA |
-| International Labour Organization | ILO |
-| International Labour Organization Administrative Tribunal | ILOAT |
-| Integrated Management of Childhood Illness | IMCI |
-| International Monetary Fund | IMF |
-| International Maritime Organization | IMO |
-| Institute of Nutrition of Central America and Panama | INCAP |
-| Inter-Agency Network for Education in Emergencies | INEE |
-| Inter-Agency Network of Facilities Managers | INFM |
-| International Food Aid Information System | INTERFAIS |
-| International Organization for Migration | IOM |
-| implementing partner | IP |
-| International Partnership against AIDS in Africa | IPAA |
-| Integrated Food Security Phase Classification | IPC |
-| Intergovernmental Panel on Climate Change | IPCC |
-| International Plant Genetic Resources Institute | IPGRI |
-| International Public Sector Accounting Standards | IPSAS |
-| Immediate Response Account | IRA |
-| International Rescue Committee | IRC |
-| integrated rural development | IRD (1) |
-| _Institut de recherche pour le développement_(Institute for Research Development) | IRD |
-| immediate-response emergency operation | IR-EMOP |
-| indirect support cost(s) | ISC |
-| International Strategy for Disaster Reduction | ISDR |
-| International Organization for Standardization | ISO |
-| information technology | IT |
-| Information Technology for Humanitarian Assistance, Cooperation and Action | ITHACA |
-| internal transport, storage and handling | ITSH |
-| Indicative World Plan for Agricultural Development | IWP |
-| joint assessment mission | JAM |
-| joint food assessment mission | JFAM |
-| Junior Farmer Field And Life School | JFFLS |
-| Japan International Cooperation Agency | JICA |
-| Joint Inspection Unit | JIU |
-| junior professional officer | JPO |
-| knowledge, attitude and practice | KAP |
-| _Kreditanstalt für Wiederaufbau_(German Credit Institution for Reconstruction) | KfW |
-| key performance indicator | KPI |
-| Latin America and Caribbean Emergency Response Network | LACERN |
-| local area network | LAN |
-| _Red de Alimentación Escolar para América Latina_(Latin American School Feeding Network) | LA-RAE |
-| logistics capacity assessment | LCA |
-| least developed country | LDC |
-| Logistics Execution Support System | LESS |
-| low-income food-deficit country | LIFDC |
-| lower-middle income country | LMIC |
-| Letter of Agreement | LOA |
-| Letter of Understanding | LOU |
-| logistics response team | LRT |
-| landside transport, storage and handling | LTSH |
-| Lutheran World Federation | LWF |
-| monitoring and evaluation | M&E |
-| Malicious Acts Insurance Policy | MAIP |
-| mother-and-child health | MCH |
-| mother-and-child health and nutrition | MCHN |
-| mother-and-child nutrition | MCN |
-| multi-donor fund | MDF |
-| Millennium Development Goal | MDG |
-| multi-donor trust fund | MDTF |
-| Managing Environmental Resources to Enable Transitions to More Sustainable Livelihoods | MERET |
-| Micronutrient Initiative | MI |
-| middle-income country | MIC |
-| multiple-indicator cluster survey | MICS |
-| Management Information System | MIS |
-| minimum security telecommunications standards | MISTS |
-| maize meal | MM |
-| Management Objective | MO |
-| minimum operating residential security standards | MORSS |
-| minimum operating security standards | MOSS |
-| Memorandum of Understanding | MOU |
-| _Médecins sans frontières_(Doctors Without Borders) | MSF |
-| mother-to-child transmission | MTCT |
-| mid-term evaluation | MTE |
-| mid-term review | MTR |
-| mid-upper arm circumference | MUAC |
-| National Audit Office (United Kingdom) | NAO |
-| National Adaptation Programme of Action | NAPA |
-| normalized difference vegetation index | NDVI |
-| New Partnership for Africa's Development | NEPAD |
-| net enrolment rate | NER |
-| New Rice for Africa | NERICA |
-| non-formal education | NFE |
-| non-food item | NFI |
-| Note for the Record | NfR |
-| non-governmental organization | NGO |
-| Norwegian Agency for Development Cooperation | NORAD |
-| Norwegian Refugee Council | NRC |
-| Natural Resources Institute | NRI |
-| National Staff Project | NSP |
-| North-West Frontier Province | NWFP |
-| Organization of American States | OAS |
-| Office for the Coordination of Humanitarian Affairs | OCHA |
-| outstanding balance of commitment | OBC |
-| official development assistance | ODA |
-| Overseas Development Institute | ODI |
-| other direct operational costs | ODOC |
-| Organisation for Economic Co-operation and Development | OECD |
-| United States Office for Foreign Disaster Assistance | OFDA |
-| Office of the United Nations High Commissioner for Human Rights | OHCHR |
-| Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States | OHRLLS |
-| United Nations Office of Internal Oversight Services | OIOS |
-| European Anti-Fraud Office | OLAF |
-| Operation Lifeline Sudan |  OLS |
-| Organization of Petroleum Exporting Countries | OPEC |
-| oral rehydration salts | ORS |
-| Office of the Special Adviser on Africa | OSAA |
-| orphans and other vulnerable children | OVC |
-| [Never spell out] | Oxfam |
-| Pan American Health Organization | PAHO |
-| Purchase for Progress | P4P |
-| Palestinian Authority/ Palestinian National Authority | PA/PNA |
-| Performance and Competency Enhancement | PACE |
-| Programme for Accountability and Transparency | PACT |
-| Programme Acceleration Fund | PAF |
-| Pan American Health Organization | PAHO |
-| Pan Caribbean Partnership Against HIV/AIDS | PANCAP |
-| Palestinian Agricultural Relief Committee | PARC |
-| Personal Action System portal | PASport |
-| Programme Coordinating Board | PCB |
-| post-distribution monitoring | PDM |
-| public distribution system | PDS |
-| Poverty Eradication Action Plan | PEAP |
-| Palestinian Economic Council for Development and Reconstruction | PECDAR |
-| President's Emergency Plan for AIDS Relief [United States] | PEPFAR |
-| Programme Guidance Manual | PGM |
-| Programme Guidance Manualwiki | PGMwiki |
-| Partners In Health | PIH |
-| people living with HIV | PLHIV |
-| pregnant and lactating women | PLW |
-| prevention of mother-to-child transmission | PMTCT |
-| Palestinian National Authority/Palestinian Authority | PNA/PA |
-| Programme Review Committee | PRC |
-| protracted relief and recovery operation | PRRO |
-| Poverty Reduction Strategy Paper | PRSP |
-| Programme Support and Administrative | PSA |
-| Productive Safety Net Programme | PSNP |
-| parent-teacher association | PTA |
-| Quality Assurance Group | QAG |
-| Quadrennial Comprehensive Policy Review | QCPR |
-| rapid assessment, analysis and action planning for orphans and other vulnerable children | RAAAP |
-| results-based management | RBM |
-| Resident Coordinator | RC |
-| recommended daily allowance | RDA (1) |
-|  recommended dietary allowance | RDA (2) |
-| Renewed Efforts Against Child Hunger
-Renewed Efforts Against Child Hunger | REACH |
-| rest and recuperation | R&R |
-| Regional Inter-Agency Coordination and Support Office | RIACSO |
-| rice-milk blend | RMB |
-| real-time evaluation | RTE |
-| ready-to-use food for children | RUFC |
-| ready-to-use supplementary food | RUSF |
-| ready-to-use therapeutic food | RUTF |
-| South Asian Association for Regional Cooperation | SAARC |
-| Southern African Development Community | SADC |
-| severe acute malnutrition | SAM |
-| SAP | SAP |
-| Sahel Agricultural and Rural Development Initiative | SARDI |
-| service contract | SC |
-| Save the Children Fund | SCF |
-| Standing Committee on Nutrition | SCN |
-| Subcommittee on Nutrition | SCN |
-| Strengthening Emergency Needs Assessment Implementation Plan | SENAIP |
-| supplementary feeding centre | SFC |
-| school feeding programme | SFP |
-| Self-Insurance Account | SIA |
-| _Sistema de la Integración Centroamericana_ **(Central American Integration System)** | SICA |
-| Swedish International Development Agency | SIDA |
-| Self-Insurance Scheme | SIS |
-| service level agreement | SLA |
-| Specific, Measurable, Attainable, Relevant and Time‑bound | SMART (1) |
-| Standardized Monitoring and Assessment of Relief and Transitions | SMART (2) |
-| special operation | SO (1) |
-| Strategic Objective | SO (2) |
-| Special Operations Living Allowance | SOLA |
-| standard operating procedure | SOP |
-| standardized project report | SPR |
-| Separation Payment Scheme | SPS |
-| Strategic Resource Allocation Committee | SRAC |
-| Swedish Rescue Services Agency | SRSA |
-| Special Representative of the Secretary-General | SRSG |
-| special service agreement | SSA |
-| sexually transmitted disease | STD |
-| sexually transmitted infection/disease | STI/STD |
-| Separate Trading of Registered Interest and Principal of Securities | STRIPS |
-| supplementary feeding programme | SuFP |
-| sector-wide approach | SWAP |
-| strength, weakness, opportunity and threat | SWOT |
-| tuberculosis | TB |
-| to be identified | TBI |
-| Triennial Comprehensive Policy Review | TCPR |
-| temporary duty | TDY |
-| therapeutic feeding centre | TFC |
-| therapeutic feeding programme | TFP |
-| take-home ration | THR |
-| terms of reference | TORs |
-| upper-middle income country | UMIC |
-| _Union économique et monétaire ouest africaine_ (West African Economic and Monetary Union) | UEMOA |
-| United Nations System-Wide Action Plan on Gender Equality and the Empowerment of Women | UN SWAP |
-| Joint United Nations Programme on HIV/AIDS | UNAIDS |
-| United Nations Convention to Combat Desertification | UNCCD |
-| United Nations Conference on Environment and Development | UNCED |
-| United Nations Commission on International Trade Law | UNCITRAL |
-| United Nations country team | UNCT |
-| United Nations Disaster Assessment and Coordination Team | UNDAC |
-| United Nations Development Assistance Framework | UNDAF |
-| United Nations Development Group | UNDG |
-| United Nations Development Group Office | UNDGO |
-| United Nations Development Programme | UNDP |
-| United Nations Department of Safety and Security | UNDSS |
-| United Nations Evaluation Group | UNEG |
-| United Nations Environment Programme | UNEP |
-| United Nations Educational, Scientific and Cultural Organization | UNESCO |
-| United Nations Population Fund | UNFPA |
-| United Nations Human Settlements Programme | UN-Habitat |
-| United Nations Humanitarian Air Service | UNHAS |
-| Office of the United Nations High Commissioner for Human Rights | UNHCHR |
-| Office of the United Nations High Commissioner for Refugees | UNHCR |
-| United Nations Humanitarian Response Depot | UNHRD |
-| United Nations Children's Fund | UNICEF |
-| United Nations Industrial Development Organization | UNIDO |
-| United Nations Development Fund for Women | UNIFEM |
-| _União Nacional para a Independência Total de Angola_(National Union for the Total Independence of Angola) | UNITA |
-| United Nations Joint Logistics Centre | UNJLC |
-| United Nations Joint Staff Pension Fund | UNJSPF |
-| United Nations Office for Project Services | UNOPS |
-| United Nations Relief and Works Agency for Palestine Refugees in the Near East | UNRWA |
-| United Nations system accounting standards | UNSAS (1) |
-| United Nations Standby Arrangements System | UNSAS (2) |
-| Office of the United Nations Security Coordinator | UNSECOORD |
-| United Nations System Staff College | UNSSC |
-| United Nations Trust Fund for Human Security | UNTFHS |
-| United Nations Theme Group | UNTG |
-| United Nations University | UNU |
-| United Nations Volunteer | UNV |
-| United Nations Entity for Gender Equality and the Empowerment of Women | UN-Women |
-| United Nations World Tourism Organization | UNWTO |
-| Universal Primary Education | UPE |
-| United States Agency for International Development | USAID |
-| United States Department of Agriculture | USDA |
-| Under-Secretary-General | USG |
-| United States Geological Survey | USGS |
-| Vulnerability Assessment Committee | VAC |
-| vulnerability analysis and mapping | VAM |
-| value added tax | VAT |
-| voluntary and confidential counselling and testing | VCCT |
-| voluntary counselling and testing | VCT |
-| vouchers for food | VFF |
-| vouchers for training | VFT |
-| vouchers for work | VFW |
-| vulnerable group feeding | VGF |
-| very high frequency | VHF |
-| very small aperture terminal | VSAT |
-| West African Economic and Monetary Union | WAEMU |
-| World Conference on Disaster Reduction | WCDR |
-| Working Capital Financing Facility | WCFF |
-| World Food Council | WFC |
-| World Food Summit | WFS |
-| World Health Organization | WHO |
-| WFP Information Network and Global System II | WINGS II |
-| World Intellectual Property Organization | WIPO |
-| World Meteorological Organization | WMO |
-| wheat-soya blend | WSB |
-| World Trade Organization | WTO |
-| World Vision International | WVI |
+<nav class="sub-nav">
+  <div class="pure-menu pure-menu-open">
+    <h6 class="pure-menu-heading">Navigation</h6>
+    <ul>
+      <li><a href="#a">A</a></li>
+      <li><a href="#b">B</a></li>
+      <li><a href="#c">C</a></li>
+      <li><a href="#d">D</a></li>
+      <li><a href="#f">F</a></li>
+      <li><a href="#g">G</a></li>
+      <li><a href="#u">U</a></li>
+      <li><a href="#i">I</a></li>
+      <li><a href="#j">J</a></li>
+      <li><a href="#k">K</a></li>
+      <li><a href="#l">L</a></li>
+      <li><a href="#m">M</a></li>
+      <li><a href="#n">N</a></li>
+      <li><a href="#o">O</a></li>
+      <li><a href="#p">P</a></li>
+      <li><a href="#q">Q</a></li>
+      <li><a href="#r">R</a></li>
+      <li><a href="#s">S</a></li>
+      <li><a href="#t">T</a></li>
+      <li><a href="#u">U</a></li>
+      <li><a href="#v">V</a></li>
+      <li><a href="#w">W</a></li>
+    </ul>
+  </div>
+</nav>
+
+<table class="pure-table">
+  <thead>
+    <tr>
+      <th style="text-align: left">Full</th>
+      <th style="text-align: left">Acronym</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+            <h3 id="a">A</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Advisory Committee on Administrative and Budgetary Questions</td>
+      <td style="text-align: left">ACABQ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Administrative Committee on Coordination</td>
+      <td style="text-align: left">ACC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Action contre la Faim</em> (Action Against Hunger)</td>
+      <td style="text-align: left">ACF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Agency for Cooperation and Research in Development</td>
+      <td style="text-align: left">ACORD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Asian Development Bank</td>
+      <td style="text-align: left">ADB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Accelerated Development and Poverty Reduction Strategy</td>
+      <td style="text-align: left">ADPRS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Adventist Development and Relief Agency</td>
+      <td style="text-align: left">ADRA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">African Development Bank</td>
+      <td style="text-align: left">AfDB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Arab Fund for Economic and Social Development</td>
+      <td style="text-align: left">AFESD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Regional Training Centre for Agrometeorology and Operational Hydrology and their Applications</td>
+      <td style="text-align: left">AGRHYMET</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">avian and human influenza</td>
+      <td style="text-align: left">AHI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Latin American Integration Association</td>
+      <td style="text-align: left">ALADI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">appointment of limited duration</td>
+      <td style="text-align: left">ALD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Augmented Logistics Intervention Team for Emergencies</td>
+      <td style="text-align: left">ALITE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Active Learning Network for Accountability and Performance in Humanitarian Action</td>
+      <td style="text-align: left">ALNAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Association of Medical Doctors of Asia</td>
+      <td style="text-align: left">AMDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Academic Model for Providing Access to Healthcare</td>
+      <td style="text-align: left">AMPATH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AIDS, Population and Health Integrated Assistance</td>
+      <td style="text-align: left">APHIA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Annual Performance Report</td>
+      <td style="text-align: left">APR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Advanced Research and Global Observation Satellite</td>
+      <td style="text-align: left">ARGOS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">African Union Commission</td>
+      <td style="text-align: left">AUC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">anti-retroviral treatment; anti-retroviral therapy</td>
+      <td style="text-align: left">ART</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">anti-retroviral</td>
+      <td style="text-align: left">ARV</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Association of Southeast Asian Nations</td>
+      <td style="text-align: left">ASEAN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Assistant Secretary-General</td>
+      <td style="text-align: left">ASG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">After-Service Medical Coverage Plan</td>
+      <td style="text-align: left">ASMCP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">African Union</td>
+      <td style="text-align: left">AU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">After-Service Health Insurance</td>
+      <td style="text-align: left">ASHI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Australian Agency for International Development</td>
+      <td style="text-align: left">AusAID</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Association for Women’s Rights in Development</td>
+      <td style="text-align: left">AWID</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="b">B</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">The Boston Consulting Group</td>
+      <td style="text-align: left">BCG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">beneficiary contact monitoring</td>
+      <td style="text-align: left">BCM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">body mass index</td>
+      <td style="text-align: left">BMI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Basic Medical Insurance Plan</td>
+      <td style="text-align: left">BMIP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Business Process Review</td>
+      <td style="text-align: left">BPR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">British Refugee Council</td>
+      <td style="text-align: left">BRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Bretton Woods institutions</td>
+      <td style="text-align: left">BWI</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="c">C</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Comprehensive Africa Agriculture Development Programme</td>
+      <td style="text-align: left">CAADP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Andean Community</td>
+      <td style="text-align: left">CAN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Consolidated Appeal Process</td>
+      <td style="text-align: left">CAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cooperative for Assistance and Relief Everywhere</td>
+      <td style="text-align: left">CARE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Caribbean Community</td>
+      <td style="text-align: left">CARICOM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">community-based organization</td>
+      <td style="text-align: left">CBO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">community-based targeting</td>
+      <td style="text-align: left">CBT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">community-based targeting and distribution</td>
+      <td style="text-align: left">CBTD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Common Country Assessment</td>
+      <td style="text-align: left">CCA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Consultative Committee on Programmes and Operational Questions</td>
+      <td style="text-align: left">CCPOQ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Committee on Commodities, Transport and Insurance</td>
+      <td style="text-align: left">CCTI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Centers for Disease Control and Prevention</td>
+      <td style="text-align: left">CDC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Comprehensive Development Framework</td>
+      <td style="text-align: left">CDF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations System Chief Executives Board for Coordination</td>
+      <td style="text-align: left">CEB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Committee on the Elimination of Discrimination Against Women</td>
+      <td style="text-align: left">CEDAW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Central Emergency Response Fund</td>
+      <td style="text-align: left">CERF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Centre for Applied Research on Population and Development</td>
+      <td style="text-align: left">CERPOD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cash for assets</td>
+      <td style="text-align: left">CFA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Committee on Food Aid Policies and Programmes</td>
+      <td style="text-align: left">CFA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Caribbean Food and Nutrition Institute</td>
+      <td style="text-align: left">CFNI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Chief Financial Officer</td>
+      <td style="text-align: left">CFO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">crop and food security assessment</td>
+      <td style="text-align: left">CFSA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">comprehensive food security and nutrition survey</td>
+      <td style="text-align: left">CFSNS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">comprehensive food security and vulnerability analysis</td>
+      <td style="text-align: left">CFSVA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cash for work</td>
+      <td style="text-align: left">CFW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Consultative Group on International Agricultural Research</td>
+      <td style="text-align: left">CGIAR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Common Humanitarian Action Plan</td>
+      <td style="text-align: left">CHAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">common humanitarian fund</td>
+      <td style="text-align: left">CHF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">community and household surveillance</td>
+      <td style="text-align: left">CHS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Canadian International Development Agency</td>
+      <td style="text-align: left">CIDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cost, insurance and freight</td>
+      <td style="text-align: left">c.i.f.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Comité permanent inter-États de lutte contre la sécheresse dans le Sahel</em>(Permanent Inter-State Committee on Drought Control in the Sahel)</td>
+      <td style="text-align: left">CILSS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Maize and Wheat Improvement Center</td>
+      <td style="text-align: left">CIMMYT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cereal-milk blend</td>
+      <td style="text-align: left">CMB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">common monitoring and evaluation approach</td>
+      <td style="text-align: left">CMEA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">crude mortality rate</td>
+      <td style="text-align: left">CMR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Commodity Movement Processing and Analysis System</td>
+      <td style="text-align: left">COMPAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Committee of Sponsoring Organizations of the Treadway Commission</td>
+      <td style="text-align: left">COSO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">country programme</td>
+      <td style="text-align: left">CP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Comprehensive Peace Agreement</td>
+      <td style="text-align: left">CPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Compensation Plan Reserve Fund</td>
+      <td style="text-align: left">CPRF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Centre for Research on Epidemiology of Disasters</td>
+      <td style="text-align: left">CRED</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Country Response Information System</td>
+      <td style="text-align: left">CRIS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Commodity Risk Management Group [World Bank]</td>
+      <td style="text-align: left">CRMG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Catholic Relief Services</td>
+      <td style="text-align: left">CRS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Consortium for Southern Africa Food Security Emergency</td>
+      <td style="text-align: left">C-SAFE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">corn-soya blend</td>
+      <td style="text-align: left">CSB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fortified/enriched corn-soya blend</td>
+      <td style="text-align: left">CSB+</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fortified/enriched and enhanced corn-soya blend</td>
+      <td style="text-align: left">CSB++</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">coping strategy index</td>
+      <td style="text-align: left">CSI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">corn-soya-milk</td>
+      <td style="text-align: left">CSM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Commission on Science and Technology for Development</td>
+      <td style="text-align: left">CSTD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Consultative Sub-Committee on Surplus Disposal</td>
+      <td style="text-align: left">CSD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">community-based therapeutic care</td>
+      <td style="text-align: left">CTC</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="d">D</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Development Assistance Committee</td>
+      <td style="text-align: left">DAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Data Collection Telecoms Application</td>
+      <td style="text-align: left">DACOTA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">disability-adjusted life year</td>
+      <td style="text-align: left">DALY</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">disarmament, demobilization and reintegration</td>
+      <td style="text-align: left">DDR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">delivered duty unpaid</td>
+      <td style="text-align: left">DDU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">development project</td>
+      <td style="text-align: left">DEV</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Department for International Development (United Kingdom)</td>
+      <td style="text-align: left">DFID</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Directorate General for Humanitarian Aid and Civil Protection</td>
+      <td style="text-align: left">DG  ECHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Demographic and Health Survey</td>
+      <td style="text-align: left">DHS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Disaster Management Team</td>
+      <td style="text-align: left">DMT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Disaster Management Training Programme</td>
+      <td style="text-align: left">DMTP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">direct operational costs</td>
+      <td style="text-align: left">DOC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Division of Labour</td>
+      <td style="text-align: left">DOL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">directly observed treatment</td>
+      <td style="text-align: left">DOT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">directly observed treatment shortcourse</td>
+      <td style="text-align: left">DOTS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Department of Political Affairs</td>
+      <td style="text-align: left">DPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Department of Peacekeeping Operations</td>
+      <td style="text-align: left">DPKO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Disaster Prevention and Preparedness Agency</td>
+      <td style="text-align: left">DPPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Democratic People’s Republic of Korea</td>
+      <td style="text-align: left">DPRK</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Democratic Republic of the Congo</td>
+      <td style="text-align: left">DRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Development Research Network</td>
+      <td style="text-align: left">DRN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">disaster risk reduction</td>
+      <td style="text-align: left">DRR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">direct support costs</td>
+      <td style="text-align: left">DSC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Direct Support Cost Advance Facility</td>
+      <td style="text-align: left">DSCAF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">dried skim enriched milk</td>
+      <td style="text-align: left">DSEM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">dried skim milk</td>
+      <td style="text-align: left">DSM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">dried whole milk</td>
+      <td style="text-align: left">DWM</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="e">E</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">European Commission</td>
+      <td style="text-align: left">EC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Economic Commission for Africa</td>
+      <td style="text-align: left">ECA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Economic Community of Central African States</td>
+      <td style="text-align: left">ECCAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Executive Committee on Humanitarian Affairs</td>
+      <td style="text-align: left">ECHA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Humanitarian Aid and Civil Protection</td>
+      <td style="text-align: left">ECHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Economic Commission for Latin America and the Caribbean</td>
+      <td style="text-align: left">ECLAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Economic and Social Council of the United Nations</td>
+      <td style="text-align: left">ECOSOC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Economic Community of West African States</td>
+      <td style="text-align: left">ECOWAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">European Development Fund</td>
+      <td style="text-align: left">EDF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Emerging Donor Matching Fund</td>
+      <td style="text-align: left">EDMF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">extended delivery point</td>
+      <td style="text-align: left">EDP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Education for All Fast Track Initiative</td>
+      <td style="text-align: left">EFA-FTI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency food needs assessment</td>
+      <td style="text-align: left">EFNA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency food security assessment</td>
+      <td style="text-align: left">EFSA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency food security and nutrition assessment</td>
+      <td style="text-align: left">EFSNA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Emergency Food Security Reserve</td>
+      <td style="text-align: left">EFSR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency market mitigation account</td>
+      <td style="text-align: left">EMMA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency operation</td>
+      <td style="text-align: left">EMOP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">evaluation memory system</td>
+      <td style="text-align: left">EMSYST</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency needs assessment</td>
+      <td style="text-align: left">ENA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Enhanced Outreach Strategy</td>
+      <td style="text-align: left">EOS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Evaluation Quality Assurance System</td>
+      <td style="text-align: left">EQAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">emergency preparedness and response</td>
+      <td style="text-align: left">EPR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Emergency Relief Coordinator</td>
+      <td style="text-align: left">ERC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">enterprise risk management</td>
+      <td style="text-align: left">ERM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">enterprise resource planning</td>
+      <td style="text-align: left">ERP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">economic shock and hunger index</td>
+      <td style="text-align: left">ESHI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">European Union</td>
+      <td style="text-align: left">EU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">economic vulnerability index</td>
+      <td style="text-align: left">EVI</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="f">F</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food Aid Convention</td>
+      <td style="text-align: left">FAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food Aid Monitoring and Information Network</td>
+      <td style="text-align: left">FAMINET</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food and Nutrition Technical Assistance</td>
+      <td style="text-align: left">FANTA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food and Agriculture Organization of the United Nations</td>
+      <td style="text-align: left">FAO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Fast Administrative Support Team</td>
+      <td style="text-align: left">FAST</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fortified blended food</td>
+      <td style="text-align: left">FBF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Family and Child Health and Nutrition Support</td>
+      <td style="text-align: left">FCHNS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">full cost recovery</td>
+      <td style="text-align: left">FCR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">final delivery point</td>
+      <td style="text-align: left">FDP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">famine early warning system</td>
+      <td style="text-align: left">FEWS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Famine Early Warning Systems Network</td>
+      <td style="text-align: left">FEWS NET</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food assistance for assets (as of 2015, FFA covers FFCD, FFE, FFH, FFHD, FFS, FFT and FFW)</td>
+      <td style="text-align: left">FFA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food for community development</td>
+      <td style="text-align: left">FFCD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food for education</td>
+      <td style="text-align: left">FFE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food for training  (as of 2015 FFA covers FFT, FFW, FFE, FFH)</td>
+      <td style="text-align: left">FFT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food for work</td>
+      <td style="text-align: left">FFW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Fast Information Technology and Telecommunications Emergency Support Team</td>
+      <td style="text-align: left">FITTEST</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food Insecurity and Vulnerability Information and Mapping Systems</td>
+      <td style="text-align: left">FIVIMS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Security Information Management and Security Analysis System</td>
+      <td style="text-align: left">SIMSAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">field-level agreement</td>
+      <td style="text-align: left">FLA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food Management Improvement Programme</td>
+      <td style="text-align: left">FMIP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fortified maize meal</td>
+      <td style="text-align: left">FMM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">free on board</td>
+      <td style="text-align: left">FOB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Forward Purchase Facility</td>
+      <td style="text-align: left">FPF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Focusing Resources on Effective School Health</td>
+      <td style="text-align: left">FRESH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food Security and Nutrition Analysis Unit</td>
+      <td style="text-align: left">FSNAU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">food security monitoring system</td>
+      <td style="text-align: left">FSMS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">field security officer</td>
+      <td style="text-align: left">FSO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fixed-term</td>
+      <td style="text-align: left">FT</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="g">G</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Alliance for Improved Nutrition</td>
+      <td style="text-align: left">GAIN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">global acute malnutrition</td>
+      <td style="text-align: left">GAM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">good agricultural practice</td>
+      <td style="text-align: left">GAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Alliance for Vaccine and Immunization</td>
+      <td style="text-align: left">GAVI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender-related development index</td>
+      <td style="text-align: left">GDI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gross domestic product</td>
+      <td style="text-align: left">GDP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gross enrolment rate</td>
+      <td style="text-align: left">GER</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Fund to Fight AIDS, TB and Malaria [prefer “the Global Fund”]</td>
+      <td style="text-align: left">GFATM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">general food distribution</td>
+      <td style="text-align: left">GFD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Humanitarian Platform</td>
+      <td style="text-align: left">GHP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Information and Early Warning System on Food and Agriculture</td>
+      <td style="text-align: left">GIEWS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">geographic information system</td>
+      <td style="text-align: left">GIS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">generic job profile</td>
+      <td style="text-align: left">GJP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">genetically modified organism</td>
+      <td style="text-align: left">GMO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">good manufacturing practice</td>
+      <td style="text-align: left">GMP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gross national income</td>
+      <td style="text-align: left">GNI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gross national product</td>
+      <td style="text-align: left">GNP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender parity index</td>
+      <td style="text-align: left">GPI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">global positioning system</td>
+      <td style="text-align: left">GPS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Staff Survey</td>
+      <td style="text-align: left">GSS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Task Team</td>
+      <td style="text-align: left">GTT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Gesellschaft für Technische Zusammenarbeit</em>(German Agency for International Cooperation)</td>
+      <td style="text-align: left">GIZ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Global Vehicle Leasing Programme</td>
+      <td style="text-align: left">GVLP</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="u">U</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Centre for Human Settlements</td>
+      <td style="text-align: left">Habitat</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>
+            <h3 id="h">H</h3>
+        </td>
+        <td></td>
+    </tr>
+      <td style="text-align: left">Hazard Analysis Critical Control Point</td>
+      <td style="text-align: left">HACCP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">human assets index</td>
+      <td style="text-align: left">HAI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">home-based care</td>
+      <td style="text-align: left">HBC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Humanitarian Coordinator</td>
+      <td style="text-align: left">HC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">human development index</td>
+      <td style="text-align: left">HDI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">high-energy biscuit</td>
+      <td style="text-align: left">HEB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Humanitarian Early Warning System</td>
+      <td style="text-align: left">HEWS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Home Grown School Feeding Programme</td>
+      <td style="text-align: left">HGSFP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">heavily indebted poor country</td>
+      <td style="text-align: left">HIPC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Helen Keller International</td>
+      <td style="text-align: left">HKI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">High-Level Committee on Management</td>
+      <td style="text-align: left">HLCM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">High-Level Committee on Programmes</td>
+      <td style="text-align: left">HLCP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">human resources</td>
+      <td style="text-align: left">HR</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="i">I</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Alliance Against Hunger</td>
+      <td style="text-align: left">IAAH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Atomic Energy Agency</td>
+      <td style="text-align: left">IAEA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Procurement Services Office</td>
+      <td style="text-align: left">IAPSO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Procurement Working Group</td>
+      <td style="text-align: left">IAPWG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Accounting Standards</td>
+      <td style="text-align: left">IAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Accounting Standards Board</td>
+      <td style="text-align: left">IASB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Standing Committee [long version: Inter-Agency Standing Committee on Post-War and Disaster Reconstruction and Rehabilitation]</td>
+      <td style="text-align: left">IASC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Standing Committee Working Group</td>
+      <td style="text-align: left">IASC-WG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Security Management Network</td>
+      <td style="text-align: left">IASMN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Air Transport Association</td>
+      <td style="text-align: left">IATA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Bank for Reconstruction and Development</td>
+      <td style="text-align: left">IBRD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Civil Aviation Organization</td>
+      <td style="text-align: left">ICAO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Conference on AIDS and STIs in Africa</td>
+      <td style="text-align: left">ICASA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Computing Centre</td>
+      <td style="text-align: left">ICC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Council for Control of Iodine Deficiency Disorders</td>
+      <td style="text-align: left">ICCIDD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Integrated Child Development Services</td>
+      <td style="text-align: left">ICDS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Conference on Population and Development</td>
+      <td style="text-align: left">ICPD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Committee of the Red Cross</td>
+      <td style="text-align: left">ICRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Civil Service Commission</td>
+      <td style="text-align: left">ICSC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">information and communications technology</td>
+      <td style="text-align: left">ICT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Council of Voluntary Agencies</td>
+      <td style="text-align: left">ICVA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Development Association</td>
+      <td style="text-align: left">IDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-American Development Bank</td>
+      <td style="text-align: left">IDB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">iodine deficiency disorder</td>
+      <td style="text-align: left">IDD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">internally displaced person</td>
+      <td style="text-align: left">IDP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Development Research Centre</td>
+      <td style="text-align: left">IDRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Institute of Development Studies</td>
+      <td style="text-align: left">IDS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Emergency Food Reserve</td>
+      <td style="text-align: left">IEFR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Fund for Agricultural Development</td>
+      <td style="text-align: left">IFAD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">international financial institution</td>
+      <td style="text-align: left">IFI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Food Policy Research Institute</td>
+      <td style="text-align: left">IFPRI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Federation of Red Cross and Red Crescent Societies</td>
+      <td style="text-align: left">IFRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Financial Reporting Standards</td>
+      <td style="text-align: left">IFRS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Governmental Working Group</td>
+      <td style="text-align: left">IGWG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Institute of Internal Auditors</td>
+      <td style="text-align: left">IIA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Labour Organization</td>
+      <td style="text-align: left">ILO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Labour Organization Administrative Tribunal</td>
+      <td style="text-align: left">ILOAT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Integrated Management of Childhood Illness</td>
+      <td style="text-align: left">IMCI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Monetary Fund</td>
+      <td style="text-align: left">IMF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Maritime Organization</td>
+      <td style="text-align: left">IMO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Institute of Nutrition of Central America and Panama</td>
+      <td style="text-align: left">INCAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Network for Education in Emergencies</td>
+      <td style="text-align: left">INEE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inter-Agency Network of Facilities Managers</td>
+      <td style="text-align: left">INFM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Food Aid Information System</td>
+      <td style="text-align: left">INTERFAIS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Organization for Migration</td>
+      <td style="text-align: left">IOM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">implementing partner</td>
+      <td style="text-align: left">IP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Partnership against AIDS in Africa</td>
+      <td style="text-align: left">IPAA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Integrated Food Security Phase Classification</td>
+      <td style="text-align: left">IPC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Intergovernmental Panel on Climate Change</td>
+      <td style="text-align: left">IPCC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Plant Genetic Resources Institute</td>
+      <td style="text-align: left">IPGRI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Public Sector Accounting Standards</td>
+      <td style="text-align: left">IPSAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Immediate Response Account</td>
+      <td style="text-align: left">IRA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Rescue Committee</td>
+      <td style="text-align: left">IRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">integrated rural development</td>
+      <td style="text-align: left">IRD (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Institut de recherche pour le développement</em>(Institute for Research Development)</td>
+      <td style="text-align: left">IRD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">immediate-response emergency operation</td>
+      <td style="text-align: left">IR-EMOP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">indirect support cost(s)</td>
+      <td style="text-align: left">ISC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Strategy for Disaster Reduction</td>
+      <td style="text-align: left">ISDR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">International Organization for Standardization</td>
+      <td style="text-align: left">ISO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">information technology</td>
+      <td style="text-align: left">IT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Information Technology for Humanitarian Assistance, Cooperation and Action</td>
+      <td style="text-align: left">ITHACA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">internal transport, storage and handling</td>
+      <td style="text-align: left">ITSH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Indicative World Plan for Agricultural Development</td>
+      <td style="text-align: left">IWP</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="j">J</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">joint assessment mission</td>
+      <td style="text-align: left">JAM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">joint food assessment mission</td>
+      <td style="text-align: left">JFAM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Junior Farmer Field And Life School</td>
+      <td style="text-align: left">JFFLS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Japan International Cooperation Agency</td>
+      <td style="text-align: left">JICA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Joint Inspection Unit</td>
+      <td style="text-align: left">JIU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">junior professional officer</td>
+      <td style="text-align: left">JPO</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="K">K</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">knowledge, attitude and practice</td>
+      <td style="text-align: left">KAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Kreditanstalt für Wiederaufbau</em>(German Credit Institution for Reconstruction)</td>
+      <td style="text-align: left">KfW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">key performance indicator</td>
+      <td style="text-align: left">KPI</td>
+    </tr>
+    <tr>
+        <td>
+            <h3 id="l">L</h3>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Latin America and Caribbean Emergency Response Network</td>
+      <td style="text-align: left">LACERN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">local area network</td>
+      <td style="text-align: left">LAN</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Red de Alimentación Escolar para América Latina</em>(Latin American School Feeding Network)</td>
+      <td style="text-align: left">LA-RAE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">logistics capacity assessment</td>
+      <td style="text-align: left">LCA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">least developed country</td>
+      <td style="text-align: left">LDC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Logistics Execution Support System</td>
+      <td style="text-align: left">LESS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">low-income food-deficit country</td>
+      <td style="text-align: left">LIFDC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">lower-middle income country</td>
+      <td style="text-align: left">LMIC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Letter of Agreement</td>
+      <td style="text-align: left">LOA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Letter of Understanding</td>
+      <td style="text-align: left">LOU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">logistics response team</td>
+      <td style="text-align: left">LRT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">landside transport, storage and handling</td>
+      <td style="text-align: left">LTSH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Lutheran World Federation</td>
+      <td style="text-align: left">LWF</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="M">M</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">monitoring and evaluation</td>
+      <td style="text-align: left">M&amp;E</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Malicious Acts Insurance Policy</td>
+      <td style="text-align: left">MAIP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mother-and-child health</td>
+      <td style="text-align: left">MCH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mother-and-child health and nutrition</td>
+      <td style="text-align: left">MCHN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mother-and-child nutrition</td>
+      <td style="text-align: left">MCN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">multi-donor fund</td>
+      <td style="text-align: left">MDF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Millennium Development Goal</td>
+      <td style="text-align: left">MDG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">multi-donor trust fund</td>
+      <td style="text-align: left">MDTF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Managing Environmental Resources to Enable Transitions to More Sustainable Livelihoods</td>
+      <td style="text-align: left">MERET</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Micronutrient Initiative</td>
+      <td style="text-align: left">MI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">middle-income country</td>
+      <td style="text-align: left">MIC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">multiple-indicator cluster survey</td>
+      <td style="text-align: left">MICS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Management Information System</td>
+      <td style="text-align: left">MIS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">minimum security telecommunications standards</td>
+      <td style="text-align: left">MISTS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">maize meal</td>
+      <td style="text-align: left">MM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Management Objective</td>
+      <td style="text-align: left">MO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">minimum operating residential security standards</td>
+      <td style="text-align: left">MORSS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">minimum operating security standards</td>
+      <td style="text-align: left">MOSS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Memorandum of Understanding</td>
+      <td style="text-align: left">MOU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Médecins sans frontières</em>(Doctors Without Borders)</td>
+      <td style="text-align: left">MSF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mother-to-child transmission</td>
+      <td style="text-align: left">MTCT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mid-term evaluation</td>
+      <td style="text-align: left">MTE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mid-term review</td>
+      <td style="text-align: left">MTR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mid-upper arm circumference</td>
+      <td style="text-align: left">MUAC</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="n">N</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">National Audit Office (United Kingdom)</td>
+      <td style="text-align: left">NAO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">National Adaptation Programme of Action</td>
+      <td style="text-align: left">NAPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">normalized difference vegetation index</td>
+      <td style="text-align: left">NDVI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">New Partnership for Africa’s Development</td>
+      <td style="text-align: left">NEPAD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">net enrolment rate</td>
+      <td style="text-align: left">NER</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">New Rice for Africa</td>
+      <td style="text-align: left">NERICA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">non-formal education</td>
+      <td style="text-align: left">NFE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">non-food item</td>
+      <td style="text-align: left">NFI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Note for the Record</td>
+      <td style="text-align: left">NfR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">non-governmental organization</td>
+      <td style="text-align: left">NGO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Norwegian Agency for Development Cooperation</td>
+      <td style="text-align: left">NORAD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Norwegian Refugee Council</td>
+      <td style="text-align: left">NRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Natural Resources Institute</td>
+      <td style="text-align: left">NRI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">National Staff Project</td>
+      <td style="text-align: left">NSP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">North-West Frontier Province</td>
+      <td style="text-align: left">NWFP</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="o">O</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Organization of American States</td>
+      <td style="text-align: left">OAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office for the Coordination of Humanitarian Affairs</td>
+      <td style="text-align: left">OCHA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">outstanding balance of commitment</td>
+      <td style="text-align: left">OBC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">official development assistance</td>
+      <td style="text-align: left">ODA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Overseas Development Institute</td>
+      <td style="text-align: left">ODI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">other direct operational costs</td>
+      <td style="text-align: left">ODOC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Organisation for Economic Co-operation and Development</td>
+      <td style="text-align: left">OECD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United States Office for Foreign Disaster Assistance</td>
+      <td style="text-align: left">OFDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the United Nations High Commissioner for Human Rights</td>
+      <td style="text-align: left">OHCHR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States</td>
+      <td style="text-align: left">OHRLLS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Office of Internal Oversight Services</td>
+      <td style="text-align: left">OIOS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">European Anti-Fraud Office</td>
+      <td style="text-align: left">OLAF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Operation Lifeline Sudan</td>
+      <td style="text-align: left">OLS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Organization of Petroleum Exporting Countries</td>
+      <td style="text-align: left">OPEC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">oral rehydration salts</td>
+      <td style="text-align: left">ORS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the Special Adviser on Africa</td>
+      <td style="text-align: left">OSAA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">orphans and other vulnerable children</td>
+      <td style="text-align: left">OVC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">[Never spell out]</td>
+      <td style="text-align: left">Oxfam</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="p">P</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Pan American Health Organization</td>
+      <td style="text-align: left">PAHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Purchase for Progress</td>
+      <td style="text-align: left">P4P</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Palestinian Authority/ Palestinian National Authority</td>
+      <td style="text-align: left">PA/PNA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Performance and Competency Enhancement</td>
+      <td style="text-align: left">PACE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme for Accountability and Transparency</td>
+      <td style="text-align: left">PACT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Acceleration Fund</td>
+      <td style="text-align: left">PAF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Pan American Health Organization</td>
+      <td style="text-align: left">PAHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Pan Caribbean Partnership Against HIV/AIDS</td>
+      <td style="text-align: left">PANCAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Palestinian Agricultural Relief Committee</td>
+      <td style="text-align: left">PARC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Personal Action System portal</td>
+      <td style="text-align: left">PASport</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Coordinating Board</td>
+      <td style="text-align: left">PCB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">post-distribution monitoring</td>
+      <td style="text-align: left">PDM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">public distribution system</td>
+      <td style="text-align: left">PDS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Poverty Eradication Action Plan</td>
+      <td style="text-align: left">PEAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Palestinian Economic Council for Development and Reconstruction</td>
+      <td style="text-align: left">PECDAR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">President’s Emergency Plan for AIDS Relief [United States]</td>
+      <td style="text-align: left">PEPFAR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Guidance Manual</td>
+      <td style="text-align: left">PGM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Guidance Manualwiki</td>
+      <td style="text-align: left">PGMwiki</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Partners In Health</td>
+      <td style="text-align: left">PIH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">people living with HIV</td>
+      <td style="text-align: left">PLHIV</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">pregnant and lactating women</td>
+      <td style="text-align: left">PLW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">prevention of mother-to-child transmission</td>
+      <td style="text-align: left">PMTCT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Palestinian National Authority/Palestinian Authority</td>
+      <td style="text-align: left">PNA/PA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Review Committee</td>
+      <td style="text-align: left">PRC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">protracted relief and recovery operation</td>
+      <td style="text-align: left">PRRO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Poverty Reduction Strategy Paper</td>
+      <td style="text-align: left">PRSP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Programme Support and Administrative</td>
+      <td style="text-align: left">PSA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Productive Safety Net Programme</td>
+      <td style="text-align: left">PSNP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">parent-teacher association</td>
+      <td style="text-align: left">PTA</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="q">Q</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Quality Assurance Group</td>
+      <td style="text-align: left">QAG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Quadrennial Comprehensive Policy Review</td>
+      <td style="text-align: left">QCPR</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="r">R</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">rapid assessment, analysis and action planning for orphans and other vulnerable children</td>
+      <td style="text-align: left">RAAAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">results-based management</td>
+      <td style="text-align: left">RBM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Resident Coordinator</td>
+      <td style="text-align: left">RC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">recommended daily allowance</td>
+      <td style="text-align: left">RDA (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">recommended dietary allowance</td>
+      <td style="text-align: left">RDA (2)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Renewed Efforts Against Child Hunger</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Renewed Efforts Against Child Hunger</td>
+      <td style="text-align: left">REACH</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">rest and recuperation</td>
+      <td style="text-align: left">R&amp;R</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Regional Inter-Agency Coordination and Support Office</td>
+      <td style="text-align: left">RIACSO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">rice-milk blend</td>
+      <td style="text-align: left">RMB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">real-time evaluation</td>
+      <td style="text-align: left">RTE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ready-to-use food for children</td>
+      <td style="text-align: left">RUFC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ready-to-use supplementary food</td>
+      <td style="text-align: left">RUSF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ready-to-use therapeutic food</td>
+      <td style="text-align: left">RUTF</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="s">S</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">South Asian Association for Regional Cooperation</td>
+      <td style="text-align: left">SAARC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Southern African Development Community</td>
+      <td style="text-align: left">SADC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">severe acute malnutrition</td>
+      <td style="text-align: left">SAM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SAP</td>
+      <td style="text-align: left">SAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Sahel Agricultural and Rural Development Initiative</td>
+      <td style="text-align: left">SARDI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">service contract</td>
+      <td style="text-align: left">SC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Save the Children Fund</td>
+      <td style="text-align: left">SCF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Standing Committee on Nutrition</td>
+      <td style="text-align: left">SCN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Subcommittee on Nutrition</td>
+      <td style="text-align: left">SCN</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Strengthening Emergency Needs Assessment Implementation Plan</td>
+      <td style="text-align: left">SENAIP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">supplementary feeding centre</td>
+      <td style="text-align: left">SFC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">school feeding programme</td>
+      <td style="text-align: left">SFP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Self-Insurance Account</td>
+      <td style="text-align: left">SIA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Sistema de la Integración Centroamericana</em> <strong>(Central American Integration System)</strong></td>
+      <td style="text-align: left">SICA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Swedish International Development Agency</td>
+      <td style="text-align: left">SIDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Self-Insurance Scheme</td>
+      <td style="text-align: left">SIS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">service level agreement</td>
+      <td style="text-align: left">SLA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Specific, Measurable, Attainable, Relevant and Time‑bound</td>
+      <td style="text-align: left">SMART (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Standardized Monitoring and Assessment of Relief and Transitions</td>
+      <td style="text-align: left">SMART (2)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">special operation</td>
+      <td style="text-align: left">SO (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Strategic Objective</td>
+      <td style="text-align: left">SO (2)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Special Operations Living Allowance</td>
+      <td style="text-align: left">SOLA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">standard operating procedure</td>
+      <td style="text-align: left">SOP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">standardized project report</td>
+      <td style="text-align: left">SPR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Separation Payment Scheme</td>
+      <td style="text-align: left">SPS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Strategic Resource Allocation Committee</td>
+      <td style="text-align: left">SRAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Swedish Rescue Services Agency</td>
+      <td style="text-align: left">SRSA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Special Representative of the Secretary-General</td>
+      <td style="text-align: left">SRSG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">special service agreement</td>
+      <td style="text-align: left">SSA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sexually transmitted disease</td>
+      <td style="text-align: left">STD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sexually transmitted infection/disease</td>
+      <td style="text-align: left">STI/STD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Separate Trading of Registered Interest and Principal of Securities</td>
+      <td style="text-align: left">STRIPS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">supplementary feeding programme</td>
+      <td style="text-align: left">SuFP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sector-wide approach</td>
+      <td style="text-align: left">SWAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">strength, weakness, opportunity and threat</td>
+      <td style="text-align: left">SWOT</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="t">T</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">tuberculosis</td>
+      <td style="text-align: left">TB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">to be identified</td>
+      <td style="text-align: left">TBI</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Triennial Comprehensive Policy Review</td>
+      <td style="text-align: left">TCPR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">temporary duty</td>
+      <td style="text-align: left">TDY</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">therapeutic feeding centre</td>
+      <td style="text-align: left">TFC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">therapeutic feeding programme</td>
+      <td style="text-align: left">TFP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">take-home ration</td>
+      <td style="text-align: left">THR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">terms of reference</td>
+      <td style="text-align: left">TORs</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="u">U</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">upper-middle income country</td>
+      <td style="text-align: left">UMIC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>Union économique et monétaire ouest africaine</em> (West African Economic and Monetary Union)</td>
+      <td style="text-align: left">UEMOA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations System-Wide Action Plan on Gender Equality and the Empowerment of Women</td>
+      <td style="text-align: left">UN SWAP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Joint United Nations Programme on HIV/AIDS</td>
+      <td style="text-align: left">UNAIDS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Convention to Combat Desertification</td>
+      <td style="text-align: left">UNCCD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Conference on Environment and Development</td>
+      <td style="text-align: left">UNCED</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Commission on International Trade Law</td>
+      <td style="text-align: left">UNCITRAL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations country team</td>
+      <td style="text-align: left">UNCT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Disaster Assessment and Coordination Team</td>
+      <td style="text-align: left">UNDAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Development Assistance Framework</td>
+      <td style="text-align: left">UNDAF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Development Group</td>
+      <td style="text-align: left">UNDG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Development Group Office</td>
+      <td style="text-align: left">UNDGO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Development Programme</td>
+      <td style="text-align: left">UNDP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Department of Safety and Security</td>
+      <td style="text-align: left">UNDSS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Evaluation Group</td>
+      <td style="text-align: left">UNEG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Environment Programme</td>
+      <td style="text-align: left">UNEP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Educational, Scientific and Cultural Organization</td>
+      <td style="text-align: left">UNESCO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Population Fund</td>
+      <td style="text-align: left">UNFPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Human Settlements Programme</td>
+      <td style="text-align: left">UN-Habitat</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Humanitarian Air Service</td>
+      <td style="text-align: left">UNHAS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the United Nations High Commissioner for Human Rights</td>
+      <td style="text-align: left">UNHCHR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the United Nations High Commissioner for Refugees</td>
+      <td style="text-align: left">UNHCR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Humanitarian Response Depot</td>
+      <td style="text-align: left">UNHRD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Children’s Fund</td>
+      <td style="text-align: left">UNICEF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Industrial Development Organization</td>
+      <td style="text-align: left">UNIDO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Development Fund for Women</td>
+      <td style="text-align: left">UNIFEM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><em>União Nacional para a Independência Total de Angola</em>(National Union for the Total Independence of Angola)</td>
+      <td style="text-align: left">UNITA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Joint Logistics Centre</td>
+      <td style="text-align: left">UNJLC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Joint Staff Pension Fund</td>
+      <td style="text-align: left">UNJSPF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Office for Project Services</td>
+      <td style="text-align: left">UNOPS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Relief and Works Agency for Palestine Refugees in the Near East</td>
+      <td style="text-align: left">UNRWA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations system accounting standards</td>
+      <td style="text-align: left">UNSAS (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Standby Arrangements System</td>
+      <td style="text-align: left">UNSAS (2)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Office of the United Nations Security Coordinator</td>
+      <td style="text-align: left">UNSECOORD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations System Staff College</td>
+      <td style="text-align: left">UNSSC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Trust Fund for Human Security</td>
+      <td style="text-align: left">UNTFHS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Theme Group</td>
+      <td style="text-align: left">UNTG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations University</td>
+      <td style="text-align: left">UNU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Volunteer</td>
+      <td style="text-align: left">UNV</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations Entity for Gender Equality and the Empowerment of Women</td>
+      <td style="text-align: left">UN-Women</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United Nations World Tourism Organization</td>
+      <td style="text-align: left">UNWTO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Universal Primary Education</td>
+      <td style="text-align: left">UPE</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United States Agency for International Development</td>
+      <td style="text-align: left">USAID</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United States Department of Agriculture</td>
+      <td style="text-align: left">USDA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Under-Secretary-General</td>
+      <td style="text-align: left">USG</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">United States Geological Survey</td>
+      <td style="text-align: left">USGS</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="v">V</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vulnerability Assessment Committee</td>
+      <td style="text-align: left">VAC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vulnerability analysis and mapping</td>
+      <td style="text-align: left">VAM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">value added tax</td>
+      <td style="text-align: left">VAT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">voluntary and confidential counselling and testing</td>
+      <td style="text-align: left">VCCT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">voluntary counselling and testing</td>
+      <td style="text-align: left">VCT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vouchers for food</td>
+      <td style="text-align: left">VFF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vouchers for training</td>
+      <td style="text-align: left">VFT</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vouchers for work</td>
+      <td style="text-align: left">VFW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vulnerable group feeding</td>
+      <td style="text-align: left">VGF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">very high frequency</td>
+      <td style="text-align: left">VHF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">very small aperture terminal</td>
+      <td style="text-align: left">VSAT</td>
+    </tr>
+    <tr>
+      <td>
+          <h3 id="w">W</h3>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">West African Economic and Monetary Union</td>
+      <td style="text-align: left">WAEMU</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Conference on Disaster Reduction</td>
+      <td style="text-align: left">WCDR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Working Capital Financing Facility</td>
+      <td style="text-align: left">WCFF</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Food Council</td>
+      <td style="text-align: left">WFC</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Food Summit</td>
+      <td style="text-align: left">WFS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Health Organization</td>
+      <td style="text-align: left">WHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">WFP Information Network and Global System II</td>
+      <td style="text-align: left">WINGS II</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Intellectual Property Organization</td>
+      <td style="text-align: left">WIPO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Meteorological Organization</td>
+      <td style="text-align: left">WMO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">wheat-soya blend</td>
+      <td style="text-align: left">WSB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Trade Organization</td>
+      <td style="text-align: left">WTO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">World Vision International</td>
+      <td style="text-align: left">WVI</td>
+    </tr>
+  </tbody>
+</table>
