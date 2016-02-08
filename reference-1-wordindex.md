@@ -253,19 +253,7 @@ resource: true
 * gram(s) (not gramme(s); g after a numeral)
 * grass roots (n.), grass-roots (adj.)
 * grey (not "gray")
-=======
-gauge
-General Assembly resolution
-General Regulation II.2(a)
-General Rule VII.2
-general service (GS) posts
-the Government of ...
-government (adj.)
-grain-fed
-gram(s) (not gramme(s); g after a numeral)
-grass roots (n.), grass-roots (adj.)
-grey (not "gray")
->>>>>>> Add internal navigation
+
 
 ### H
 
@@ -310,32 +298,6 @@ grey (not "gray")
 * inter-village
 * intra-regional
 * iodine deficiency
-=======
-inasmuch as
-inbred
-inbuilt; built-in
-income-generation; income-generating
-in-depth
-index, indexes (literary)/indices (numbers)
-information note (if it is a specific document: Information Note)
-infra-red
-infrastructure
-in-house
-in kind (adv.: contributions in kind; adj.: in-kind contributions)
-in-patient
-in-service
-insofar as
-install, instalment
-inter alia; avoid use “among other things” but usually redundant
-inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
-internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
-inter-sectoral
-inter-regional
-interrelated
-inter-village
-intra-regional
-iodine deficiency
->>>>>>> Add internal navigation
 
 ### J
 
