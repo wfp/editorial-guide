@@ -2,7 +2,7 @@
 title: "WFP Editorial Style Guide"
 email: "me@matthewmorek.com"
 description: ""
-baseurl: "/guides/editorial" # WFP CDN
+# baseurl: "/guides/editorial" # WFP CDN
 url: "https://cdn.wfp.org/" # WFP CDN
 
 exclude: ["*.sublime-*", "*.sh", "*.yml", "*.DS_*"]
