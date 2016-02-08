@@ -8,7 +8,7 @@ resource: true
 
 <nav class="sub-nav">
   <div class="pure-menu pure-menu-open">
-    <h6 class="pure-menu-heading">English Acronyms</h6>
+    <h6 class="pure-menu-heading">Navigation</h6>
     <ul>
       <li><a href="#a">A</a></li>
       <li><a href="#b">B</a></li>
