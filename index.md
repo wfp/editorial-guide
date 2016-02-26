@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WFP Editorial Guide
+title: WFP Style Guide
 ---
 
 This World Food Programme (WFP) Style Guide sets out the style conventions used in WFP and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP style.
@@ -13,9 +13,9 @@ Adjust the discourse to intended readers. Do not assume they have technical know
 
 Aim for clarity, accuracy, continuity and consistency.
 
-## For further information: Tools of the trade
+## For further information:
 
-* Preferred word forms and spellings, acronyms, country names and WFP organizational acronyms may be found on the WFP/FAO portal at [http://www.fao.org/faoterm/en/](http://www.fao.org/faoterm/en/). 
+* Acronyms, names of countries and preferred word forms and spellings may be found on the WFP/FAO portal at [http://www.fao.org/faoterm/en/](http://www.fao.org/faoterm/en/). 
 * Use the latest edition of the [Shorter Oxford English Dictionary](https://en.wikipedia.org/wiki/Shorter_Oxford_English_Dictionary), the [Concise Oxford English Dictionary](https://en.wikipedia.org/wiki/Concise_Oxford_English_Dictionary) – or the [Oxford English Dictionary](http://www.oed.com/), all of which are available online.
 * [UNTERM](http://untermportal.un.org/) provides official United Nations terminology.
 
