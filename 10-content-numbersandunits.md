@@ -52,7 +52,7 @@ Use **percent** (not per cent or %) in text. The use of % is acceptable only in 
 
 ### Currency
 
-Use the abbreviations **USD** for United States dollars and **EUR** for Euros.
+For internal documents, use the abbreviations **USD** for United States dollars and **EUR** for Euros.
 
 In text, one decimal place is preferred for all amounts in millions.
 
@@ -70,6 +70,8 @@ In text, amounts under 1 million are written in hundreds of thousands (without d
 
 > **USD 873,300 will finance technical assistance and special studies.** (not USD 0.873 million.)
 {: .notice }
+
+For any public facing material US$ should be used to denote currency in US dollars whereas for WFP internal and EB documents  this should be written as USD.   
 
 ### Dates
 
