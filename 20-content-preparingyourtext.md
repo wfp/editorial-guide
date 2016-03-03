@@ -1,5 +1,5 @@
 ---
-title: Preparing your text
+title: Preparing your text for publication (does not apply to Executive Board documents)
 permalink: /content/preparing-your-text/
 categories: Content
 layout: page
