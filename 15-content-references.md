@@ -1,5 +1,5 @@
 ---
-title: References
+title: Footnotes
 permalink: /content/references/
 categories: Content
 layout: page
