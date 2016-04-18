@@ -2,7 +2,7 @@
 
 ## Page Breaks
 
-To include page breaksn for print copy the following:
+To include page breaks for print copy, use the following:
 
 ```
 <div class="page-break"></div>
