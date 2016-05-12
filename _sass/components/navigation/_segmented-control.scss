@@ -7,50 +7,65 @@
 // Segmented Controls
 // [docs-url]/components/navigation/#segmented-controls
 // -----------------------------------------------------------------------------
-%segmented-control {
+%seg-control {
   @extend %no-list;
   display: inline-block;
-  height: 32px;
+  height: 2em;
+  padding: 0;
+  margin: 0;
   text-align: center;
 }
 
-%segmented-control--item {
+%seg-control--item {
   display: table-cell;
-  border: 1px solid $primary;
-  border-left: none;
+  border: 1px solid darken($primary, 12%);
+  border-left: 0;
   position: relative;
   z-index: 1;
+  vertical-align: middle;
+
   &:first-child {
     border-radius: 2px 0 0 2px;
-    border-left: 1px solid $primary;
+    border-left: 1px solid darken($primary, 12%);
   }
+
   &:last-child {
     border-radius: 0 2px 2px 0;
   }
 }
 
-%segmented-control--link {
-  padding: 0.25rem 0.75rem;
+%seg-control--link {
+  padding: 0.33em 0.75em;
   width: auto;
-  border: none;
-  color: $primary;
-  font-size: 0.875rem;
+  border: 0;
+  color: darken($primary, 12%);
+  font-size: 0.875em;
+  font-weight: bold;
   display: block;
-  &:hover {
-    color: $grey;
+
+  [class*="icon-"] {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+    vertical-align: text-bottom;
+    margin: 0 0.25em;
   }
-  &.active {
-    background-color: $primary;
+
+  &.active,
+  &:hover {
+    background-color: darken($primary, 12%);
     color: $white;
   }
 }
 
-.segmented-control {
-  @extend %segmented-control;
-  .segmented-control--item {
-    @extend %segmented-control--item;
+.wfp-seg-control {
+  @extend %seg-control;
+
+  .seg-control--item {
+    @extend %seg-control--item;
   }
-  .segmented-control--link {
-    @extend %segmented-control--link;
+
+  .seg-control--link {
+    @extend %seg-control--link;
   }
 }
