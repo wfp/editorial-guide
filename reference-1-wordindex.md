@@ -5,34 +5,33 @@ categories: Reference
 layout: page
 resource: true
 ---
-<nav class="sub-nav">
-  <div class="pure-menu pure-menu-open">
-    <h6 class="pure-menu-heading">Navigation</h6>
-    <ul>
-      <li><a href="#a">A</a></li>
-      <li><a href="#b">B</a></li>
-      <li><a href="#c">C</a></li>
-      <li><a href="#d">D</a></li>
-      <li><a href="#f">F</a></li>
-      <li><a href="#g">G</a></li>
-      <li><a href="#h">H</a></li>
-      <li><a href="#i">I</a></li>
-      <li><a href="#j">J</a></li>
-      <li><a href="#k">K</a></li>
-      <li><a href="#l">L</a></li>
-      <li><a href="#m">M</a></li>
-      <li><a href="#n">N</a></li>
-      <li><a href="#o">O</a></li>
-      <li><a href="#p">P</a></li>
-      <li><a href="#s">S</a></li>
-      <li><a href="#t">T</a></li>
-      <li><a href="#u">U</a></li>
-      <li><a href="#v">V</a></li>
-      <li><a href="#w">W</a></li>
-      <li><a href="#y">Y</a></li>
-      <li><a href="#z">Z</a></li>
-    </ul>
-  </div>
+
+<nav>
+  <h6 class="pure-menu-heading">Navigation</h6>
+  <ul class="wfp-seg-control">
+    <li class="seg-control--item"><a class="seg-control--link" href="#a">A</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#b">B</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#c">C</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#d">D</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#f">F</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#g">G</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#h">H</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#i">I</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#j">J</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#k">K</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#l">L</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#m">M</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#n">N</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#o">O</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#p">P</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#s">S</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#t">T</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#u">U</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#v">V</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#w">W</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#y">Y</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#z">Z</a></li>
+  </ul>
 </nav>
 
 ### A
