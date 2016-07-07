@@ -51,6 +51,10 @@ resource: true
         </td>
         <td></td>
     </tr>
+	<tr>
+      <td style="text-align: left">accountability to affected populations</td>
+      <td style="text-align: left">AAP</td>
+    </tr>
     <tr>
       <td style="text-align: left">Advisory Committee on Administrative and Budgetary Questions</td>
       <td style="text-align: left">ACABQ</td>
@@ -372,7 +376,11 @@ resource: true
       <td style="text-align: left">CPA</td>
     </tr>
     <tr>
-      <td style="text-align: left">Compensation Plan Reserve Fund</td>
+      <td style="text-align: left">Country Portfolio Budget</td>
+      <td style="text-align: left">CPB</td>
+    </tr>
+    <tr>     
+	 <td style="text-align: left">Compensation Plan Reserve Fund</td>
       <td style="text-align: left">CPRF</td>
     </tr>
     <tr>
@@ -612,7 +620,15 @@ resource: true
       <td style="text-align: left">EFSR</td>
     </tr>
     <tr>
-      <td style="text-align: left">emergency market mitigation account</td>
+      <td style="text-align: left">Executive Management Group</td>
+      <td style="text-align: left">EMG</td>
+    </tr>
+    <tr> 
+    <td style="text-align: left">Education Management Information System</td>
+      <td style="text-align: left">EMIS</td>
+    </tr>
+    <tr> 
+	 <td style="text-align: left">emergency market mitigation account</td>
       <td style="text-align: left">EMMA</td>
     </tr>
     <tr>
@@ -656,7 +672,11 @@ resource: true
       <td style="text-align: left">ESHI</td>
     </tr>
     <tr>
-      <td style="text-align: left">European Union</td>
+      <td style="text-align: left">Emergency telecommunications cluster</td>
+      <td style="text-align: left">ETC</td>
+    </tr>
+    <tr> 
+	  <td style="text-align: left">European Union</td>
       <td style="text-align: left">EU</td>
     </tr>
     <tr>
@@ -690,6 +710,10 @@ resource: true
       <td style="text-align: left">FAST</td>
     </tr>
     <tr>
+	td style="text-align: left">Functional and Support Training for Emergency Response</td>
+      <td style="text-align: left">FASTER</td>
+    </tr>
+    <tr>
       <td style="text-align: left">fortified blended food</td>
       <td style="text-align: left">FBF</td>
     </tr>
@@ -700,6 +724,10 @@ resource: true
     <tr>
       <td style="text-align: left">full cost recovery</td>
       <td style="text-align: left">FCR</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">food consumption score</td>
+      <td style="text-align: left">FCS</td>
     </tr>
     <tr>
       <td style="text-align: left">final delivery point</td>
@@ -808,6 +836,10 @@ resource: true
       <td style="text-align: left">GAVI</td>
     </tr>
     <tr>
+	<td style="text-align: left">Global Commodity Management Facility</td>
+      <td style="text-align: left">GCMF</td>
+    </tr>
+    <tr>
       <td style="text-align: left">gender-related development index</td>
       <td style="text-align: left">GDI</td>
     </tr>
@@ -842,6 +874,10 @@ resource: true
     <tr>
       <td style="text-align: left">generic job profile</td>
       <td style="text-align: left">GJP</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">Gender Mainstreaming Accountability Framework</td>
+      <td style="text-align: left">GMAF</td>
     </tr>
     <tr>
       <td style="text-align: left">genetically modified organism</td>
@@ -1298,6 +1334,10 @@ resource: true
       <td style="text-align: left">LMIC</td>
     </tr>
     <tr>
+	<td style="text-align: left">Learning Management System</td>
+      <td style="text-align: left">LMS</td>
+    </tr>
+    <tr>
       <td style="text-align: left">Letter of Agreement</td>
       <td style="text-align: left">LOA</td>
     </tr>
@@ -1332,6 +1372,10 @@ resource: true
       <td style="text-align: left">MAIP</td>
     </tr>
     <tr>
+	<td style="text-align: left">moderate acute malnutrition</td>
+      <td style="text-align: left">MAM</td>
+    </tr>
+    <tr>
       <td style="text-align: left">mother-and-child health</td>
       <td style="text-align: left">MCH</td>
     </tr>
@@ -1354,6 +1398,10 @@ resource: true
     <tr>
       <td style="text-align: left">multi-donor trust fund</td>
       <td style="text-align: left">MDTF</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">M&E Learning Programme</td>
+      <td style="text-align: left">MELP</td>
     </tr>
     <tr>
       <td style="text-align: left">Managing Environmental Resources to Enable Transitions to More Sustainable Livelihoods</td>
@@ -1400,8 +1448,20 @@ resource: true
       <td style="text-align: left">MOU</td>
     </tr>
     <tr>
+	<td style="text-align: left">Management Result Dimension</td>
+      <td style="text-align: left">MRD</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">Management Results Framework</td>
+      <td style="text-align: left">MRF</td>
+    </tr>
+    <tr>
       <td style="text-align: left"><em>Médecins sans frontières</em>(Doctors Without Borders)</td>
       <td style="text-align: left">MSF</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">monthly subsistence living sum</td>
+      <td style="text-align: left">MSLS</td>
     </tr>
     <tr>
       <td style="text-align: left">mother-to-child transmission</td>
@@ -1414,6 +1474,10 @@ resource: true
     <tr>
       <td style="text-align: left">mid-term review</td>
       <td style="text-align: left">MTR</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">mobile vulnerability analysis and mapping</td>
+      <td style="text-align: left">mVAM</td>
     </tr>
     <tr>
       <td style="text-align: left">mid-upper arm circumference</td>
@@ -1432,6 +1496,10 @@ resource: true
     <tr>
       <td style="text-align: left">National Adaptation Programme of Action</td>
       <td style="text-align: left">NAPA</td>
+    </tr>
+    <tr>
+	 <td style="text-align: left">national capacity index</td>
+      <td style="text-align: left">NCI</td>
     </tr>
     <tr>
       <td style="text-align: left">normalized difference vegetation index</td>
@@ -1532,7 +1600,7 @@ resource: true
       <td style="text-align: left">OHRLLS</td>
     </tr>
     <tr>
-      <td style="text-align: left">United Nations Office of Internal Oversight Services</td>
+	      <td style="text-align: left">United Nations Office of Internal Oversight Services</td>
       <td style="text-align: left">OIOS</td>
     </tr>
     <tr>
@@ -1546,6 +1614,10 @@ resource: true
     <tr>
       <td style="text-align: left">Organization of Petroleum Exporting Countries</td>
       <td style="text-align: left">OPEC</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">WFP Operations Centre</td>
+      <td style="text-align: left">OPSCEN</td>
     </tr>
     <tr>
       <td style="text-align: left">oral rehydration salts</td>
@@ -1710,8 +1782,16 @@ resource: true
       <td style="text-align: left">RAAAP</td>
     </tr>
     <tr>
+	<td style="text-align: left">Rome-based agency</td>
+      <td style="text-align: left">RBA</td>
+    </tr>
+    <tr>
       <td style="text-align: left">results-based management</td>
       <td style="text-align: left">RBM</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">resource-based planning</td>
+      <td style="text-align: left">RBP</td>
     </tr>
     <tr>
       <td style="text-align: left">Resident Coordinator</td>
@@ -1762,6 +1842,10 @@ resource: true
       <td style="text-align: left">RUTF</td>
     </tr>
     <tr>
+	<td style="text-align: left">respectful workplace advisor</td>
+      <td style="text-align: left">RWA</td>
+    </tr>
+    <tr>
       <td>
           <h3 id="s">S</h3>
       </td>
@@ -1802,6 +1886,10 @@ resource: true
     <tr>
       <td style="text-align: left">Subcommittee on Nutrition</td>
       <td style="text-align: left">SCN</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">WFP’s corporate digital beneficiary and transfer-management platform</td>
+      <td style="text-align: left">SCOPE</td>
     </tr>
     <tr>
       <td style="text-align: left">Strengthening Emergency Needs Assessment Implementation Plan</td>
@@ -1872,6 +1960,10 @@ resource: true
       <td style="text-align: left">SRAC</td>
     </tr>
     <tr>
+	<td style="text-align: left">Strategic Results Framework</td>
+      <td style="text-align: left">SRF</td>
+    </tr>
+    <tr>
       <td style="text-align: left">Swedish Rescue Services Agency</td>
       <td style="text-align: left">SRSA</td>
     </tr>
@@ -1900,6 +1992,10 @@ resource: true
       <td style="text-align: left">SuFP</td>
     </tr>
     <tr>
+	<td style="text-align: left">Scaling Up Nutrition</td>
+      <td style="text-align: left">SUN</td>
+    </tr>
+    <tr>
       <td style="text-align: left">sector-wide approach</td>
       <td style="text-align: left">SWAP</td>
     </tr>
@@ -1916,6 +2012,10 @@ resource: true
     <tr>
       <td style="text-align: left">tuberculosis</td>
       <td style="text-align: left">TB</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">tuberculosis directly observed treatment</td>
+      <td style="text-align: left">TB-DOTS</td>
     </tr>
     <tr>
       <td style="text-align: left">to be identified</td>
@@ -2214,6 +2314,10 @@ resource: true
     <tr>
       <td style="text-align: left">World Health Organization</td>
       <td style="text-align: left">WHO</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">World Humanitarian Summit</td>
+      <td style="text-align: left">WHS</td>
     </tr>
     <tr>
       <td style="text-align: left">WFP Information Network and Global System II</td>
