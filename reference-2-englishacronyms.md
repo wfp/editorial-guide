@@ -623,11 +623,11 @@ resource: true
       <td style="text-align: left">Executive Management Group</td>
       <td style="text-align: left">EMG</td>
     </tr>
-    <tr> 
+    <tr>
     <td style="text-align: left">Education Management Information System</td>
       <td style="text-align: left">EMIS</td>
     </tr>
-    <tr> 
+    <tr>
 	 <td style="text-align: left">emergency market mitigation account</td>
       <td style="text-align: left">EMMA</td>
     </tr>
@@ -675,7 +675,7 @@ resource: true
       <td style="text-align: left">Emergency telecommunications cluster</td>
       <td style="text-align: left">ETC</td>
     </tr>
-    <tr> 
+    <tr>
 	  <td style="text-align: left">European Union</td>
       <td style="text-align: left">EU</td>
     </tr>
@@ -710,7 +710,7 @@ resource: true
       <td style="text-align: left">FAST</td>
     </tr>
     <tr>
-	td style="text-align: left">Functional and Support Training for Emergency Response</td>
+    	<td style="text-align: left">Functional and Support Training for Emergency Response</td>
       <td style="text-align: left">FASTER</td>
     </tr>
     <tr>
