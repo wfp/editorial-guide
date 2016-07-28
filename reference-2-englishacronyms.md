@@ -18,9 +18,9 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#h">H</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#i">I</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#j">J</a></li>
-    <li class="seg-control--item"><a class="seg-control--link" href="#k">K</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#K">K</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#l">L</a></li>
-    <li class="seg-control--item"><a class="seg-control--link" href="#m">M</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#M">M</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#n">N</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#o">O</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#p">P</a></li>
