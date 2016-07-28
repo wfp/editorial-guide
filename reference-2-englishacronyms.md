@@ -15,7 +15,7 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#e">E</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#f">F</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#g">G</a></li>
-    <li class="seg-control--item"><a class="seg-control--link" href="#h">U</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#h">H</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#i">I</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#j">J</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#k">K</a></li>
@@ -26,6 +26,7 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#p">P</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#p">Q</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#r">R</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#s">S</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#t">T</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#u">U</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#v">V</a></li>
