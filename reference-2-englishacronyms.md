@@ -24,7 +24,7 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#n">N</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#o">O</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#p">P</a></li>
-    <li class="seg-control--item"><a class="seg-control--link" href="#p">Q</a></li>
+    <li class="seg-control--item"><a class="seg-control--link" href="#q">Q</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#r">R</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#s">S</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#t">T</a></li>
