@@ -32,6 +32,7 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#v">V</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#w">W</a></li>
   </ul>
+  <button class="pure-button small fixed--btn" id="js-trigger-top">Top</button>
 </nav>
 
 

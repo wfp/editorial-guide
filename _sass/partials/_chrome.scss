@@ -304,3 +304,23 @@ pre > code {
   @include notice($red);
 
 }
+
+// Fix scroll btn to right bottom
+// Allow styled button on a a white background
+.fixed {
+  &--btn {
+    // Fix btn to the bottom right
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    // style btn
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-touch-callout: none;
+    user-select: none;
+    border: 1px solid $primary;
+    background-color: transparent;
+    color: $primary;
+    border-radius: 3px;
+    box-shadow: none;
+  }
+}

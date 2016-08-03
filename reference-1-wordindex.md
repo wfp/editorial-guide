@@ -34,6 +34,7 @@ resource: true
     <li class="seg-control--item"><a class="seg-control--link" href="#y">Y</a></li>
     <li class="seg-control--item"><a class="seg-control--link" href="#z">Z</a></li>
   </ul>
+  <button class="pure-button small fixed--btn" id="js-trigger-top">Top</button>
 </nav>
 
 ### A
