@@ -6,7 +6,7 @@ layout: page
 resource: true
 ---
 
-<nav>
+<nav class="segmented-controls--fixed">
   <h6 class="pure-menu-heading">Navigation</h6>
   <ul class="wfp-seg-control">
     <li class="seg-control--item"><a class="seg-control--link" href="#a">A</a></li>
