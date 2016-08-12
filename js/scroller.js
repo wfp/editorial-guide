@@ -1,9 +1,9 @@
 $(window).scroll(function() {
 if ($(this).scrollTop() > 140){
-    $('.page-content > nav').addClass("sticky");
+    $('.page nav').addClass("sticky");
   }
   else{
-    $('.page-content > nav').removeClass("sticky");
+    $('.page nav').removeClass("sticky");
   }
 });
 
@@ -14,30 +14,19 @@ $('#js-trigger-top').on('click', function(){
   $('.page-content > nav').removeClass("sticky");
 });
 
-// var sgnav = $( ".segmented-controls--fixed");
-// var offset = sgnav.offset();
-// // sgnav.html( "left: " + offset.left + ", top: " + offset.top );
 
-// var segnav = $( ".segmented-controls--fixed" ).offset().top;
-// var offset = segnav.offset();
+(function () {
 
-var calcOffsetNav = function() {
-  // calculate distance
-  var distance = $( ".segmented-controls--fixed").offset().top;
-  // if distance is greater than 250
-  if(distance > 250) {
-    return "greater than 250";
-    // move navigation out of `.page-content`
-    // On anchor click (alphabetical segmented controls)
-    // - Remove existing margin-top to `page-content`
-    // - Add margin-top to `.page-content`
-    // - Note: Adding margin and then clicking on another link cancels out the `margin-top`
-  } else {
-    // if less than
-    // Nothing. Could integrate with `scrollTop`
-    return "less than <250";
-  }
-};
-
-// print out in console the distance from top
-console.log(calcOffsetNav());
+  'use strict';
+  // @todo: move navigation out of `.page-content`
+  // - currently `segmented-control` is inside `.page-content`
+  $('.seg-control--link').on('click', function () {
+    // distance of `segmented-control` from top. This is the overlap.
+    var distance = $(".segmented-controls--fixed").position().top;
+    // remove existing margin-top
+    $('.page-content').css('margin-top', '');
+    // @todo: add new margin to offset margin-top - need to add distance to offset overlap
+    // - can work out position from top via `position().top` or `offset()`
+    $('.page-content').css('margin-top', offset);
+  });
+})();
