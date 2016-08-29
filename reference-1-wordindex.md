@@ -295,6 +295,7 @@ resource: true
 * inter alia; avoid use “among other things” but usually redundant
 * inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
 * internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
+* internet
 * inter-sectoral
 * inter-regional
 * interrelated
