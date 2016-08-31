@@ -268,6 +268,7 @@ resource: true
 * health-care worker
 * high-yielding (variety)
 * hillside
+* home-grown
 * home-made
 * homepage
 * home-making
