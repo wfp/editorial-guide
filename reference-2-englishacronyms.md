@@ -963,7 +963,7 @@ resource: true
       <td style="text-align: left">HEWS</td>
     </tr>
     <tr>
-      <td style="text-align: left">Home Grown School Feeding Programme but “home-grown” when used generically]</td>
+      <td style="text-align: left">Home Grown School Feeding Programme [but “home-grown” when used generically]</td>
       <td style="text-align: left">HGSFP</td>
     </tr>
     <tr>
