@@ -105,6 +105,7 @@ resource: true
 * birth rate
 * birthweight
 * the Board
+* bulgur wheat
 * breadwinner
 * breakdown (n); break down (v.)
 * breastfeeding
