@@ -8,7 +8,7 @@ resource: true
 
 ### Geographical terms
 
-Check the names of countries, towns, etc. on the internet or consult [FAOTERM Names of Countries](http://termportal.fao.org/faonocs/appl/). [UNTERM](http://untermportal.un.org/) may also be helpful.
+Check the names of countries, towns, etc. on the internet or consult [FAOTERM Names of Countries](http://termportal.fao.org/faonocs/appl/). [UNTERM](http://untermportal.un.org/) may also be helpful.  
 (Please also see the subsection on Names of countries in the Spelling section of this guide.)
 
 Use e.g. "the north" (noun and direction) and "northern" (adjective).
