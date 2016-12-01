@@ -1,5 +1,5 @@
 ---
-title: Place names
+title: Country/place names
 permalink: /content/place-names/
 categories: Content
 layout: page
