@@ -43,7 +43,7 @@ resource: true
 * abridgement (not "abridgment")
 * accommodation (not "accommodations")
 * acknowledgement (not "acknowledgment")
-* acreage
+* acreage (prefer area)
 * addendum (pl. addenda)
 * ad hoc (use "as required")
 * advice (n.); advise (v.)
@@ -341,7 +341,7 @@ resource: true
 * livestock
 * logical framework ("logframe" in tables)
 * long term; long-term (adj.)
-* long standing
+* long-standing
 * low birthweight, low-birthweight baby
 
 ### M
@@ -474,7 +474,7 @@ resource: true
 * resolution
 * rights-based approach
 * riverbed; riverbank; riverside
-* roll-out
+* roll-out(noun)roll out (verb)
 * root crop
 * run off (for water); run-off (election or race)
 
@@ -504,7 +504,7 @@ resource: true
 * session, but the Annual Session, Third Regular Session, etc.
 * setback; to set back
 * sharecropper; sharecropping
-* shelf life
+* shelf-life
 * shortfall
 * short term (n.); short-term (adj.)
 * side effect
@@ -572,7 +572,7 @@ resource: true
 * topsoil
 * traffickers
 * transactional sex (sex in exchange for food as opposed to commercial sex, i.e., prostitution)
-* trans-border
+* transborder
 * transferring
 * transhipment
 * transhumance; transhumant
@@ -615,7 +615,7 @@ resource: true
 * water supply
 * water table
 * “we”- avoid it; use "WFP” or “the Secretariat"
-* Website; but "the Web" and "web page"
+* website; but "the Web" and "web page"
 * well-being
 * wheat flour
 * WiikHall "brand name; prefer "temporary structure"
