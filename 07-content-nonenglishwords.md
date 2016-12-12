@@ -6,7 +6,7 @@ layout: page
 resource: true
 ---
 
-If necessary, briefly explain local terms in a footnote when they're first mentioned, for example "walo<sup>1</sup> (<sup>1</sup>low-lying land flooded during part of the year)", "woreda (administrative district)".
+If necessary, briefly explain local terms in a footnote when they're first mentioned, for example "**_walo_** (low-lying land flooded during part of the year)","**_woreda_** (administrative district)".
 
 Some __Greek and Latin__ words have passed into common usage in English – but be careful with the plural forms:
 
