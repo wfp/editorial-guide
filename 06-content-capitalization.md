@@ -33,20 +33,16 @@ The titles of **documents** are set in roman in quotation marks, with capital in
 
 For **publications**, use capitals for the initial letters except for articles and prepositions, and set the title in *italics*.
 
-> **_Committee members will need copies of Eradicating Swine Fever: a Field Manual for Practitioners at the meeting._**
+> Committee members will need copies of **Eradicating Swine Fever: a Field Manual for Practitioners** at the meeting.
 {: .notice }
 
 **_Government names_**
 
-When referring to a government, use a capital letter.
-
-> **The French Government ruled that ....**
-{: .notice }
-
-When referring to more than one government, use a lowercase letter.
-
-> **The governments of France and Morocco were asked to comment on the ruling.**
-{: .notice }
+Government is capitalized when it refers to a certain government but not when it is plural or used as an adjective:
+* the Government will provide funding; 
+* it is a government programme; 
+* the governments of the Russian Federation and Mozambique were present; and
+* the Government of Uganda responded.
 
 Words such as *committee* and *commission* take a capital letter only when used as part of a proper name. The word *Secretariat* takes a capital letter when referring to WFP.
 
