@@ -235,12 +235,12 @@ resource: true
       <td style="text-align: left">CARICOM</td>
     </tr>
     <tr>
-      <td style="text-align: left">community-based organization</td>
-      <td style="text-align: left">CBO</td>
+	<td style="text-align: left">Cash-based transfer</td>
+      <td style="text-align: left">CBT</td>
     </tr>
     <tr>
-      <td style="text-align: left">community-based targeting</td>
-      <td style="text-align: left">CBT</td>
+      <td style="text-align: left">community-based organization</td>
+      <td style="text-align: left">CBO</td>
     </tr>
     <tr>
       <td style="text-align: left">community-based targeting and distribution</td>
@@ -433,6 +433,14 @@ resource: true
     <tr>
       <td style="text-align: left">community-based therapeutic care</td>
       <td style="text-align: left">CTC</td>
+	  </tr>
+    <tr>
+      <td style="text-align: left">Corporate Results Framework</td>
+      <td style="text-align: left">CRF</td>
+    </tr>
+    <tr>
+	<td style="text-align: left">country strategic plan</td>
+      <td style="text-align: left">CSP</td>
     </tr>
     <tr>
         <td>
@@ -992,6 +1000,11 @@ resource: true
         </td>
         <td></td>
     </tr>
+    <tr>
+      <td style="text-align: left">Integrated Road Map</td>
+      <td style="text-align: left">IRM</td>
+    </tr>
+    <tr></tr>
     <tr>
       <td style="text-align: left">International Alliance Against Hunger</td>
       <td style="text-align: left">IAAH</td>
