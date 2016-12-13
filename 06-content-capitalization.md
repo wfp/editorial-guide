@@ -39,10 +39,12 @@ For **publications**, use capitals for the initial letters except for articles a
 **_Government names_**
 
 Government is capitalized when it refers to a certain government but not when it is plural or used as an adjective:
+
 * the Government will provide funding; 
 * it is a government programme; 
 * the governments of the Russian Federation and Mozambique were present; and
 * the Government of Uganda responded.
+
 
 Words such as *committee* and *commission* take a capital letter only when used as part of a proper name. The word *Secretariat* takes a capital letter when referring to WFP.
 
