@@ -56,7 +56,7 @@ Tables, figures and boxes are usually numbered consecutively throughout a public
 
 All tables, figures and boxes should be positioned as soon as possible after the first text reference (e.g. see **Figure 1**). Where relevant, sources for any data used to compile tables and figures should be acknowledged.
 
-### Appendixes 
+### Appendices 
 
 Material that is not essential to the main text but that is useful to the reader for further clarification may be placed in an appendix. An appendix is not where you place landscape or large tables or figures. These should still be included in the main text at the nearest possible point after the reference in the text. 
 
