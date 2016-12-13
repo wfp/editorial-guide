@@ -162,11 +162,11 @@ __Concerned__. Putting *concerned* before the noun risks conveying the sense tha
 
 __False intensifiers__. Do not use *very, particularly, extremely*, etc. with words such as *critical, crucial, decisive, fundamental, unique or usual.* Something either is crucial, unique, etc. or it is not; there’s no degree and therefore no need for intensifiers. In general, avoid intensifiers: they are subjective terms that dilute meaning.
 
-__Fewer__ or __less__. Use *fewer* only when referring to items that are *countable*: "There are fewer people here today than there were yesterday." *Less* is used for *uncountable* quantities: "He has put less effort into this job."
+__Fewer__ or __less__. Use *fewer* when referring to items that are *countable*: "There are fewer people here today than there were yesterday." *Less* is used for *uncountable* quantities: "He has put less effort into this job."
 
 __Level__. Use *the* before an adjective qualifying *level*, as in "At *the* national level", not "at national level".
 
-__Male/Female.__ Use *men* and *women* as adjectives when referring to people, not male and female (exception: male or female members of a family or household): “household headed by women” (not “female-headed household”).
+__Male/Female.__ Use *men* and *women* as adjectives when referring to people, not male and female (exception: male or female members of a family or household): “household headed by a woman” (not “female-headed household”).
 
 __Mobilize__. Does not mean *animate, encourage or stimulate*. It means "organize for service or action", "render movable", "bring into circulation".
 
