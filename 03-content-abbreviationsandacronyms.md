@@ -14,7 +14,7 @@ If a name appears in the text only once, write it in full.
 
 No acronyms should be used in the executive summaries of Executive Board documents, except for WFP and HIV/AIDS.
 
-Use the form **e-mail(s)**, lowercase (unless the term is the first word in a sentence) with hyphen.
+Use the form **email(s)**, lowercase (unless the term is the first word in a sentence).
 
 When referring to US dollars use **USD** with a hard space between the letters and the number and between the numerals and the word "million" – e.g. **USD 43.2 million**. For the Euro use **EUR**.
 
