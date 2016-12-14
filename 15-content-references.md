@@ -14,7 +14,7 @@ Footnotes should be brief, limited to providing references or extra information 
 
 For published references:
 
-Smith, J. & Brown, J.B. 2001. _The School Feeding Handbook._ New York, HarperCollins.
+Smith, J. & Brown, J.B. 2001.  _The School Feeding Handbook._  New York, HarperCollins.
 
 Smith, J. 1999. Feeding Children. _Journal of Nutrition_ 8(6): 22–23.
 
