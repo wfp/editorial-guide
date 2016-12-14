@@ -9,7 +9,9 @@ resource: true
 ### Published sources
 
 All references must include: 
+
 i) books – name of author(s) in bold, year of publication, title (italics), internet address rather than place of publication and publisher when possible; if the place of publication is a national capital, there is no need to include the name of the country;
+
 ii) articles – author(s)(bold), year, article title (in normal font), journal title (*italic*), volume (issue no. in brackets) and pages.
 
 Give the names of all the authors of a work. When an author has written more than one work in the same year, use a, b, etc. to differentiate, e.g. 1996a, 1996b.
