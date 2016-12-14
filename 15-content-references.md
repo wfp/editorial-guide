@@ -14,9 +14,9 @@ Footnotes should be brief, limited to providing references or extra information 
 
 For published references:
 
-> __Smith, J. & Brown, J.B. 2001. **_The School Feeding Handbook.**_ New York, HarperCollins.__
+> Smith, J. & Brown, J.B. 2001. _The School Feeding Handbook._ New York, HarperCollins.__
 
-> __Smith, J. 1999. Feeding Children. **_Journal of Nutrition**_ 8(6): 22–23.__
+> Smith, J. 1999. Feeding Children. _Journal of Nutrition_ 8(6): 22–23.
 
 Note that articles are set in normal roman font. The titles of books and book-length documents such as manuals and handbooks are *italicized*.
 
