@@ -44,4 +44,3 @@ If the word(s) or phrase is followed by punctuation, the footnote number is plac
 
 __... at the end of the programme,__<sup>7</sup> __when ...__
 
-__... at the end of the programme,__<sup>7</sup> __when ...__
