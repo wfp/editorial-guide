@@ -13,7 +13,7 @@ The title page should show:
 * the name of the World Food Programme in full, place of publication and year of publication 
 * main title 
 * subsidiary title (if applicable) 
-* author(s’) names; abbreviated address if required 
+* abbreviated address if required 
 * name of series (if applicable). 
 
 ### Copyright page 
