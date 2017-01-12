@@ -6,7 +6,9 @@ layout: page
 resource: true
 ---
 
-If necessary, briefly explain local terms in a footnote when they're first mentioned, for example "**_walo_** (low-lying land flooded during part of the year)","**_woreda_** (administrative district)".
+If necessary, briefly explain local terms in a footnote when they're first mentioned, for example "...**_walo_** (low-lying land flooded during part of the year)...","...**_woreda_** (administrative district)...".
+
+Non-English words are set in italics, without using quotes.
 
 Some __Greek and Latin__ words have passed into common usage in English – but be careful with the plural forms:
 
