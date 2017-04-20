@@ -403,6 +403,7 @@ resource: true
 * overcropping
 * overestimate
 * overexploitation
+* overnutrition
 * over-reliance
 * overriding
 
