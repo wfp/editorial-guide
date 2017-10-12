@@ -493,8 +493,7 @@ resource: true
 * schoolteacher
 * school feeding programme
 * second-hand
-* second regular
-* session of the Board
+* second regular session of the Board
 * Secretary-General
 * sectoral (not "sectorial")
 * seed bank
