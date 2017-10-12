@@ -73,7 +73,7 @@ resource: true
 * anaemia (not "anemia")
 * analyse
 * Annex (I, II, III etc.)
-* Annual Session of the Board
+* annual session of the Board
 * antenatal (words with prefix ante are closed up)
 * anti-personnel mine
 * assist + in + gerund or noun (e.g. "assist in planning"; never assist + infinitive)
@@ -218,7 +218,7 @@ resource: true
 * fertilizer
 * field office (do not confuse with "country office")
 * fieldwork; fieldworker
-* First Regular Session of the Board (EB.1)
+* first regular session of the Board (EB.1)
 * five-year plan
 * focusing
 * follow-up (adj., noun); to follow up (verb)
@@ -493,8 +493,8 @@ resource: true
 * schoolteacher
 * school feeding programme
 * second-hand
-* Second Regular
-* Session of the Board
+* second regular
+* session of the Board
 * Secretary-General
 * sectoral (not "sectorial")
 * seed bank
