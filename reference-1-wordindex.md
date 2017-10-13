@@ -500,8 +500,7 @@ resource: true
 * seed-cake
 * seed-protection ration
 * self-: compounds hyphenated
-* semi-: compounds hyphenated
-* session, but the Annual Session, Third Regular Session, etc.
+* semi-: compounds hyphenated 
 * setback; to set back
 * sharecropper; sharecropping
 * shelf-life
