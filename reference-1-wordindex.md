@@ -554,7 +554,6 @@ resource: true
 * teamwork
 * test run
 * textbook
-* Third Regular Session
 * Third World (use "developing world", "developing countries")
 * timeframe
 * time-lag
