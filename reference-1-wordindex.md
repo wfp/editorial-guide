@@ -73,6 +73,7 @@ resource: true
 * anaemia (not "anemia")
 * analyse
 * Annex (I, II, III etc.)
+* annual performance report
 * annual session of the Board
 * antenatal (words with prefix ante are closed up)
 * anti-personnel mine
@@ -122,6 +123,7 @@ resource: true
 ### C
 
 * capacity-building but prefer “capacity development”
+* Capital Budgeting Facility
 * caregiver; but: care provider
 * carry-over
 * case study
@@ -150,13 +152,20 @@ resource: true
 * commercial sex (prostitution; as opposed to transactional sex such as sex for food)
 * complementary = additional
 * complimentary = conveying compliment, as a gift
+* corporate partnership strategy
+* Corporate Results Framework
 * cost recovery
+* corporate results framework
 * cost–benefit analysis
 * cost-effective; cost effectiveness
 * counsellor, counselling
 * counter-productive
-* Country Director
+* country director (Country Director of X)
 * country office (not "CO")
+* country operation management plan
+* country portfolio budget
+* country strategic plans
+* country strategic review
 * country strategy outline
 * country team
 * cowpea
@@ -218,6 +227,7 @@ resource: true
 * fertilizer
 * field office (do not confuse with "country office")
 * fieldwork; fieldworker
+* Financial Framework Review
 * first regular session of the Board (EB.1)
 * five-year plan
 * focusing
@@ -296,6 +306,7 @@ resource: true
 * install, instalment
 * inter alia; avoid use “among other things” but usually redundant
 * inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
+* Intergrated Road Map
 * internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
 * internet
 * inter-sectoral
@@ -347,6 +358,7 @@ resource: true
 ### M
 
 * macroeconomics; macroeconomic
+* Management Plan
 * maize meal
 * make-up
 * "male" (avoid it; use "men", as in "households headed by men", not "male-headed households")
@@ -454,6 +466,7 @@ resource: true
 * pro rata
 * prorated
 * proved (not "proven"); but "proven ability"
+* PSA equalization account
 * pure-bred
 
 ### R
@@ -471,6 +484,7 @@ resource: true
 * record-keeping
 * reforestation
 * regional bureau (not "RB"); plural: regional bureaux
+* regional director (Regional Director of X)
 * resilience-building
 * resolution
 * rights-based approach
@@ -526,8 +540,11 @@ resource: true
 * stockpiling
 * stopgap
 * storeroom
-* Strategic Objective(s): spell out to avoid confusion with "special operation (SO)"
-* Strategic Plan
+* strategic objective(s): spell out to avoid confusion with "special operation (SO)"
+* strategic outcomes
+* strategic plan (Strategic Plan (WFP)
+* strategic results
+* strategic review
 * subcomponent
 * sub-district
 * sub-office
@@ -620,6 +637,7 @@ resource: true
 * windbreak
 * women’s empowerment (avoid; use "empowerment of women")
 * woodlot
+* Working Capital Financial Facility
 * working day; work day
 * workforce
 * work site
