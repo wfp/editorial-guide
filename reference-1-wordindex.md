@@ -155,7 +155,6 @@ resource: true
 * corporate partnership strategy
 * Corporate Results Framework
 * cost recovery
-* corporate results framework
 * cost–benefit analysis
 * cost-effective; cost effectiveness
 * counsellor, counselling
