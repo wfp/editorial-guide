@@ -542,7 +542,7 @@ resource: true
 * strategic objective(s): spell out to avoid confusion with "special operation (SO)"
 * strategic outcomes
 * strategic plan (Strategic Plan (WFP)
-* strategic results
+* Strategic Results
 * strategic review
 * subcomponent
 * sub-district
