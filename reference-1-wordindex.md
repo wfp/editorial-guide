@@ -122,8 +122,9 @@ resource: true
 
 ### C
 
-* capacity-building but prefer “capacity development”
+* capacity building but prefer “capacity development”
 * Capital Budgeting Facility
+* capacity strengthening
 * caregiver; but: care provider
 * carry-over
 * case study
@@ -142,6 +143,7 @@ resource: true
 * classroom
 * coefficient
 * co-finance
+* combating
 * commodity (avoid, use "food" or "food item")
 * cooperation
 * coordination
@@ -187,6 +189,7 @@ resource: true
 * deworming
 * developing country (not "underdeveloped country")
 * developing world (not "Third World")
+* dialogue
 * draft (version of e.g. a document)
 * draught (re animals used for haulage etc.)
 * drawback
@@ -228,6 +231,7 @@ resource: true
 * fieldwork; fieldworker
 * Financial Framework Review
 * first regular session of the Board (EB.1)
+* first hand (even if adjective)
 * five-year plan
 * focusing
 * follow-up (adj., noun); to follow up (verb)
@@ -372,7 +376,7 @@ resource: true
 * meantime (but “Greenwich mean time”)
 * Member States (of WFP; preferable to States Members)
 * Members of the Board; Board members (includes Member States not currently serving on the Board)
-* Memorandum of Understanding (MOU)
+* memorandum of understanding / memoranda of understanding (if it’s a specific title, in full, of a specific agreement it may be capitalized)
 * metre (m after a numeral; but: parameter; diameter)
 * micro- compounds closed up, except before o (e.g. micro-organize)
 * micronutrients
@@ -380,11 +384,13 @@ resource: true
 * mid-term
 * mid-1970s, mid-August
 * mine-detector
+* mindset
 * minefield
 * Mission Statement
 * monetization, monetize
 * monocrop, monocropping, monoculture
 * multi-purpose
+* multisector
 * multi-year
 
 ### N
@@ -479,17 +485,18 @@ resource: true
 * rape oil (prefer “canola oil”)
 * Rapporteur
 * re- compounds solid, except before e (e.g. re-examine, re-estimate)
-* real-time evaluation
+* real time (n); real-time (adj) 
 * record-keeping
 * reforestation
 * regional bureau (not "RB"); plural: regional bureaux
 * regional director (Regional Director of X)
-* resilience-building
+* resilience building
 * resolution
 * rights-based approach
 * riverbed; riverbank; riverside
 * roll-out(noun)roll out (verb)
 * root crop
+* round table (even if adjective)
 * run off (for water); run-off (election or race)
 
 ### S
@@ -590,6 +597,7 @@ resource: true
 * transferring
 * transhipment
 * transhumance; transhumant
+* travelled, traveller, travelling  
 * trouble shooter; troubleshooting
 * turnover
 * two-week (adj.)
@@ -613,6 +621,7 @@ resource: true
 
 ### V
 
+* value added tax 
 * vis-à-vis – avoid it; use English "in relation to", "regarding"
 * vitamin A
 * vitamin-A deficiency; vitamin-A-deficiency disorder
