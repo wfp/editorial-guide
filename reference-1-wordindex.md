@@ -317,7 +317,7 @@ resource: true
 
 ### J
 
-* judgement
+* judgment
 
 ### K
 
