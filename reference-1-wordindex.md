@@ -562,8 +562,8 @@ resource: true
 * subtotal
 * sugarcane
 * sun-dried
-* SuperCereal
-* SuperCereal Plus
+* Supercereal
+* Supercereal Plus
 * supplementary budget
 * system-wide
 
