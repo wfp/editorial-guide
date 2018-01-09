@@ -274,7 +274,7 @@ resource: true
 
 ### H
 
-* hand-over (adj. or noun)
+* handover
 * hand tool
 * Headquarters (capitalize when WFP; do not abbreviate as HQ)
 * heavy-duty
