@@ -549,7 +549,7 @@ resource: true
 * storeroom
 * strategic objective(s): spell out to avoid confusion with "special operation (SO)"
 * strategic outcomes
-* strategic plan (Strategic Plan (WFP)
+* strategic plan (WFP Strategic Plan)
 * Strategic Results
 * strategic review
 * subcomponent
