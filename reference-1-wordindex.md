@@ -194,7 +194,7 @@ resource: true
 * draught (re animals used for haulage etc.)
 * drawback
 * drinking water
-* drop-out rates
+* dropout rates
 * drought-affected
 * drought-prone; flood-prone
 * dry farming
