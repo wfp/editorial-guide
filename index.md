@@ -1,22 +1,22 @@
 ---
 layout: page
-title: WFP Style Guide
+title: WFP style guide
 ---
 
-This World Food Programme (WFP) Style Guide sets out the style conventions used in WFP and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP style.
+This World Food Programme (WFP) style guide sets out the writing conventions used in WFP documents and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP writing conventions..
 
-The aim is to help authors to produce clear, consistent, readable texts that are accessible to an audience that varies enormously in terms of language and culture.
+The aim is to help authors to produce clear, consistent, readable texts that are accessible to an audience that varies enormously in language and culture.
 
-Writers should bear in mind that many of those who read WFP documents in English are not mother-tongue users of English. Many documents have to be translated into the other official languages – Arabic, French and Spanish – and often into Russian, Chinese and Portuguese.
+WWriters should bear in mind that many of those who read WFP documents in English are not mother-tongue users of English. Many English documents are translated into the other official languages Arabic, French and Spanish and often into Russian, Chinese and Portuguese..
 
-Adjust the discourse to intended readers. Do not assume they have technical knowledge. Avoid jargon (see "[things to avoid](content/more-information-on-things-to-avoid/)"). Be clear and concise. Present ideas in a logical sequence.
+Aim your documents at a general audience. Do not assume that readers have technical knowledge. Avoid jargon. Be clear and concise, but provide sufficient context so that what you write may be readily understood. Every document tells a story, and every story has a beginning, middle and end. Present ideas in a logical sequence..
 
 Aim for clarity, accuracy, continuity and consistency.
 
 ## For further information
 
-* Preferred word forms and spellings, acronyms, names of countries and WFP organizational acronyms may be found on the WFP/FAO portal at [http://www.fao.org/faoterm/en/](http://www.fao.org/faoterm/en/). 
-* Use the latest edition of the [Shorter Oxford English Dictionary](https://en.wikipedia.org/wiki/Shorter_Oxford_English_Dictionary), the [Concise Oxford English Dictionary](https://en.wikipedia.org/wiki/Concise_Oxford_English_Dictionary) – or the [Oxford English Dictionary](http://www.oed.com/), all of which are available online.
+* Preferred word forms and spellings, acronyms, names of countries and WFP organizational acronyms may be found on the FAO TERM Portal at http://www.fao.org/faoterm/en/ 
+
 * [UNTERM](http://untermportal.un.org/) provides official United Nations terminology.
 
 This guide is updated regularly.
