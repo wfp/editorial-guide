@@ -3,13 +3,13 @@ layout: page
 title: WFP style guide
 ---
 
-This World Food Programme (WFP) style guide sets out the writing conventions used in WFP documents and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP writing conventions..
+This World Food Programme (WFP) style guide sets out the writing conventions used in WFP documents and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP writing conventions.
 
 The aim is to help authors to produce clear, consistent, readable texts that are accessible to an audience that varies enormously in language and culture.
 
-WWriters should bear in mind that many of those who read WFP documents in English are not mother-tongue users of English. Many English documents are translated into the other official languages Arabic, French and Spanish and often into Russian, Chinese and Portuguese..
+Writers should bear in mind that many of those who read WFP documents in English are not mother-tongue users of English. Many English documents are translated into the other official languages Arabic, French and Spanish and often into Russian, Chinese and Portuguese.
 
-Aim your documents at a general audience. Do not assume that readers have technical knowledge. Avoid jargon. Be clear and concise, but provide sufficient context so that what you write may be readily understood. Every document tells a story, and every story has a beginning, middle and end. Present ideas in a logical sequence..
+Aim your documents at a general audience. Do not assume that readers have technical knowledge. Avoid jargon. Be clear and concise, but provide sufficient context so that what you write may be readily understood. Every document tells a story, and every story has a beginning, middle and end. Present ideas in a logical sequence.
 
 Aim for clarity, accuracy, continuity and consistency.
 
