@@ -8,9 +8,9 @@ resource: true
 
 Keep the use of abbreviations and acronyms to a minimum, and use them only where they make documents more readable.
 
-Acronyms should be spelled out in full at their first occurrence in text. A list of acronyms must may be set out at the end of a attached to documents in which acronyms are used.. 
+Acronyms should be spelled out in full at their first occurrence in text. A list of acronyms may be set out at the end of a document in which acronyms are used. 
 
-If a name or phrase appears in a document only a few times do not use an acronym to represent it; write it in full the first time and for subseqent occurences again write it in full or use an abbreviated version if there is no risk of confusion..
+If a name or phrase appears in a document only a few times do not use an acronym to represent it; write it in full the first time and for subseqent occurences again write it in full or use an abbreviated version if there is no risk of confusion.
 
 No acronyms should be used in the executive summaries of Executive Board documents, except for WFP and HIV/AIDS.
 

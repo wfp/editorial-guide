@@ -8,11 +8,11 @@ resource: true
 
 ### WFP publication materials
 
-For regular WFP fact sheets, brochures and publications follow the branding guidance available at http://go.wfp.org/web/wfpgo/publishingtools and use templates available here: http://go.wfp.org/web/communications/templates
+For regular WFP fact sheets, brochures and publications follow the branding guidance available at http://newgo.wfp.org/documents/branding-guidance and use templates available here: http://newgo.wfp.org/collection/all-communications-templates
 
 ### WFP house fonts
 
-WFP house fonts for offline publications are Verdana and Georgia
+WFP house font for offline publications is Open Sans
 
 ### Executive Board documents
 
@@ -24,7 +24,7 @@ If a document going to editing contains text that cannot be changed, for example
 
 ### Font use for Executive Board Documents
 
-Use Times New Roman 11 point for Board documents.
+Use Open Sans 10 point for Board documents.
 
 
 Use **_italic_** exclusively for book titles and for words and expressions in languages other than English (which must be explained in brackets).
