@@ -16,7 +16,7 @@ English (UK) is the standard spelling, with some exceptions. The most notable ex
 In lists, omit the comma before the and (or the or) preceding the last item (e.g. cereals, pulses and oil) unless it is necessary to avoid ambiguity (e.g. design, monitoring and evaluation, and feedback).
 
 ## Abbreviations and Acronyms
-Acronyms should be spelt out in full at their first occurrence in text.
+Acronyms should be spelled out in full at their first occurrence in text.
 Non-English acronyms should be spelled out in italic, followed in brackets by the English equivalent.
 The only countries referred to by an acronym are the Democratic People’s Republic of Korea (DPRK) and the Democratic Republic of the Congo (DRC). For names of countries, adjectives of nationality and denominations of currency, consult the FAOTERM Names of Countries.
 Never use acronyms for governments (e.g. the Government of Kenya, not GoK) or for names of countries (e.g. the United Kingdom, not the UK). World Bank is never abbreviated.
