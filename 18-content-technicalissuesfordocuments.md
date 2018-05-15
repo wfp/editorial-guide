@@ -12,7 +12,7 @@ For regular WFP fact sheets, brochures and publications follow the branding guid
 
 ### WFP house fonts
 
-WFP house font for offline publications is Open Sans
+WFP house font for publications is Open Sans
 
 ### Executive Board documents
 
