@@ -18,7 +18,7 @@ Use the form **email(s)**, lowercase (unless the term is the first word in a sen
 
 When referring to US dollars use **USD** with a hard space between the letters and the number and between the numerals and the word "million" – e.g. **USD 43.2 million**. For the Euro use **EUR**.
 
-Do not use acronyms to refer to country names. For doubts about country names, refer to the FAOTERM names of countries and territories website (http://termportal.fao.org/faonocs/appl/) and UNTERM.
+Do not use acronyms to refer to country names. For doubts about country names, refer to the FAOTERM names of countries and [territories website](http://termportal.fao.org/faonocs/appl/) and UNTERM.
 
 Never use acronyms for governments – e.g. the Government of Pakistan, not "GOP" – or ministries – e.g. the Ministry of Agriculture, not "MOA" – or the names of countries – e.g. United Kingdom, not "UK". World Bank is never abbreviated.
 
