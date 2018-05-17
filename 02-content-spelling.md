@@ -6,9 +6,9 @@ layout: page
 resource: true
 ---
 
-Ensure that the default language for your document is set to **English (UK)**. The present style guide includes a “word index” (http://cdn.wfp.org/guides/editorial/reference/wordindex/) that shows WFP spelling of selected words. The United Nations Editorial Manual also includes a word list (http://dd.dgacm.org/editorialmanual/ed-guidelines/style/spelling.htm).
+Ensure that the default language for your document is set to **English (UK)**. The present style guide includes a [“word index”] (http://cdn.wfp.org/guides/editorial/reference/wordindex/) that shows WFP spelling of selected words. The United Nations Editorial Manual also includes a [word list] (http://dd.dgacm.org/editorialmanual/ed-guidelines/style/spelling.htm).
 
-Follow the WFP list; if a word is not there check the Editorial Manual list; if it’s not there follow the first spelling in the online edition of the Oxford English Dictionary (available at www.oed.com and https://en.oxforddictionaries.com/). Follow an organization’s spelling of its own name, e.g., Organisation for Economic Co-operation and Development
+Follow the WFP list; if a word is not there check the Editorial Manual list; if it’s not there follow the first spelling in the online edition of the [Oxford English Dictionary] (www.oed.com) [and] (https://en.oxforddictionaries.com/) Follow an organization’s spelling of its own name, e.g., Organisation for Economic Co-operation and Development
 
 ### Z versus S
 
@@ -19,7 +19,7 @@ Use **s** in words such as analy**s**e, cataly**s**e and paraly**s**e.
 
 ### Names of countries
 
-For names of countries, adjectives of nationality and denominations of currency, consult the FAOTERM “Names of Countries and territories” webpage (http://termportal.fao.org/faonocs/appl/) and UNTERM.
+For names of countries, adjectives of nationality and denominations of currency, consult the FAOTERM “Names of Countries and territories” [webpage] (http://termportal.fao.org/faonocs/appl/) and UNTERM.
 
 Note that some short names include the definite article. Examples include the Gambia, the Niger and the Sudan.
 
