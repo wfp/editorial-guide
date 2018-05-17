@@ -8,7 +8,7 @@ resource: true
 
 ### WFP publication materials
 
-For regular WFP fact sheets, brochures and publications follow the [branding guidance available at](http://newgo.wfp.org/documents/branding-guidance) and use [templates available here](http://newgo.wfp.org/collection/all-communications-templates)
+For regular WFP fact sheets, brochures and publications follow the [branding guidance](http://newgo.wfp.org/documents/branding-guidance) and use [templates available here](http://newgo.wfp.org/collection/all-communications-templates)
 
 ### WFP house fonts
 
