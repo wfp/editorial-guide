@@ -15,7 +15,7 @@ Aim for clarity, accuracy, continuity and consistency.
 
 ## For further information
 
-* Preferred word forms and spellings, acronyms, names of countries and WFP organizational acronyms may be found on the FAO TERM Portal at http://www.fao.org/faoterm/en/ 
+* Preferred word forms and spellings, acronyms, names of countries and WFP organizational acronyms may be found on the [FAO TERM Portal](http://www.fao.org/faoterm/en/) 
 
 * [UNTERM](http://untermportal.un.org/) provides official United Nations terminology.
 
