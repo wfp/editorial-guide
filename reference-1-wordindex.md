@@ -76,6 +76,7 @@ resource: true
 * annual performance report
 * annual session of the Board
 * antenatal (words with prefix ante are closed up)
+* anti-fraud and anti-corruption (policy)
 * anti-personnel mine
 * assist + in + gerund or noun (e.g. "assist in planning"; never assist + infinitive)
 * appraisal mission
@@ -137,6 +138,7 @@ resource: true
 * channelling
 * checklist
 * chickpea
+* Chief Risk Officer
 * childbearing; childbirth; child rearing
 * childcare; child-care (as adjective: child-care centre)
 * children under 5
@@ -156,6 +158,7 @@ resource: true
 * complimentary = conveying compliment, as a gift
 * corporate partnership strategy
 * Corporate Results Framework
+* corporate risk register
 * cost recovery
 * cost–benefit analysis
 * cost-effective; cost effectiveness
@@ -207,12 +210,14 @@ resource: true
 * end product; end-use; end-user
 * end-to-end telecommunications network
 * enrol; enrolled; enrolment
+* enterprise risk management
 * euro
 * equalled; equalization
 * Executive Board; in most documents, "Board" is sufficient
 * Executive Director
 * expectant and nursing mothers (use "pregnant and lactating women" instead)
 * ex post; ex-post evaluation (avoid: use English "after")
+* External Auditor
 * extra-budgetary
 
 ### F
@@ -310,6 +315,7 @@ resource: true
 * inter alia; avoid use “among other things” but usually redundant
 * inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
 * Intergrated Road Map
+* internal control framework
 * internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
 * internet
 * inter-sectoral
@@ -322,6 +328,7 @@ resource: true
 ### J
 
 * judgment
+* Joint Inspection Unit
 
 ### K
 
@@ -423,6 +430,7 @@ resource: true
 * overnutrition
 * over-reliance
 * overriding
+* oversight framework
 
 ### P
 
@@ -493,6 +501,7 @@ resource: true
 * resilience building
 * resolution
 * rights-based approach
+* risk taking
 * riverbed; riverbank; riverside
 * roll-out(noun)roll out (verb)
 * Rome-based agency
@@ -661,3 +670,4 @@ resource: true
 ### Z
 
 * zero-based budgeting
+* zero hunger
