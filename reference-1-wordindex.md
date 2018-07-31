@@ -461,6 +461,7 @@ resource: true
 * post-harvest
 * postnatal
 * practice (n.); practise (v.)
+* principles (IASC principals)
 * pre- compounds hyphenated in verb tenses
 * prenatal
 * pre-package
