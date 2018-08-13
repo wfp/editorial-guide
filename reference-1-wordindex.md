@@ -185,7 +185,7 @@ resource: true
 * daytime
 * death rate
 * decision-maker; decision-making
-* defence
+* defense
 * de-mining
 * dependent (adj.) (on); dependant (n.)
 * desertification
