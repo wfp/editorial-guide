@@ -157,7 +157,7 @@ resource: true
 * complementary = additional
 * complimentary = conveying compliment, as a gift
 * corporate partnership strategy
-* Corporate Results Framework
+* corporate results framework [caps to be used when referring to Corporate Results Framework (2017-2021)]
 * corporate risk register
 * cost recovery
 * cost–benefit analysis
@@ -237,6 +237,7 @@ resource: true
 * Financial Framework Review
 * first regular session of the Board (EB.1)
 * first hand (even if adjective)
+* fit for purpose
 * five-year plan
 * focusing
 * follow-up (adj., noun); to follow up (verb)
