@@ -39,13 +39,13 @@ resource: true
 
 ### A
 
-* above-mentioned; aforementioned (avoid them!)
+* above-mentioned; aforementioned
 * abridgement (not "abridgment")
-* accommodation (not "accommodations")
+* accommodation
 * acknowledgement (not "acknowledgment")
 * acreage (prefer area)
 * addendum (pl. addenda)
-* ad hoc (use "as required")
+* ad hoc 
 * advice (n.); advise (v.)
 * adviser
 * after-care
@@ -72,10 +72,10 @@ resource: true
 * among (not "amongst")
 * anaemia (not "anemia")
 * analyse
-* Annex (I, II, III etc.)
+* annex (I, II, III etc.)
 * annual performance report
 * annual session of the Board
-* antenatal (words with prefix ante are closed up)
+* antenatal (compound words with prefix ante are closed artifact)
 * anti-fraud and anti-corruption (policy)
 * anti-personnel mine
 * assist + in + gerund or noun (e.g. "assist in planning"; never assist + infinitive)
@@ -91,19 +91,15 @@ resource: true
 * back-loading
 * backstop
 * baseline data
-* basic activity (WFP country programme), but Basic Activity 2
-* Basic Documents (WFP)
 * basic healthcare
-* Basic Texts (WFP)
 * bedridden
 * benchmark
 * benefited, benefiting (not "benefitted", "benefitting")
-* between: if more than two, use "among"
 * biannual (ambiguous: avoid it; use "twice a year" or "every two years")
 * biennial (every second year)
 * biennium (period of two years) pl. biennia; e.g. the 2001–2002 biennium
 * bi-monthly (ambiguous; avoid it. Use "every two months" or "twice a month")
-* bio- compounds solid, no hyphen: e.g. biodegradable
+* bio- compound forms closed, no hyphen: e.g. biodegradable
 * birth rate
 * birthweight
 * the Board
@@ -123,7 +119,7 @@ resource: true
 
 ### C
 
-* capacity building but prefer “capacity development”
+* capacity building 
 * Capital Budgeting Facility
 * capacity strengthening
 * caregiver; but: care provider
@@ -140,7 +136,7 @@ resource: true
 * chickpea
 * Chief Risk Officer
 * childbearing; childbirth; child rearing
-* childcare; child-care (as adjective: child-care centre)
+* childcare
 * children under 5
 * classroom
 * coefficient
@@ -157,7 +153,7 @@ resource: true
 * complementary = additional
 * complimentary = conveying compliment, as a gift
 * corporate partnership strategy
-* corporate results framework [caps to be used when referring to Corporate Results Framework (2017-2021)]
+* corporate results framework (Corporate Results Framework when used in the title of a specific framework (e.g. Corporate Results Framework (2017-2021)
 * corporate risk register
 * cost recovery
 * cost–benefit analysis
@@ -179,7 +175,7 @@ resource: true
 ### D
 
 * database
-* day centre; day-care centre
+* day care; day-care centre
 * day labourer
 * day-school
 * daytime
@@ -193,15 +189,14 @@ resource: true
 * developing country (not "underdeveloped country")
 * developing world (not "Third World")
 * dialogue
-* draft (version of e.g. a document)
 * draught (re animals used for haulage etc.)
 * drawback
 * drinking water
-* dropout rates
+* dropout (noun and adjective); drop out (verb)
 * drought-affected
 * drought-prone; flood-prone
 * dry farming
-* dryland (adj.)
+* dryland (adj.); dry land (noun)
 
 ### E
 
@@ -241,18 +236,18 @@ resource: true
 * five-year plan
 * focusing
 * follow-up (adj., noun); to follow up (verb)
+* food assistance for assets: a blanket term that applies to food, cash or vouchers for work, asset building, training etc.
 * food basket
 * food crop
 * food-deficit country
-* food assistance for assets: a blanket term that applies to food, cash or vouchers for work, asset building, training etc.
 * foodgrains, foodstuffs
 * food-insecure (adj.); food insecurity
 * formatted
 * fortnightly
-* -free compounds hyphenated (e.g. disease-free)
+* -free (compound forms hyphenated (e.g. disease-free)
 * freelance
 * freshwater (adj.)
-* front line; front-line (adj.)
+* front line (noun); front-line (adj.)
 * fruit crop; fruit fly
 * fruit tree
 * fuel oil
@@ -260,7 +255,7 @@ resource: true
 * fulfil, fulfilling, fulfilled, fulfilment
 * full-cost recovery
 * full-scale
-* full time (n.); full-time (adj.)
+* full-time (adv. and adj.)
 * fundraiser; fundraising
 
 ### G
@@ -270,7 +265,7 @@ resource: true
 * General Regulation II.2(a)
 * General Rule VII.2
 * general service (GS) posts
-* the Government of ...
+* the Government of ... (when referring to a specific national government, not local government)
 * government (adj.)
 * grain-fed
 * gram(s) (not gramme(s); g after a numeral)
@@ -282,7 +277,7 @@ resource: true
 
 * handover
 * hand tool
-* Headquarters (capitalize when WFP; do not abbreviate as HQ)
+* headquarters (do not abbreviate as HQ)
 * heavy-duty
 * health care
 * health-care worker
@@ -294,7 +289,8 @@ resource: true
 * home-making
 * host Government; host governments
 * household (spell out; do not use "hh" or "HH")
-* household(s) headed by women/children/elderly people (NEVER "female-headed households" or "child-headed households" etc.)
+* household(s) headed by women/children/elderly people (not "female-headed households" or "child-headed households" etc.)
+* Human Development Index
 
 ### I
 
@@ -304,7 +300,6 @@ resource: true
 * income-generation; income-generating
 * in-depth
 * index, indexes (literary)/indices (numbers)
-* information note (if it is a specific document: Information Note)
 * infra-red
 * infrastructure
 * in-house
@@ -313,11 +308,11 @@ resource: true
 * in-service
 * insofar as
 * install, instalment
-* inter alia; avoid use “among other things” but usually redundant
-* inter-agency (NB Inter-Agency if part of title; check UNTERM for use of "Interagency")
+* inter alia; avoid and use “among other things” instead
+* inter-agency (NB Inter-Agency if part of title) 
 * Intergrated Road Map
 * internal control framework
-* internally displaced person (IDP); internally displaced persons (IDPs) UNTERM
+* internally displaced person (IDP); internally displaced persons (IDPs)
 * internet
 * inter-sectoral
 * inter-regional
@@ -351,9 +346,9 @@ resource: true
 * landownership
 * large-scale (adj.)
 * learned (not "learnt")
-* Letter of Agreement
+* letter of agreement
 * liaison
-* licence (n.); to license (v.)
+* licence (n.); license (v.)
 * life cycle; lifespan
 * lifeline
 * lifelong
@@ -363,30 +358,30 @@ resource: true
 * livestock
 * logical framework ("logframe" in tables)
 * long term; long-term (adj.)
-* long-standing
+* long-standing (adj.)
 * low birthweight, low-birthweight baby
 
 ### M
 
 * macroeconomics; macroeconomic
-* Management Plan
+* management plan (Management Plan in the title of a specific management plan, e.g. WFP Management Plan (2018-2020)
 * maize meal
 * make-up
 * "male" (avoid it; use "men", as in "households headed by men", not "male-headed households")
-* Management Plan
-* Management Result Dimension
+* Management result dimension
 * man-made (use "from human causes", “human-induced” or similar phrasing)
 * manpower (use "human resources" or "personnel")
 * market place
+* market town
 * matching contribution
 * matching expenditures
 * matching funds
 * meantime (but “Greenwich mean time”)
-* Member States (of WFP; preferable to States Members)
-* Members of the Board; Board members (includes Member States not currently serving on the Board)
-* memorandum of understanding / memoranda of understanding (if it’s a specific title, in full, of a specific agreement it may be capitalized)
+* Member States (of WFP, but States Members of the United Nations)
+* members of the Board; Board members
+* memorandum of understanding / memorandums of understanding (if it’s a specific title, in full, of a specific agreement it may be capitalized)
 * metre (m after a numeral; but: parameter; diameter)
-* micro- compounds closed up, except before o (e.g. micro-organize)
+* micro- (compound forms closed, except before o (e.g. micro-organize)
 * micronutrients
 * midday
 * mid-term
@@ -394,21 +389,21 @@ resource: true
 * mine-detector
 * mindset
 * minefield
-* Mission Statement
+* mission statement
 * monetization, monetize
 * monocrop, monocropping, monoculture
 * multi-purpose
-* multisector
+* multisector; multisectoral
 * multi-year
 
 ### N
 
 * nationwide
 * never-ending
-* non- compounds hyphenated (non-aligned; non-existent; non-food)
+* non- compound forms hyphenated (non-aligned; non-existent; non-food)
 * no-objection basis
 * northeast (n.), northeastern (adj.)
-* Note for the Record (NfR)
+* note for the record 
 
 ### O
 
@@ -424,7 +419,7 @@ resource: true
 * on-site (adj.)
 * on-the-job (adj.)
 * organigram
-* orient; orientate
+* orient
 * overcropping
 * overestimate
 * overexploitation
@@ -436,7 +431,7 @@ resource: true
 ### P
 
 * paddy field; paddy rice
-* para- compounds solid (paramedical; parastatal)
+* para- compound forms solid (paramedical; parastatal)
 * paragraph 2
 * paralyse; paralysis
 * participatory
@@ -444,9 +439,9 @@ resource: true
 * peacekeeping
 * per capita
 * percent (not %, except in tables; not "per cent")
-* Permanent Representative
-* phase-in (n.)
-* phase-out (n.)
+* permanent representative (Permanent Representative when referring to a spefic person)
+* phase-in (n.)phase in (v)
+* phase-out (n.)phase out (v)
 * piecework
 * pipeline
 * pisciculture (avoid it: use "fish breeding", "fish rearing", "fish farming")
@@ -457,6 +452,7 @@ resource: true
 * plenary
 * plough, ploughing
 * Plumpy’Doz; Plumpy’Nut; Plumpy’Sup
+* policyholder
 * policymaker; policymaking
 * post-date
 * post-harvest
@@ -476,8 +472,7 @@ resource: true
 * pro forma
 * programme
 * programme of work (but capitalized when the title of a specific document)
-* -proof compounds closed up (airproof, rainproof)
-* Programme (avoid it; use WFP)
+* -proof compound forms closed (airproof, rainproof)
 * pro rata
 * prorated
 * proved (not "proven"); but "proven ability"
@@ -492,11 +487,10 @@ resource: true
 * rainproof
 * rainwater
 * rangeland
-* rape oil (prefer “canola oil”)
+* rape oil (use "rapeseed oil")as the oil comes from the seed of the rape plant, not the plant itself; canola oil is an edible variety of rapeseed oil, but there are other types so canola oil may or may not be a suitable synonym for rapeseed oil)
 * Rapporteur
-* re- compounds solid, except before e (e.g. re-examine, re-estimate)
+* re- compound forms solid, except before e (e.g. re-examine, re-estimate)
 * real time (n); real-time (adj) 
-* record-keeping
 * reforestation
 * regional bureau (not "RB"); plural: regional bureaux
 * regional director (Regional Director of X)
@@ -506,14 +500,15 @@ resource: true
 * risk taking
 * riverbed; riverbank; riverside
 * roll-out(noun)roll out (verb)
+* rollover (noun); roll over (verb)
 * Rome-based agency
 * root crop
 * round table (even if adjective)
-* run off (for water); run-off (election or race)
+* run off 
 
 ### S
 
-* safety net (safety-net when used as adj.)
+* safety net 
 * the Sahel
 * Sahelian zone
 * savannah
@@ -526,13 +521,13 @@ resource: true
 * school feeding programme
 * second-hand
 * second regular session of the Board
-* Secretary-General
+* Secretary-General (of the United Nations; other organizations may use Secretary General without the hyphen, e.g., Organization for Security and Co-operation in Europe)
 * sectoral (not "sectorial")
 * seed bank
 * seed-cake
 * seed-protection ration
-* self-: compounds hyphenated
-* semi-: compounds hyphenated 
+* self-: compound forms hyphenated
+* semi-: compound forms hyphenated 
 * setback; to set back
 * sharecropper; sharecropping
 * shelf-life
@@ -540,17 +535,15 @@ resource: true
 * short term (n.); short-term (adj.)
 * side effect
 * silage; ensilage
-* silviculture; silvicultural (avoid; use e.g. "forestry", "tree cultivation")
 * sirocco
 * sizeable; medium-sized
 * slaughterhouse (alternative: abattoir)
 * smallholder; smallholding
 * small-scale (adj.)
-* socio-: compounds hyphenated (e.g. socio-economic)
+* socio-: compound forms hyphenated (e.g. socio-economic)
 * southern Africa (not South Africa, the country)
 * soybean
-* special operation (SO)
-* spill-over (adj.)
+* spill-over (noun and adj.); spill over (verb)
 * standby
 * States Members (of WFP; but Member States is preferred)
 * state-wide
@@ -558,24 +551,18 @@ resource: true
 * stockpiling
 * stopgap
 * storeroom
-* strategic objective(s): spell out to avoid confusion with "special operation (SO)"
-* strategic outcomes
-* strategic plan (WFP Strategic Plan)
-* Strategic Results
+* strategic goal (Strategic Goal when referring to a specific strategic goal of the Strategic Plan (2017-2021), e.g., "Strategic Goal 1: Support to achieve zero hunger (SDG 2)")
+* strategic objective (Strategic Objective when referring to a specific strategic objective of the Strategic Plan (2017-2021), e.g., "Strategic Objective 1: End hunger by protecting access to food")
+* strategic outcomes (lower case, even when referring to a specific strategic outcome in a country strategic plan)
+* strategic plan (Strategic Plan when used in the title of a specific WFP strategic plan, e.g.,"Strategic Plan (2017-2021)"
+* strategic result (Strategic Result when referring to a specific strategic result of the Strategic Plan (2017-2021), e.g., "Strategic Result 1: Everyone has access to food (SDG Target 2.1")
 * strategic review
 * subcomponent
 * sub-district
-* sub-office
-* sub-region
-* sub-Saharan Africa
-* subsector
-* subset
-* substandard
-* subtotal
 * sugarcane
 * sun-dried
-* Supercereal
-* Supercereal Plus
+* SuperCereal
+* SuperCereal Plus
 * supplementary budget
 * system-wide
 
@@ -583,7 +570,6 @@ resource: true
 
 * takeover (noun)
 * take-home rations
-* target (target to, not "at"), targeted, target group
 * task force
 * teacher training
 * teamwork
@@ -597,7 +583,7 @@ resource: true
 * time-saving (adj.); time-saver
 * time-span
 * timetable
-* tire (use tyre; "tire" means "to make tired")
+* tire (use tyre; "tire" is US English)
 * to date
 * tonnage
 * tons (not "tonnes"; the standard WFP unit is metric tons, mt after a numeral)
@@ -614,29 +600,26 @@ resource: true
 * turnover
 * two-week (adj.)
 * twofold
-* tyre(s) (not "tire(s))
 
 ### U
 
-* under-: compounds solid (e.g. undernourished, not under-nourished)
+* under-: compound forms closed(e.g. undernourished, not under-nourished)
 * under 5 (as in "children under 5" – numerals for ages)
-* underdeveloped countries (no use "developing countries")
+* underdeveloped countries (use "developing countries" instead)
 * underemployment
 * underfunded
 * undernutrition
 * under way (not "underway"; e.g. "the project is under way")
-* United Nations (never "UN" except if required by a title or used in a non WFP document)
+* United Nations (never "UN" except when reproducing a title or a quotation)
 * United Nations agencies
 * United Nations funds and programmes
 * United Nations technical mission
-* United States of America
 
 ### V
 
 * value added tax 
 * vis-à-vis – avoid it; use English "in relation to", "regarding"
 * vitamin A
-* vitamin-A deficiency; vitamin-A-deficiency disorder
 * vulnerable group
 * vulnerable-group feeding
 
@@ -661,7 +644,7 @@ resource: true
 * working day; work day
 * workforce
 * work site
-* working group (initial caps when referring to a specific working group)
+* working group
 * worldwide
 
 ### Y
