@@ -123,7 +123,7 @@ resource: true
 * Capital Budgeting Facility
 * capacity strengthening
 * caregiver; but: care provider
-* carry-over
+* carry-over (noun or adjective); carry over (verb phrase)
 * case study
 * cash flow
 * cash in lieu of commodities
@@ -230,7 +230,7 @@ resource: true
 * field office (do not confuse with "country office")
 * fieldwork; fieldworker
 * Financial Framework Review
-* first regular session of the Board (EB.1)
+* first regular session of the Board
 * first hand (even if adjective)
 * fit for purpose
 * five-year plan
@@ -440,8 +440,8 @@ resource: true
 * per capita
 * percent (not %, except in tables; not "per cent")
 * permanent representative (Permanent Representative when referring to a spefic person)
-* phase-in (n.)phase in (v)
-* phase-out (n.)phase out (v)
+* phase-in (n.)phase in (v.)
+* phase-out (n.)phase out (v.)
 * piecework
 * pipeline
 * pisciculture (avoid it: use "fish breeding", "fish rearing", "fish farming")
@@ -551,13 +551,31 @@ resource: true
 * stockpiling
 * stopgap
 * storeroom
-* strategic goal (Strategic Goal when referring to a specific strategic goal of the Strategic Plan (2017-2021), e.g., "Strategic Goal 1: Support to achieve zero hunger (SDG 2)")
+* strategic goal (Strategic Goal when referring to a specific strategic goal of the Strategic Plan (2017-2021), e.g., "Strategic Goal 1: Support countries to achieve zero hunger (SDG 2)")
 * strategic objective (Strategic Objective when referring to a specific strategic objective of the Strategic Plan (2017-2021), e.g., "Strategic Objective 1: End hunger by protecting access to food")
 * strategic outcomes (lower case, even when referring to a specific strategic outcome in a country strategic plan)
 * strategic plan (Strategic Plan when used in the title of a specific WFP strategic plan, e.g.,"Strategic Plan (2017-2021)"
 * strategic result (Strategic Result when referring to a specific strategic result of the Strategic Plan (2017-2021), e.g., "Strategic Result 1: Everyone has access to food (SDG Target 2.1")
 * strategic review
-* subcomponent
+* subcomponent (compound forms closed except when followed by “b” and the following:
+  * sub-account
+  * sub-amendment
+  * sub-aquatic
+  * sub-area
+  * sub-assembly
+  * sub-centre
+  * sub-discipline
+  * sub-element
+  * sub-issue
+  * sub-item
+  * sub-lessee; sub-lessor
+  * sub-office
+  * sub-prefect
+  * sub-prefecture
+  * sub-prime
+  * sub-Saharan
+  * sub-theme
+  * sub-working group
 * sub-district
 * sugarcane
 * sun-dried
@@ -603,7 +621,7 @@ resource: true
 
 ### U
 
-* under-: compound forms closed(e.g. undernourished, not under-nourished)
+* under-: compound forms closed (e.g. undernourished, not under-nourished)
 * under 5 (as in "children under 5" – numerals for ages)
 * underdeveloped countries (use "developing countries" instead)
 * underemployment
