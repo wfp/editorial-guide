@@ -180,7 +180,7 @@ resource: true
 * day-school
 * daytime
 * death rate
-* decision-maker; decision-making
+* decision maker; decision making
 * defense
 * de-mining
 * dependent (adj.) (on); dependant (n.)
@@ -253,7 +253,7 @@ resource: true
 * fuel oil
 * fuelwood
 * fulfil, fulfilling, fulfilled, fulfilment
-* full-cost recovery
+* full cost recovery
 * full-scale
 * full-time (adv. and adj.)
 * fundraiser; fundraising
