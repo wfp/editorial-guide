@@ -10,7 +10,7 @@ With some exceptions the United Nations follows British spelling. Ensure that th
 
 The United Nations Editorial Manual also includes a [word list](http://dd.dgacm.org/editorialmanual/ed-guidelines/style/spelling.htm). 
 
-Follow the WFP list; if a word is not there check the Editorial Manual list; if it’s not there follow the first spelling in the online edition of the Oxford English Dictionary able at www.oed.com [and](https://en.oxforddictionaries.com/). 
+Follow the WFP list; if a word is not there check the Editorial Manual list; if it’s not there follow the first spelling in the online edition of the Oxford English Dictionary (available at www.oed.com [and](https://en.oxforddictionaries.com/). 
 
 Follow an organization’s spelling of its own name, e.g., Organisation for Economic Co-operation and Development.
 
