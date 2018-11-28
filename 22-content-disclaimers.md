@@ -8,7 +8,7 @@ resource: true
 
 ### Standard copyright clause
 
-> All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial uses are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission. Applications for such permission should be addressed to the Director, Communications Division, e-mail: wfp.publications@wfp.org.
+> All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial uses are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission. Applications for such permission should be addressed to the Director, Communications Advocacy and Marketing Division, e-mail: wfp.publications@wfp.org.
 > © WFP [year]
 
 ### Notice encouraging dissemination
