@@ -1,7 +1,7 @@
 ---
-title: Tips to Avoid Jargon and Explain Terminology
-permalink: /content/jargon/
-categories: Content
+title: Tips to avoid jargon and explain terminology
+permalink: /publications/jargon/
+categories: Publications
 layout: page
 resource: true
 ---
