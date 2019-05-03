@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WFP style guide
+title: WFP editorial style guide
 ---
 
 This World Food Programme (WFP) style guide sets out the writing conventions used in WFP documents and advises on usage. It is intended as a resource for authors writing in English and for authors who want their documents to conform to WFP writing conventions.
