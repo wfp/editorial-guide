@@ -310,7 +310,7 @@ resource: true
 * install, instalment
 * inter alia; avoid and use “among other things” instead
 * inter-agency (NB Inter-Agency if part of title) 
-* Intergrated Road Map
+* Integrated Road Map
 * internal control framework
 * internally displaced person (IDP); internally displaced persons (IDPs)
 * internet
