@@ -82,34 +82,108 @@ Follow the word index in the WFP style guide, the word list in the [United Natio
 
 The hyphen is used to link two words to form compounds, usually adjectives but also adverbs and nouns. There is a tendency to use the hyphen for this purpose mechanically and excessively. The [University of Sussex](http://www.sussex.ac.uk/informatics/punctuation/hyphenanddash/hyphen) again provides an excellent explanation of when – and why – to use hyphens, the thrust of which is that they should be used sparingly, when they are necessary to avoid confusion:
 
-**Adverbs**. With adverbs, no hyphen is needed, particularly with adverbs ending in -ly. But one is needed when the adverb might be mistaken for an adjective. For example, a "little, used car" is not the same as a "little-used car".
+The hyphen is used in writing compound words which, without the hyphen, would be ambiguous, hard to read or overly long. Here, more than anywhere else in the whole field of punctuation, there is room for individual taste and judgement; nevertheless, certain principles may be identified. These are:]
 
-**Pendent hyphens.** "... two-, three- or four-year periods" is technically the correct form. But avoid the construction where possible; "periods of two, three or four years" is clearer.
+* Above all, strive for clarity
+* Don't use a hypen unless it's necessary
+* Where possible, follow established usage.
 
-**_When not to use a hyphen_**
+On this last point, consult a good dictionary
 
-The tendency in English is not to hyphenate compound nouns or prefixes where the sense is clear, as for example in subeditor, overuse, database, germplasm, proofreader.
+In line with this advice, use a hyphen to connect two words that together function as a compound modifier (an adjective or adverb) when to do otherwise might be confusing
 
-Do not hyphenate adjectives modified by adverbs such as "locally purchased food" or "environmentally sound development" (note the –ly ending).
+Example: “The short-story editor replaced the book on the shelf.” Without the hyphen one might conclude that the subject of that sentence is a story editor who happened to be short, rather than an editor of short stories as intended. If there is little likelihood of confusion omit the hyphen. Example: high school student.
 
-**_Hyphenated phrases_**
+Example: 100-year-old trees. This refers to an unstated number of trees that are 100 years old. Without the hyphens it could refer either to that or to 100 trees that are one year old.
 
-The second word in a hyphenated phrase (and third if there is one) is also capitalized: e.g. Inter-Agency Standing Committee, After-Action Review.
+No hyphen is needed with adverbs ending in –ly (e.g., a “badly written novel”. One is needed, however, when an adverb not ending in -ly might be mistaken for an adjective. For example, “a little-used car” may or may not be understood in the same way as “a little used car”.
+
+Use hyphens to link to prefixes (e.g., post-apocalyptic) when omitting the hyphen might cause confusion. Examples: re-cover (when you mean to cover again, to avoid confusing it with recover), pre-position (when you mean to position in advance, to avoid confusing it with preposition) and un-ionized (when you mean something that has not been ionized, to avoid confusion with unionized)
+
+Also use hyphens to link prefixes when omitting the hyphen would produce a word that is hard to read or subject to mispronunciation: non-negotiable; pre-empt; re-emerge. Note that prefixes should never stand alone: they must either form part of a closed word (e.g., antimicrobial) or be made part of a compound word through the use of a hyphen (e.g., anti-aircraft).
+
+**Pendent hyphens.** “… two-, three- or four-year periods” is an accepted form. Avoid the construction where possible, however; “periods of two, three or four years” is clearer.
+
+Some hyphenated and unhyphenated words (see the style guide word index for other words not listed here)
+
+**_Hyphenated**
+
+* agro (compound closed e.g., agroforestry, except before a vowel, e.g., agro-ecology)
+* -based
+* cash-based transfers
+* co-(many compounds closed, but note co-author, co-chair, co-ivestor, co-worker)
+* cross-cutting
+* extra (usually closed (e.g., extrabudgetary, extracurricular) except when extra is followed b a proper noun (extra-Community) or a vowel (extra-atmospheric)
+* five-year
+* follow-up
+* -generating
+* hard-earned
+* -level (e.g., field-level)
+* -led
+* non-
+* one-off
+* -onset
+* on-site
+* -oriented
+* post-
+* prenatal
+* pre-package
+* pre-positioned
+* pre-record
+* pro- (in adjectives, e.g., pro-business (not in pro forma, pro rata, pro bono)
+* real-time (as compound adjective; compare "real time" where the adjective "real" modifies the noun "time")
+* revenue-generating
+* Rome-based agencies
+* -saving, e.g., life-saving
+* -scale
+* scale-up (as a noun; non hyphen in the verb phrase, e.g., "It is necessary to scale up the project")
+* school-age (as adjective)
+* self- (compound forms hyphenated)
+* self-insurance
+* semi- (compound forms hyphenated)
+* sensitive
+* specific
+* sub- (many examples of both hyphenated and unhyphenated words; see the WFP and UN editorial manual word lists)
+* -term
+* roll-out (as adjective or noun; roll out as verb phrase)
+* -wide
+
+**_Unhyphenated**
+* agro(compounds closed except before a vowel, e.g., agro-ecology, agroforestry)
+* bi(compound forms of bi are closed: biannual, biennial, bimonthly, biweekly, etc.
+* capacity building
+* capacity strengthening
+* co- (many compounds closed, but note co-author, co-chair, co-investor, co-worker)
+* decision making
+* emergency response
+* extra (usually closed (e.g., extrabudgetary, extracurricular) except when extra is followed by a proper noun (extra-Community) or a vowel (extra-atmospheric))
+* food assistance for assets
+* food deficit country
+* food insecure country
+* handover
+* multipurpose (generally compound forms with multi are closed, except where multi is followed by “i" (FAO follows this approach but UN headquarters spells quite a few with the hyphen, for which there is no apparent reason))
+* multisectoral
+* overambitious (generally compound forms with over are closed)
+* private sector
+* runoff
+* school age (school-age as adjective)
+* school meals (e.g., school meals programme)
+* sub (many examples of both hyphenated and unhyphenated words)
 
 ### En-dashes
 
-An en-dash is used to connect spans of numbers or dates (e.g. 2005--2006) and where the second word in a group does not modify the first one, as in "a WFP--FAO project". It is also used to separate an interjected phrase from the main sentence, in which case it is used with a space before and after it. As with commas, it should be possible to lift out the part of the sentence within dashes, leaving the rest of the sentence complete.
+An en-dash is used to connect spans of numbers or dates (e.g. 2005--2006) and where the second word in a group does not modify the first one, as in "a WFP--FAO project". It is also used to separate an interjected phrase from the main sentence, in which case it is used with a space before and after it. As with an interjected phrase between commas, it should be possible to lift out the part of the sentence within dashes, leaving the rest of the sentence complete.
 
 > **This donation -- the largest received so far -- will enable WFP to buy extra food.**
 {: .notice }
 
-### Parentheses, or brackets
+### Parentheses and brackets
 
 (When a complete sentence is enclosed in parentheses, its punctuation is also enclosed.)
 
 When only part of a sentence is enclosed in parentheses, punctuation is placed outside (as in this example).
 
-Avoid parentheses/brackets wherever possible. Sentences are much clearer without them.
+Use parentheses and brackets sparingly. Excessive use can impede readability.
 
 (Use square brackets [if needed] within parentheses.)
 
@@ -140,3 +214,7 @@ When a quotation is interrupted by words such as she said, commas separate the i
 
 > **"We will do it by Friday," she said, "so the deadline will be respected."**
 {: .notice }
+
+Added and omitted words in quoted text
+
+When it is necessary to insert words into a quoted passage to make the passage function grammatically, enclose the inserted words in square brackets to indicate that they are not part of the original quotation. Conversely, you should use an ellipsis (…) to indicate that you have omitted words from a quoted passage.
