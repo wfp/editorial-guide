@@ -85,7 +85,7 @@ The hyphen is used to link two words to form compounds, usually adjectives but a
 The hyphen is used in writing compound words which, without the hyphen, would be ambiguous, hard to read or overly long. Here, more than anywhere else in the whole field of punctuation, there is room for individual taste and judgement; nevertheless, certain principles may be identified. These are:]
 
 * Above all, strive for clarity
-* Don't use a hypen unless it's necessary
+* Don't use a hyphen unless it's necessary
 * Where possible, follow established usage.
 
 On this last point, consult a good dictionary
@@ -106,7 +106,7 @@ Also use hyphens to link prefixes when omitting the hyphen would produce a word 
 
 Some hyphenated and unhyphenated words (see the style guide word index for other words not listed here)
 
-**_Hyphenated**
+**Hyphenated**
 
 * agro (compound closed e.g., agroforestry, except before a vowel, e.g., agro-ecology)
 * -based
@@ -148,7 +148,7 @@ Some hyphenated and unhyphenated words (see the style guide word index for other
 * roll-out (as adjective or noun; roll out as verb phrase)
 * -wide
 
-**_Unhyphenated**
+**Unhyphenated**
 * agro(compounds closed except before a vowel, e.g., agro-ecology, agroforestry)
 * bi(compound forms of bi are closed: biannual, biennial, bimonthly, biweekly, etc.
 * capacity building
