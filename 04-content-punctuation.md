@@ -38,7 +38,7 @@ The colon is also used to introduce a list.
 
 The committee posed the following questions: What are the constraints on development? What will be the benefits?
 
-The colon should not be used to introduce a list when the list flows grammatically and naturally as part of the structure of the sentence.
+The colon should not be used to introduce a list when the list flows grammatically and naturally as part of a sentence.
 
 **Example:**
 
@@ -61,7 +61,7 @@ Compare:
   
 **The water was as smooth as glass: not a breath of wind was stirring.** (Colon – the second clause explains the first.)
 
-Semicolons may be used to separate items in a list that are sentences or clauses (and that could be presented in a bulleted list with the items in the list set out on separate lines)..
+Semicolons may be used to separate items in a list that are sentences or clauses (and that could be presented in a bulleted list with the items in the list set out on separate lines).
 
 > **The project achieved the following: it reached 160,000 beneficiaries; it stayed within budget; and it provided experience on which future activities could be based.**
 {: .notice }
@@ -82,23 +82,23 @@ Follow the word index in the WFP style guide, the word list in the [United Natio
 
 The hyphen is used to link two words to form compounds, usually adjectives but also adverbs and nouns. There is a tendency to use the hyphen for this purpose mechanically and excessively. The [University of Sussex](http://www.sussex.ac.uk/informatics/punctuation/hyphenanddash/hyphen) again provides an excellent explanation of when – and why – to use hyphens, the thrust of which is that they should be used sparingly, when they are necessary to avoid confusion:
 
-The hyphen is used in writing compound words which, without the hyphen, would be ambiguous, hard to read or overly long. Here, more than anywhere else in the whole field of punctuation, there is room for individual taste and judgement; nevertheless, certain principles may be identified. These are:]
+"The hyphen is used in writing compound words which, without the hyphen, would be ambiguous, hard to read or overly long. Here, more than anywhere else in the whole field of punctuation, there is room for individual taste and judgement; nevertheless, certain principles may be identified. These are:]
 
 * Above all, strive for clarity
 * Don't use a hyphen unless it's necessary
 * Where possible, follow established usage.
 
-On this last point, consult a good dictionary
+On this last point, consult a good dictionary."
 
-In line with this advice, use a hyphen to connect two words that together function as a compound modifier (an adjective or adverb) when to do otherwise might be confusing
+In line with this advice, use a hyphen to connect two words that together function as a compound modifier (an adjective or adverb) when to do otherwise might be confusing.
 
 Example: “The short-story editor replaced the book on the shelf.” Without the hyphen one might conclude that the subject of that sentence is a story editor who happened to be short, rather than an editor of short stories as intended. If there is little likelihood of confusion omit the hyphen. Example: high school student.
 
 Example: 100-year-old trees. This refers to an unstated number of trees that are 100 years old. Without the hyphens it could refer either to that or to 100 trees that are one year old.
 
-No hyphen is needed with adverbs ending in –ly (e.g., a “badly written novel”. One is needed, however, when an adverb not ending in -ly might be mistaken for an adjective. For example, “a little-used car” may or may not be understood in the same way as “a little used car”.
+No hyphen is needed with adverbs ending in –ly (e.g., a “badly written novel”). One is needed, however, when an adverb not ending in -ly might be mistaken for an adjective. For example, “a little-used car” may or may not be understood in the same way as “a little used car”.
 
-Use hyphens to link to prefixes (e.g., post-apocalyptic) when omitting the hyphen might cause confusion. Examples: re-cover (when you mean to cover again, to avoid confusing it with recover), pre-position (when you mean to position in advance, to avoid confusing it with preposition) and un-ionized (when you mean something that has not been ionized, to avoid confusion with unionized)
+Use hyphens to link to prefixes (e.g., post-apocalyptic) when omitting the hyphen might cause confusion. Examples: re-cover (when you mean to cover again, to avoid confusing it with recover), pre-position (when you mean to position in advance, to avoid confusing it with preposition) and un-ionized (when you mean something that has not been ionized, to avoid confusion with unionized).
 
 Also use hyphens to link prefixes when omitting the hyphen would produce a word that is hard to read or subject to mispronunciation: non-negotiable; pre-empt; re-emerge. Note that prefixes should never stand alone: they must either form part of a closed word (e.g., antimicrobial) or be made part of a compound word through the use of a hyphen (e.g., anti-aircraft).
 
@@ -191,7 +191,7 @@ Use parentheses and brackets sparingly. Excessive use can impede readability.
 
 Double quotation marks are used for quoting sentences, phrases or words.
 
-As with parentheses, punctuation marks are placed inside the quotation marks only if they belong to the quotation; otherwise they are placed outside. When a full stop or other punctuation mark would apply both to the quotation and the sentence, it’s placed outside the quotation marks.
+As with parentheses, punctuation marks are placed inside the quotation marks only if they belong to the quotation; otherwise they are placed outside. When a full stop or other punctuation mark would apply both to the quotation and the sentence, it is placed outside the quotation marks.
 
 Reported speech is enclosed in double quotation marks.
 
@@ -217,4 +217,4 @@ When a quotation is interrupted by words such as she said, commas separate the i
 
 Added and omitted words in quoted text
 
-When it is necessary to insert words into a quoted passage to make the passage function grammatically, enclose the inserted words in square brackets to indicate that they are not part of the original quotation. Conversely, you should use an ellipsis (…) to indicate that you have omitted words from a quoted passage.
+When it is necessary to insert words into a quoted passage to make the passage function grammatically, enclose the inserted words in square brackets to indicate that they are not part of the original quotation. Use an ellipsis (…) to indicate that you have omitted words from a quoted passage.
