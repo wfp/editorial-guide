@@ -398,6 +398,7 @@ resource: true
 
 ### N
 
+* national zero hunger strategic review
 * nationwide
 * never-ending
 * non- compound forms hyphenated (non-aligned; non-existent; non-food)
@@ -630,6 +631,7 @@ resource: true
 * under way (not "underway"; e.g. "the project is under way")
 * United Nations (never "UN" except when reproducing a title or a quotation)
 * United Nations agencies
+* United Nations development assistance framework
 * United Nations funds and programmes
 * United Nations technical mission
 
