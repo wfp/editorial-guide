@@ -1,5 +1,5 @@
 ---
-title: Punctuation.
+title: Punctuation
 permalink: /content/punctuation/
 categories: Content
 layout: page
