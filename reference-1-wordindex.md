@@ -501,6 +501,7 @@ resource: true
 * rights-based approach
 * risk taking
 * riverbed; riverbank; riverside
+* road map
 * roll-out(noun)roll out (verb)
 * rollover (noun); roll over (verb)
 * Rome-based agency
@@ -542,7 +543,7 @@ resource: true
 * slaughterhouse (alternative: abattoir)
 * smallholder; smallholding
 * small-scale (adj.)
-* socio-: compound forms hyphenated (e.g. socio-economic)
+* compound forms hyphenated, with some exceptions such as socioeconomic
 * southern Africa (not South Africa, the country)
 * soybean
 * spill-over (noun and adj.); spill over (verb)
