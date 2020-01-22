@@ -543,7 +543,7 @@ resource: true
 * slaughterhouse (alternative: abattoir)
 * smallholder; smallholding
 * small-scale (adj.)
-* compound forms hyphenated, with some exceptions such as socioeconomic
+* socio-: compound forms hyphenated, with some exceptions such as socioeconomic
 * southern Africa (not South Africa, the country)
 * soybean
 * spill-over (noun and adj.); spill over (verb)
