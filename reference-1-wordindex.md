@@ -385,6 +385,7 @@ resource: true
 * micro- (compound forms closed, except before o (e.g. micro-organize)
 * micronutrients
 * midday
+* middle income countries (no hypen)
 * mid-term
 * mid-1970s, mid-August
 * mine-detector
