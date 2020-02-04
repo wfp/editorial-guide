@@ -18,8 +18,6 @@ When a foreign term forms part of a geographic name in English, the meaning of t
 * **Rio Grande (not Rio Grande River)**
 * **Mauna Loa (not Mount Mauna Loa)**
 
-The only countries referred to by an acronym are the Democratic People's Republic of Korea (DPRK) and the Democratic Republic of the Congo (DRC).
-
 ### Political divisions
 
 Words such as *empire, state, country, city, kingdom, colony and territory* are capitalized only when used as part of a proper name. For example:
